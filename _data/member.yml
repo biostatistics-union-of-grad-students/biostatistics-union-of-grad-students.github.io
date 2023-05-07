@@ -1,23 +1,61 @@
 - desc: Current Master
   type: current
   list:
-<<<<<<< HEAD
-=======
-    - file: Mohammad_Reza_Fahimi.jpg
+  - file: team-01.jpg
+    name: Aoqi Xie
+    supervisor: Practicum - Dr. Victoria Landsman <\br>
+                Thesis- Dr. Clement Ma
+    year: 1st Year MSc (Thesis)
+    link: 'https://www.linkedin.com/in/aoqi-xie-708811208/'
+
+  - file: April_Cheng.jpg
+    name: April Yang Cheng
+    supervisor:
+    year: 1st Year MSc
+    link: 'https://www.linkedin.com/in/aprilyangcheng/'
+
+  - file: Yutong_Chen.jpg
+    name: Betty Chen
+    supervisor: Rahim Moineddin & Christopher Meaney
+    year: 1st Year MSc
+    link: 'http://www.linkedin.com/in/betty-yc'
+
+  - file: team-01.jpg
+    name: Charlotte Chen
+    supervisor:
+    year: 1st Year MSc
+    link:
+
+  - file: team-01.jpg
+    name: ChenNingZhi Sheng
+    supervisor: Rafal Kustra
+    year: 1st Year MSc
+    link: 'www.linkedin.com/in/kara-sheng-2a77461b1'
+
+  - file: team-01.jpg
+    name: Luis Ledesma
+    supervisor: Eleanor Pullenayegum
+    year: 2nd Year MSc (Thesis)
+    link: 'https://www.linkedin.com/in/luisledes/'
+
+  - file: team-01.jpg
+    name: Luis Ledesma
+    supervisor: Eleanor Pullenayegum
+    year: 2nd Year MSc (Thesis)
+    link: 'https://www.linkedin.com/in/luisledes/'
+
+  - file: team-01.jpg
     name: Zunaira Mehmood
     supervisor: test1 misc 
     year: 1st Year MSc
     link: 'https://www.linkedin.com/in/zunairamehmood/'
-  - file: Zhou_Wei.HEIC
-    name: Zhou Wei
-    supervisor:  
-    year: 1st Year MSc_AI/DS
-    link: 'https://www.linkedin.com/in/zhuo-lilian-wei/'
+
   - file: Yushu_Zou.jpg
     name: Yushu Zou
     supervisor:  
     year: 1st Year MSc
     link: 'https://www.linkedin.com/in/yushu-zou/'
+
   - file: Yuan_Bian.jpg
     name: Yuan Bian
     supervisor: test1 misc 
@@ -69,6 +107,12 @@
     position: Statistical Consultant at Amaris Consulting
     year: 2020-2021
     link: https://www.linkedin.com/in/qiao-li-95079aab/?originalSubdomain=ca
+
+  - file: Zhou_Wei.HEIC
+    name: Zhou Wei
+    supervisor:
+    year: 2020-2021 (AI/DS)
+    link: 'https://www.linkedin.com/in/zhuo-lilian-wei/'
     
 - desc: PhD Alumni
   type: alumni

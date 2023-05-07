@@ -5,188 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69aedd77-7421-4c54-8ab2-314b8d43b308" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/.Rhistory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/gallery.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/gallery.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/member.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/member.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/archive.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/atom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog-sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-sample.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/headers.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/headers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/misc/2022/11/01/Vol-Methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/misc/2022/11/01/Vol-Methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/ads.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/archive.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/css/jasny-bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/css/maps.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/css/owl.carousel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/css/owl.theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/css/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/css/scrolling-nav.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/css/test.xss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/fonts/bootstrapThemesCo-icon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/fonts/bootstrapThemesCo-icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/fonts/bootstrapThemesCo-icon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/fonts/bootstrapThemesCo-icon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/flicker/img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/flicker/img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/flicker/img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/flicker/img4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/flicker/img5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/flicker/img6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/gallery/Question_post.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/gallery/img-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/gallery/img-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/gallery/img-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/gallery/img-05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/gallery/img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/gallery/img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/gallery/img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/gallery/img4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/gallery/img5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/gallery/img6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/helium-jekyll.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/helium-screenshot.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/helium-screenshot1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/helium-theme-post.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/hello-world.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/helloworld.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/index/Toronto_main.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/index/hero-1-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/jekyll-logo-light-solid.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/lessons/2014/02/10/jekyll-intro-blur.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/lessons/2014/02/10/jekyll-intro.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/lessons/2014/02/13/syntax-highlight-example-blur.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/lessons/2014/02/13/syntax-highlight-example.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/lessons/2016/01/17/testing-locally-blur.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/lessons/2016/01/17/testing-locally.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/logo-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/logos/BUGSLogo_enlarged.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/logos/Biostats_logo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/logos/DLSPH_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/logos/UofT_transprant.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/logos/UofT_transprant_large.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/markdown-samples.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/members/Erik.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/members/Jasper_zhang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/members/Jenny_Li.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/members/Larry_dong.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/members/Linke_Li.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/members/Linke_Li2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/members/Qiao Li.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/members/Shiyao_ying.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/members/ThaiSon_square.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/members/Ziqian_Zhuang .JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/members/team-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/post/Proposal_defense_post.avif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/post/Seminar_post.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/post/Social_event_post.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/post/Social_post.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/post/default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/post/misc_logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/post/misc_logo_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/bg-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/bg-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/bg-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/blog/img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/blog/img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/blog/img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/blog/img4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/blog/img5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/blog/img6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img-04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img-05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img-06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img-07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img-08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/img7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/large-slider1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/slider/large-slider2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/social-image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/images/syntax-hightlight.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/about-sample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/contact-form-script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/form-validator.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/jasny-bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/jquery.countTo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/jquery.easing.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/jquery.mixitup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/jquery.nav.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/maps.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/owl.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/portfolio.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/progress-bar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/scrolling-nav.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/sliders.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/test.ex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/assets/js/tether.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/atom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/blog-sample.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/headers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/misc/2022/11/01/Vol-Methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/portfolio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/proposal defense/2022/09/14/Develop-Novel-Statistical-Methods-for-Analyzing-Longread-Sequencing-Data.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/proposal defense/2022/12/22/Robust-Genetic-Association-Testing-Approaches-Accounting-for-Heterogeneity-copy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/proposal defense/2022/12/23/Efficient.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/publication.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/rss.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/seminar/2022/11/11/Precision-Public-Health-in-Canada,-Hurdles-and-Opportunities.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/sitemap.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/social event/2022/11/09/November-BUGS-Potluck-Social.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/output/team.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/proposal defense/2022/09/14/Develop-Novel-Statistical-Methods-for-Analyzing-Longread-Sequencing-Data.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/proposal defense/2022/09/14/Develop-Novel-Statistical-Methods-for-Analyzing-Longread-Sequencing-Data.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/proposal defense/2022/12/22/Robust-Genetic-Association-Testing-Approaches-Accounting-for-Heterogeneity-copy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/proposal defense/2022/12/22/Robust-Genetic-Association-Testing-Approaches-Accounting-for-Heterogeneity-copy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/proposal defense/2022/12/23/Efficient.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/proposal defense/2022/12/23/Efficient.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/publication.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publication.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/rss.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/rss.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/seminar/2022/11/11/Precision-Public-Health-in-Canada,-Hurdles-and-Opportunities.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/seminar/2022/11/11/Precision-Public-Health-in-Canada,-Hurdles-and-Opportunities.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/social event/2022/11/09/November-BUGS-Potluck-Social.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/social event/2022/11/09/November-BUGS-Potluck-Social.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -205,18 +30,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -226,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683472352578</updated>
       <workItem from="1683472354886" duration="1296000" />
+      <workItem from="1683480907615" duration="1205000" />
     </task>
     <servers />
   </component>
