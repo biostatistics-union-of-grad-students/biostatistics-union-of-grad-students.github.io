@@ -3,8 +3,8 @@
   list:
   - file: team-01.jpg
     name: Aoqi Xie
-    supervisor: Practicum - Dr. Victoria Landsman <\br>
-                Thesis- Dr. Clement Ma
+    supervisor: Practicum - Dr. Victoria Landsman </br>
+                Thesis - Dr. Clement Ma
     year: 1st Year MSc (Thesis)
     link: 'https://www.linkedin.com/in/aoqi-xie-708811208/'
 
@@ -38,29 +38,57 @@
     year: 2nd Year MSc (Thesis)
     link: 'https://www.linkedin.com/in/luisledes/'
 
-  - file: team-01.jpg
-    name: Luis Ledesma
-    supervisor: Eleanor Pullenayegum
+  - file: Mohammad_Reza_Fahimi.jpg
+    name: Mohammad Reza Fahimi
+    supervisor: Dr. Osvaldo Espin-Garcia </br> Dr. Aya Mitani
+    year: 1st Year MSc (Thesis)
+    link: 'https://www.linkedin.com/in/mohammad-reza-fahimi-48a67020b/'
+
+  - file: Mu_Yang.jpg
+    name: Mu Yang
+    supervisor: Dr. Daniel Felsky
     year: 2nd Year MSc (Thesis)
-    link: 'https://www.linkedin.com/in/luisledes/'
+    link: 'linkedin.com/in/mu-yang-432954171'
 
   - file: team-01.jpg
-    name: Zunaira Mehmood
-    supervisor: test1 misc 
+    name: Peiyu Li
+    supervisor: Practicum - Aya Mitani, </br> Chun-Po Steve Fan, </br> Sudipta Saha
     year: 1st Year MSc
-    link: 'https://www.linkedin.com/in/zunairamehmood/'
+    link: 'https://www.linkedin.com/in/peiyu-li-76a734235/'
+
+  - file: team-01.jpg
+    name: Shijie Min
+    supervisor: Practicum - Aya Mitani, Kuan Liu </br> Thesis - Hu
+    year: 1st Year MSc (Thesis)
+    link:
+
+  - file: Jennifer_Su.jpg
+    name: Yi-chen Su
+    supervisor: Practicum - Huan Jiang
+    year: 1st Year MSc (AI/DS)
+    link:
+
+  - file: Yu-Chun(Gingin)_Chien.jpg
+    name: Yu-Chun (Gingin) Chien
+    supervisor: Melanie Poulin-Costello
+    year: 1st Year MSc
+    link: 'https://www.linkedin.com/in/yuchunchien/'
 
   - file: Yushu_Zou.jpg
     name: Yushu Zou
-    supervisor:  
-    year: 1st Year MSc
+    supervisor:
+    year: 1st Year MSc (Thesis)
     link: 'https://www.linkedin.com/in/yushu-zou/'
 
-  - file: Yuan_Bian.jpg
-    name: Yuan Bian
-    supervisor: test1 misc 
-    year: The first img
-    link: 'https://yuanbian.netlify.app/'
+  - file: team-01.jpg
+    name: Zunaira Mehmood
+    supervisor:
+    year: 1st Year MSc
+    link: 'https://www.linkedin.com/in/zunairamehmood/'
+
+
+
+
 
 - desc: Current PhD
   type: current
@@ -77,18 +105,21 @@
     year: 3rd Year PhD
     research: 'Research Interest: Bayesian decision theory, Health economics'
     link: https://www.linkedin.com/in/linke-li-596390107/?originalSubdomain=ca
+
   - file: Larry_Dong.jpg
     name: Larry Dong
     supervisor: 'Supervisor: Olli Saarela' 
     year: 3rd Year PhD
     research: 'Research Interest: Causal inference, Image analysis, Bayesian methods'
     link: https://larrydong.com/
-  - file: Ziqian_Zhuang .jpg
+
+  - file: Ziqian_Zhuang .JPG
     name: Ziqian Zhuang
     supervisor: 'Supervisor: Wei Xu' 
     year: 3rd Year PhD
     research: 'Research Interest: Survival analysis, Statistical genetics, Machine learning'
-    link: https://larrydong.com/
+    link:
+
   - file: Jenny_Li.jpg
     name: Yao Li
     supervisor: 'Supervisor: Wei Xu' 
@@ -102,17 +133,25 @@
 - desc: Master Alumni
   type: alumni
   list:
+  - file: Yuan_Bian.jpg
+    name: Yuan Bian
+    position: PhD candidate in Western University
+    year: 2017-2020
+    link: 'https://yuanbian.netlify.app/'
+
   - file: Qiao Li.jpg
     name: Li Qiao
     position: Statistical Consultant at Amaris Consulting
     year: 2020-2021
     link: https://www.linkedin.com/in/qiao-li-95079aab/?originalSubdomain=ca
 
-  - file: Zhou_Wei.HEIC
+  - file: Zhou_Wei.jpg
     name: Zhou Wei
-    supervisor:
-    year: 2020-2021 (AI/DS)
+    position: Statistical Consultant at Amaris Consulting
+    year: 2020-2021
     link: 'https://www.linkedin.com/in/zhuo-lilian-wei/'
+
+
     
 - desc: PhD Alumni
   type: alumni
