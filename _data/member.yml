@@ -99,6 +99,7 @@
     year: 1st Year PhD
     research: 'Research Interest: Survival analysis, Deep learning, Health economics'
     link: https://jasperzhang.com/
+
   - file: Linke_Li2.jpg
     name: Linke Li
     supervisor: 'Supervisor: Anna Heath'
@@ -136,36 +137,72 @@
   - file: Yuan_Bian.jpg
     name: Yuan Bian
     position: PhD candidate in Western University
-    year: 2017-2020
+    year: 2017 - 2020
     link: 'https://yuanbian.netlify.app/'
+
+  - file: Ashley_Mao.jpeg
+    name: Ashley Mao
+    position:  Data Scientist at Roche
+    year: 2019 - 2020
+    link: 'https://www.linkedin.com/in/ashleymaohuiyan/'
+
+  - file: team-01.jpg.jpeg
+    name: Jiachen (Jason) Zhu
+    position:  Data Engineer at Roche
+    year: 2019 - 2020
+    link: 'https://www.linkedin.com/in/jiachen-jason-zhu-333412157/'
+
+  - file: Rebbeca_Du.jpeg
+    name: Jingwen (Rebecca) Du
+    position:  Statistical Programmer at Everest Clinical Research
+    year: 2019 - 2020
+    link: 'https://www.linkedin.com/in/jingwen-rebecca-du-a9056217a/'
+
+  - file: Siyi_Wang.jpeg
+    name: Siyi Wang
+    position:  Research Data Scientist at St. Michael's Hospital
+    year: 2019 - 2022
+    link: 'linkedin.com/in/siyi-wang-667595211'
+
+  - file: Jiayue(Edith)_Yu.jpeg
+    name: Jiayue (Edith) Yu
+    position: Research Associate - Evidence Generation at Cytel
+    year: 2020 - 2021
+    link: 'https://www.linkedin.com/in/jiayue-edith-yu/'
 
   - file: Qiao Li.jpg
     name: Li Qiao
     position: Statistical Consultant at Amaris Consulting
-    year: 2020-2021
-    link: https://www.linkedin.com/in/qiao-li-95079aab/?originalSubdomain=ca
+    year: 2020 - 2021
+    link: 'https://www.linkedin.com/in/qiao-li-95079aab/?originalSubdomain=ca'
 
   - file: Zhou_Wei.jpg
     name: Zhou Wei
     position: Statistical Consultant at Amaris Consulting
-    year: 2020-2021
+    year: 2020 - 2021
     link: 'https://www.linkedin.com/in/zhuo-lilian-wei/'
 
+  - file: Jocelyn(Ziming)_Chen.jpeg
+    name:  Ziming(Jocelyn) Chen
+    position:  Biostatistician at AstraZeneca
+    year: 2021 - 2022
+    link: 'https://www.linkedin.com/in/ziming-jocelyn-chen-428053124/?originalSubdomain=cn'
 
-    
+
+
 - desc: PhD Alumni
   type: alumni
   list:
   - file: team-01.jpg
     name: Kuan Liu
     position: Assistant Professor at Univeristy of Toronto
-    year: 2015-2021
+    year: 2015 - 2021
     link: https://www.kuan-liu.com/
 
   - file: team-01.jpg
     name: Zihang Lu
     position: Assistant Professor at Queen's University
-    year: 2015-2020
+    year: 2015 - 2020
     link: https://zihanglu.com/current-students/
 
 
