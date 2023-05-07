@@ -1,0 +1,115 @@
+---
+layout: index
+title: People
+group: navigation
+tagline:
+tags : [team, components]
+img :
+img-mobile :
+author : Congwei Chen
+css:
+js:
+keywords: components, demo
+
+---
+{% include JB/setup %}
+<!-- Content Area Start -->
+<div id="content">
+  <div class="container">
+    <!-- row start -->
+    <div class="row">
+      <div class="col-md-12">
+        <div class="page-header-title">
+          <h2 class="heading-title text-center">People</h2>
+        </div>
+        <!-- Team Members 02 -->
+        {% for members in site.data.member %}
+        <div class="team-members mtb-50">
+        {% if members.type == "current" %}
+          <div class="sub-title">
+            <span>{{ members.desc }}</span>
+          </div>
+          <div class="row">
+            {% for member in members.list %}
+            <div class="col-sm-6 col-md-3">
+              <!-- Team Item Starts -->
+              <div class="team-item">
+                <figure class="team-profile">
+                  <img src="{{ site.url }}/assets/images/members/{{ member.file | strip_html }}" alt=""
+                    style="object-fit: cover; aspect-ratio: 1/1;">
+                  {% if member.link and member.link.size != 0 %}
+                  <a href="{{ member.link | strip_html }}""> 
+                          <figcaption class=" our-team">
+                    </figcaption>
+                  </a>
+                  {% endif %}
+                </figure>
+                <div class="info">
+                  <h2>
+                    {{ member.name }}
+                  </h2>
+                  <p class="mb-1">
+                    {{ member.year }}
+                  </p>
+                  <p class="mb-1">
+                    {{ member.supervisor }}
+                  </p>
+                  <p>
+                    {{ member.research }}
+                  </p>
+                </div>
+              </div>
+              <!-- Team Item Ends -->
+            </div>
+            {% endfor %}
+          </div>
+
+          {% elsif members.type == "alumni" %}
+          <div class="sub-title">
+            <span>{{ members.desc }}</span>
+          </div>
+
+
+          <!-- Table Style 2 -->
+          <div class="table-style2">
+            <div class="table-responsive mtb">
+              <table class="table table-bordered table-2 table-striped">
+                <thead>
+                  <tr>
+                    <th>Name</th>
+                    <th>Year</th>
+                    <th>Current Position</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for member in members.list %}
+                  <tr>
+                    {% if member.link and member.link.size != 0 %}
+                    <td><a href="{{ member.link }}">{{ member.name }}</a></td>
+                    {% else %}
+                    <td>{{ member.name }}</td>
+                    {% endif %}
+                    <td>{{ member.year }}</td>
+                    <td>{{ member.position }}</td>
+                  </tr>
+                  {% endfor %}
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <div class="mb-60">&nbsp;</div>
+
+
+
+
+
+          {% endif %}
+          {% endfor %}
+        </div>
+        <!-- End Team Members 02 -->
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Content Area End -->

@@ -1,0 +1,85 @@
+---
+layout: index
+title: Gallerys
+group: navigation
+tagline:
+tags : [portfolio, components]
+img :
+img-mobile :
+author : Congwei Chen
+css:
+js: portfolio.js
+keywords: components, demo
+
+---
+{% include JB/setup %}
+<!-- Content Area Start -->
+<div id="content">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="page-header-title">
+          <h2 class="heading-title text-center">Gallery</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Portfolio Section -->
+  <section id="portfolio" class="section">
+    <!-- Container Starts -->
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <!-- Portfolio Controller/Buttons -->
+          <div class="controls text-center wow fadeInUpQuick" data-wow-delay=".6s">
+            <a class="filter active btn btn-common" data-filter="all">
+              All
+            </a>
+            <a class="filter btn btn-common" data-filter=".test1">
+              test1
+            </a>
+            <a class="filter btn btn-common" data-filter=".test2">
+              test2
+            </a>
+            <a class="filter btn btn-common" data-filter=".test3">
+              test3
+            </a>
+            <a class="filter btn btn-common" data-filter=".misc">
+              misc
+            </a>
+          </div>
+          <!-- Portfolio Controller/Buttons Ends-->
+        </div>
+
+        <!-- Portfolio Recent Projects -->
+
+        <div id="portfolio" class="row wow fadeInUpQuick" data-wow-delay="0.8s">
+
+        {% for image in site.data.gallery %}
+          <div class="col-6 mix {{ image.label | strip_html }}">
+            <div class="portfolio-item">
+              <div class="portfolio-img">
+                <img src="{{ site.url }}/assets/images/gallery/{{ image.file }}" alt="" style="object-fit: cover; aspect-ratio: 3/2;">
+              </div>
+              <div class="portfoli-content">
+                <div class="sup-desc-wrap">
+                  <div class="sup-desc-inner">
+                    <div class="sup-meta-wrap">
+                      <a class="sup-title" href="#">
+                        <h4>{{ image.title | strip_html }}</h4>
+                      </a>
+                      <p class="sup-description text-left">{{ image.text }}</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    <!-- Container Ends -->
+  </section>
+  <!-- Portfolio Section Ends -->
+</div>

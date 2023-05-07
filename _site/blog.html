@@ -1,0 +1,424 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Blog</title>
+    
+    <meta name="author" content="Congwei Chen">    
+    <meta name="keywords" content="bootstrap4, UI kit, jekyll">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+
+    <!--Google Font link-->
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
+ <!--Helium css-->
+        <link rel="stylesheet" href="http://localhost:4000/assets/css/animate.css">
+        <link rel="stylesheet" href="http://localhost:4000/assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="http://localhost:4000/assets/css/font-awesome.min.css">
+        <link rel="stylesheet" href="http://localhost:4000/assets/css/jasny-bootstrap.min.css">
+        <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+        <link rel="stylesheet" href="http://localhost:4000/assets/css/owl.carousel.css">
+        <link rel="stylesheet" href="http://localhost:4000/assets/css/owl.theme.css">
+        <link rel="stylesheet" href="http://localhost:4000/assets/css/responsive.css">
+        <link rel="stylesheet" href="http://localhost:4000/assets/css/scrolling-nav.css">	  
+
+	<!-- CSS loaded by the children page -->
+        
+
+    <meta property="og:title" content="Blog">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="http://localhost:4000/assets/img/big/">
+    <meta property="og:url" content="http://localhost:4000">
+    <meta name="twitter:card" content="summary_large_image">
+
+	<!--[if IE]>
+		<script type="text/javascript">
+			 var console = { log: function() {} };
+		</script>
+	<![endif]-->
+    <link href="http://localhost:4000atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="http://localhost:4000rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+  </head>
+  <body>
+  <div class="wrapper">	  	  
+      <!--Home page style--> 
+                  <div class="top-menu">
+              <p>
+                <span class="left">
+                  <a href="#"><i class="fa fa-map-marker"></i>Ontario, Toronto</a>
+                  <!-- <a href="#"><i class="fa fa-mobile-phone"></i>+9 34476 3244</a> -->
+                  <a href="#"><i class="fa fa-envelope"></i>eric.sanders@mail.utoronto.ca</a>
+              	</span>
+                <span class="right hidden-sm-down">                          
+                  
+                  
+                  
+                                              
+              	</span>
+              </p>
+            </div>
+
+            <!-- navbar-default -->
+            <script>
+              $(function() {
+                  $(".dropdown-toggle").hover(
+                    function(){ $(this).collapse({toggle: true}) },
+                    function(){ $(this).collapse({toggle: false}) },
+                  );
+              });
+          </script>
+            <nav class="navbar navbar-toggleable-sm navbar-light bg-default">
+              <div class="container">
+                <a class="navbar-brand" href="http://localhost:4000"><img src="http://localhost:4000/assets/images/logos/DLSPH_logo.png" alt=""></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1" aria-expanded="false" aria-label="Toggle navigation">
+                  <i class="fa fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse justify-content-end" id="navbar1">
+                  <ul class="navbar-nav">
+                    
+                    
+                    
+
+
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li class="nav-item"><a class="nav-link" href="http://localhost:4000/about">About</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li class="nav-item"><a class="nav-link" href="http://localhost:4000/archive">Archive</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li class="nav-item active"><a class="nav-link" href="http://localhost:4000/blog">Blog</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li class="nav-item"><a class="nav-link" href="http://localhost:4000/portfolio">Gallerys</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li class="nav-item"><a class="nav-link" href="http://localhost:4000/publication">Publication</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li class="nav-item"><a class="nav-link" href="http://localhost:4000/team">People</a></li>
+      	
+      
+    
+  
+
+
+
+                    <!-- <div class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" id="blogDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="blog">Blog</a>
+                      <div class="dropdown-menu" aria-labelledby="blogDropdown">
+                        <a class="dropdown-item" href="blog">All Blogs</a>
+                        <a class="dropdown-item" href="blog?tag=social">Social Events</a>
+                        <a class="dropdown-item" href="blog?tag=defense">Proposal Defenses</a>
+                        <a class="dropdown-item" href="blog?tag=seminar">Seminars</a>
+                        <a class="dropdown-item" href="blog?tag=misc">Misc</a>
+                      </div>
+                    </div> -->
+                  </ul>
+                </div>
+              </div>
+            </nav>
+  
+      
+
+  <!-- Blog content + sidebar -->
+  <div class="mb-60"></div>
+
+  <div class="sticky-top" style="background: #fff;">
+    <div class="controls text-center wow fadeInUpQuick sticky-top" data-wow-delay=".6s">
+      <a class="filter active btn btn-common" data-filter="all">
+        All
+      </a>
+      
+      
+      <a class="filter btn btn-common" data-filter=".Proposal_Defense">
+        Proposal Defense
+      </a>
+      
+      
+      <a class="filter btn btn-common" data-filter=".Misc">
+        Misc
+      </a>
+      
+      
+      <a class="filter btn btn-common" data-filter=".Social_Event">
+        Social Event
+      </a>
+      
+      
+      <a class="filter btn btn-common" data-filter=".Seminar">
+        Seminar
+      </a>
+      
+    </div>
+  </div>
+  <section class="blog">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-12">
+
+           
+
+        <!-- Portfolio Recent Projects -->
+        <div id="portfolio" class="row wow fadeInUpQuick" data-wow-delay="0.8s" style="background-color: unset;">
+
+          
+          
+          
+          <div class="blog-block post-content-area mix Proposal_Defense">
+           	  
+                  <img src="http://localhost:4000/assets/images/post/Proposal_defense_post.avif" alt="Efficient image" style="object-fit: cover; aspect-ratio: 12/5;">
+            	  
+                  <div class="blog-post">
+                    <h3><a href="http://localhost:4000/proposal%20defense/2022/12/23/Efficient">Efficient</a></h3>
+              <p>
+<p><strong>Presenter</strong>: Boxi Lin</p>
+
+<p><strong>Supervisory Committee:</strong> Lei Sun (Supervisor), Lisa Strug, and Shelley Bull</p>
+
+<p><strong>Date and Time</strong>:  Tuesday, December 20, 2022, 10am-12noon EST</p>
+
+<p><strong>Location</strong>: 155 College Street, Health Science Building, Room 790</p>
+
+</p>
+                    <a class="btn btn-common" href="http://localhost:4000/proposal%20defense/2022/12/23/Efficient">Read More</a>
+                  </div>
+                </div>
+          <div class="mb-60"></div>
+      
+          
+          
+          <div class="blog-block post-content-area mix Proposal_Defense">
+           	  
+                  <img src="http://localhost:4000/assets/images/post/Proposal_defense_post.avif" alt="Robust Genetic Association Testing Approaches Accounting For Heterogeneity copy image" style="object-fit: cover; aspect-ratio: 12/5;">
+            	  
+                  <div class="blog-post">
+                    <h3><a href="http://localhost:4000/proposal%20defense/2022/12/22/Robust-Genetic-Association-Testing-Approaches-Accounting-for-Heterogeneity-copy">Robust Genetic Association Testing Approaches Accounting For Heterogeneity copy</a></h3>
+              <p>
+<p><strong>Presenter</strong>: Boxi Lin</p>
+
+<p><strong>Supervisory Committee:</strong> Lei Sun (Supervisor), Lisa Strug, and Shelley Bull</p>
+
+<p><strong>Date and Time</strong>:  Tuesday, December 20, 2022, 10am-12noon EST</p>
+
+<p><strong>Location</strong>: 155 College Street, Health Science Building, Room 790</p>
+
+</p>
+                    <a class="btn btn-common" href="http://localhost:4000/proposal%20defense/2022/12/22/Robust-Genetic-Association-Testing-Approaches-Accounting-for-Heterogeneity-copy">Read More</a>
+                  </div>
+                </div>
+          <div class="mb-60"></div>
+      
+          
+          
+          <div class="blog-block post-content-area mix Seminar">
+           	  
+                  <img src="http://localhost:4000/assets/images/post/Seminar_post.jpg" alt="Precision Public Health In Canada, hurdles And Opportunities image" style="object-fit: cover; aspect-ratio: 12/5;">
+            	  
+                  <div class="blog-post">
+                    <h3><a href="http://localhost:4000/seminar/2022/11/11/Precision-Public-Health-in-Canada,-Hurdles-and-Opportunities">Precision Public Health In Canada, hurdles And Opportunities</a></h3>
+              <p>
+<p><strong>Presenter</strong>: Dr. Zahra Shakeri, University of Toronto</p>
+
+<p><strong>Date and Time</strong>:  Tuesday, November 8, 2022, 3-4 PM EST</p>
+
+<p><strong>Location</strong>: https://www.dlsph.utoronto.ca/event/biostatistics-seminar-series-with-dr-zahra-shakeri-on-precision-public-health/</p>
+
+</p>
+                    <a class="btn btn-common" href="http://localhost:4000/seminar/2022/11/11/Precision-Public-Health-in-Canada,-Hurdles-and-Opportunities">Read More</a>
+                  </div>
+                </div>
+          <div class="mb-60"></div>
+      
+          
+          
+          <div class="blog-block post-content-area mix Social_Event">
+           	  
+                  <img src="http://localhost:4000/assets/images/post/Social_event_post.png" alt="November Bugs Potluck Social image" style="object-fit: cover; aspect-ratio: 12/5;">
+            	  
+                  <div class="blog-post">
+                    <h3><a href="http://localhost:4000/social%20event/2022/11/09/November-BUGS-Potluck-Social">November Bugs Potluck Social</a></h3>
+              <p>
+<p><strong>Date and Time</strong>:  Thursday, November 24, 2022, 4:30am-7:30noon EST</p>
+
+<p><strong>Location</strong>: 155 College Street, Health Science Building, Room 700</p>
+
+</p>
+                    <a class="btn btn-common" href="http://localhost:4000/social%20event/2022/11/09/November-BUGS-Potluck-Social">Read More</a>
+                  </div>
+                </div>
+          <div class="mb-60"></div>
+      
+          
+          
+          <div class="blog-block post-content-area mix Misc">
+           	  
+                  <img src="http://localhost:4000/assets/images/post/misc_logo_2.jpg" alt="Vol Methods image" style="object-fit: cover; aspect-ratio: 12/5;">
+            	  
+                  <div class="blog-post">
+                    <h3><a href="http://localhost:4000/misc/2022/11/01/Vol-Methods">Vol Methods</a></h3>
+              <p>
+<p><strong>Presenter</strong>: Dr. Anna Heath, University of Toronto</p>
+
+<p><strong>Date and Time</strong>:  Tuesday, November 1, 2022, 3-4 PM EST</p>
+
+<p><strong>Location</strong>: 155 College Street, Health Science Building, Room 790</p>
+
+</p>
+                    <a class="btn btn-common" href="http://localhost:4000/misc/2022/11/01/Vol-Methods">Read More</a>
+                  </div>
+                </div>
+          <div class="mb-60"></div>
+      
+          
+          
+          <div class="blog-block post-content-area mix Proposal_Defense">
+           	  
+                  <img src="http://localhost:4000/assets/images/post/Proposal_defense_post.avif" alt="Develop Novel Statistical Methods For Analyzing Longread Sequencing Data image" style="object-fit: cover; aspect-ratio: 12/5;">
+            	  
+                  <div class="blog-post">
+                    <h3><a href="http://localhost:4000/proposal%20defense/2022/09/14/Develop-Novel-Statistical-Methods-for-Analyzing-Longread-Sequencing-Data">Develop Novel Statistical Methods For Analyzing Longread Sequencing Data</a></h3>
+              <p>
+<p><strong>Presenter</strong>: Gengming He</p>
+
+<p><strong>Supervisory Committee:</strong>  Lisa Strug (Supervisor), Lei Sun, and Dehan Kong</p>
+
+<p><strong>Date and Time:</strong>  Wednesday, September 14, 2022, 1-3pm EDT</p>
+
+<p><strong>Zoom Meeting Info:</strong>  https://utoronto.zoom.us/j/83156954317</p>
+
+</p>
+                    <a class="btn btn-common" href="http://localhost:4000/proposal%20defense/2022/09/14/Develop-Novel-Statistical-Methods-for-Analyzing-Longread-Sequencing-Data">Read More</a>
+                  </div>
+                </div>
+          <div class="mb-60"></div>
+      
+        </div>
+
+
+
+
+
+               
+
+        <!-- </div> -->
+
+    
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+	  <br />
+            <!-- Footer -->
+      <footer class="default-footer text-center">
+        <div class="container">
+          <img class="mb-40 footer-logo" src="http://localhost:4000/assets/images/logos/UofT_transprant_large.png" alt="" style="object-fit: cover; height: 150px;">
+          <span class="copy-right dis-blk">Made with <a target="_blank" href="https://heliumjk.github.io/">Helium Jekyll</a> theme and <i class="fa fa-heart cyan-color"></i> by <a target="_blank" href="https://www.linkedin.com/in/c0n6w3i/"><b>Congwei Chen</b></a> and <a target="_blank" href="https://www.linkedin.com/in/linke-li-596390107/?originalSubdomain=ca/"><b>Linke Li</b></a></span>
+        </div>
+      </footer>
+
+  </div>
+  
+  
+
+
+
+
+        <!-- JS includes -->
+
+        <script src="http://localhost:4000/assets/js/jquery.min.js"></script>
+        <script src="http://localhost:4000/assets/js/jquery.nav.js"></script>
+	<script src="http://localhost:4000/assets/js/owl.carousel.min.js"></script>
+        <script src="http://localhost:4000/assets/js/form-validator.min.js"></script>	  
+        <script src="http://localhost:4000/assets/js/contact-form-script.js"></script>
+        <script src="http://localhost:4000/assets/js/jasny-bootstrap.min.js"></script>
+        <script src="http://localhost:4000/assets/js/jquery.mixitup.js"></script>	  
+        <script src="http://localhost:4000/assets/js/jquery.countTo.js"></script>
+        <script src="http://localhost:4000/assets/js/jquery.easing.min.js"></script>
+        <script src="http://localhost:4000/assets/js/main.js"></script>	
+        <script src="http://localhost:4000/assets/js/scrolling-nav.js"></script>
+        <script src="http://localhost:4000/assets/js/tether.min.js"></script>
+        <script src="http://localhost:4000/assets/js/bootstrap.min.js"></script>
+
+	<!-- ********************* Grads SCRIPTING ******************************-->
+	<!--Custom script loaded by children page-->
+	<script src="http://localhost:4000/assets/js/portfolio.js"></script>
+
+
+	  
+  </body>
+</html>
+

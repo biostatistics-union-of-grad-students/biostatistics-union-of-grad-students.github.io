@@ -1,0 +1,104 @@
+- desc: Current Master
+  type: current
+  list:
+  - file: team-01.jpg
+    name: title-1.jpg
+    supervisor: test1 misc 
+    year: The first img
+    link: test
+  - file: team-01.jpg
+    name: title-1.jpg
+    supervisor: test1 misc 
+    year: The first img
+    link: test
+  - file: team-01.jpg
+    name: title-1.jpg
+    supervisor: test1 misc 
+    year: The first img
+    link: test
+  - file: team-01.jpg
+    name: title-1.jpg
+    supervisor: test1 misc 
+    year: The first img
+    link: test
+
+
+- desc: Current PhD
+  type: current
+  list:
+  - file: Jasper_zhang.jpg
+    name: Zhongyuan Zhang
+    supervisor: 'Supervisor: Wei Xu'
+    year: 1st Year PhD
+    research: 'Research Interest: Survival analysis, Deep learning, Health economics'
+    link: https://jasperzhang.com/
+  - file: Linke_Li2.jpg
+    name: Linke Li
+    supervisor: 'Supervisor: Anna Heath'
+    year: 3rd Year PhD
+    research: 'Research Interest: Bayesian decision theory, Health economics'
+    link: https://www.linkedin.com/in/linke-li-596390107/?originalSubdomain=ca
+  - file: Larry_Dong.jpg
+    name: Larry Dong
+    supervisor: 'Supervisor: Olli Saarela' 
+    year: 3rd Year PhD
+    research: 'Research Interest: Causal inference, Image analysis, Bayesian methods'
+    link: https://larrydong.com/
+  - file: Ziqian_Zhuang .jpg
+    name: Ziqian Zhuang
+    supervisor: 'Supervisor: Wei Xu' 
+    year: 3rd Year PhD
+    research: 'Research Interest: Survival analysis, Statistical genetics, Machine learning'
+    link: https://larrydong.com/
+  - file: Jenny_Li.jpg
+    name: Yao Li
+    supervisor: 'Supervisor: Wei Xu' 
+    year: 3rd Year PhD
+    research: 'Research Interest: Causal inference, Machine learning'
+    link: https://www.linkedin.com/in/yao-li-a15b2884/?originalSubdomain=ca
+
+
+
+
+- desc: Master Alumni
+  type: alumni
+  list:
+  - file: Qiao Li.jpg
+    name: Li Qiao
+    position: Statistical Consultant at Amaris Consulting
+    year: 2020-2021
+    link: https://www.linkedin.com/in/qiao-li-95079aab/?originalSubdomain=ca
+    
+- desc: PhD Alumni
+  type: alumni
+  list:
+  - file: team-01.jpg
+    name: Kuan Liu
+    position: Assistant Professor at Univeristy of Toronto
+    year: 2015-2021
+    link: https://www.kuan-liu.com/
+
+  - file: team-01.jpg
+    name: Zihang Lu
+    position: Assistant Professor at Queen's University
+    year: 2015-2020
+    link: https://zihanglu.com/current-students/
+
+
+- desc: Executive Team
+  type: executive
+  list:
+  # - file: Erik.jpg
+  #   name: title-1.jpg
+  #   position: <br>
+  - file: Jasper_zhang.jpg
+    name: Zhongyuan Zhang
+    position: Co-President
+    link: https://jasperzhang.com/
+
+  - file: Linke_Li2.jpg
+    name: Linke Li
+    position: Seminar Co-Chair & Webmaster
+    link: https://www.linkedin.com/in/linke-li-596390107/?originalSubdomain=ca
+
+

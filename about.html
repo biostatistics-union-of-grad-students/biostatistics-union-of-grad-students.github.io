@@ -1,0 +1,104 @@
+---
+layout: index
+title: About
+group: navigation
+tagline:
+tags : [about, components]
+img :
+img-mobile :
+author :  Larry & Rose, BUGS Co-Presidents
+css:
+js: about-sample.js
+keywords: components, demo
+
+---
+{% include JB/setup %}
+<!-- Content Area Start -->
+<div id="content">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="page-header-title">
+          <h2 class="heading-title text-center">About Us</h2>
+        </div>
+      </div>
+
+
+      <div class="order-md-2 aos-init aos-animate mx-auto" data-aos="fade" style="height: 280px; width: 400px;">
+        <img src="{{ site.url }}/assets/images/logos/BUGSLogo_enlarged.jpg" alt="Image" class="img-fluid rounded" style="object-fit :cover;">
+      </div>
+      <div class="order-md-1 aos-init aos-animate" data-aos="fade">
+
+        <div class="row">
+
+          <div class="col-12">
+          </div>
+          <div class="col-12 mb-4">
+            <p class="lead"> The Biostatistics Union of Graduate Students (BUGS) was founded by biostatistics students
+              for biostatistics students. Our mandate is to represent the interests of the students within our
+              department and the school, as well as to provide a sense of community for our students. Our executive is
+              made up of student volunteers and our monthly meetings are open to all students who wish to help out.
+
+            <p class="lead"> BUGS and the department encourage students to have work-life balance. In this respect, BUGS
+              holds various social events throughout the year to encourage students to take some time out of their
+              coursework for a little fun. In the past, we have organized various social events for both the students
+              and faculty, including picnics, potlucks, board game/movie nights and Halloween/holiday parties.
+
+            <p class="lead"> In addition to social events, BUGS organizes a student-led seminar series that is aimed at
+              providing tools that students feel would benefit them. Students are encouraged to suggest ideas for
+              possible seminar topics, as well as to volunteer to present such topics. Our introductory R and SAS
+              seminars, held at the beginning of every school year, are open to all public health graduate students.
+              Since the biostatistics program admits students from a wide spectrum of backgrounds, these seminars aim to
+              teach the basic coding skills needed in our program so that no student feels left behind.
+
+            <p class="lead"> BUGS wishes everyone a great school year, and hopes to see everyone at the next event!
+            </p>
+            <p class="text-right">Larry & Rose, BUGS Co-Presidents</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-60"></div>
+
+  </div>
+</div>
+<!-- Content Area End -->
+
+<!-- Team Members 04 -->
+<div class="container mt-5">
+  <div class="team-members-tow mtb-50">
+    <div class="sub-title">
+      <span>Team</span>
+    </div>
+    {% for members in site.data.member %}
+      {% if members.type == "executive"%}
+      <div class="row">
+        {% for member in members.list %}
+        <div class="col-sm-6 col-md-3">
+          <!-- Team Item Starts -->
+          <figure>
+            <img src="{{ site.url }}/assets/images/members/{{ member.file | strip_html }}" alt="" style="object-fit: cover; aspect-ratio: 1/1;">
+            <div class="image-overlay">
+              <div class="overlay-text text-center">
+                <div class="info-text">
+                  <strong>{{ member.name }}</strong>
+                  <span>{{ member.position }}</span>
+                </div>
+                <hr class="small-divider border-white">
+                <ul class="social-icons">
+                  <li><a href="{{ member.link }}"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                </ul>
+              </div>
+            </div>
+          </figure>
+          <!-- Team Item Ends -->
+        </div>
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+
+    </div>
+  </div>
+</div>
+<!-- End Team Members 04 -->

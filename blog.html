@@ -1,0 +1,40 @@
+---
+layout: blog
+title: Blog
+group: navigation
+tags : [blog, posts, post]
+author : Congwei Chen
+css: 
+js: portfolio.js
+keywords: bootstrap4, UI kit, jekyll
+
+---
+{% include JB/setup %}
+        <!-- Portfolio Recent Projects -->
+        <div id="portfolio" class="row wow fadeInUpQuick" data-wow-delay="0.8s" style="background-color: unset;">
+
+          {% for post in site.posts %}
+          {% assign tmp = "" %}
+          {% for i in post.categories%}
+          {% assign tmp = tmp | append: i | replace: ' ', '_' %}
+          {% endfor %}
+          <div class="blog-block post-content-area mix {{ tmp }}">
+           {% if post.img %}	  
+                  <img src="{{ site.url }}/assets/images/post/{{ post.img }}" alt="{{ post.title }} image" style="object-fit: cover; aspect-ratio: 12/5;">
+            {% else %}
+                  <img src="{{ site.url }}/assets/images/post/default.jpg" alt="" style="object-fit: cover; aspect-ratio: 12/5;">
+           {% endif %}	  
+                  <div class="blog-post">
+                    <h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
+              <p>{{ post.excerpt }}</p>
+                    <a class="btn btn-common" href="{{ site.url }}{{ post.url }}">Read More</a>
+                  </div>
+                </div>
+          <div class="mb-60"></div>
+      {% endfor %}
+        </div>
+
+
+
+
+

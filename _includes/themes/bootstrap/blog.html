@@ -1,0 +1,40 @@
+  <!-- Blog content + sidebar -->
+  <div class="mb-60"></div>
+
+  <div class="sticky-top" style="background: #fff;">
+    <div class="controls text-center wow fadeInUpQuick sticky-top" data-wow-delay=".6s">
+      <a class="filter active btn btn-common" data-filter="all">
+        All
+      </a>
+      {% for category in site.categories %}
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+      <a class="filter btn btn-common" data-filter=".{{ category_name | replace: ' ', '_' }}">
+        {{ category_name }}
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+  <section class="blog">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-12">
+
+           {{ content }}               
+
+        <!-- </div> -->
+
+    
+
+
+
+
+
+
+     
+
+
+
+
+
+
+

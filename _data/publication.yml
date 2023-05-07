@@ -1,0 +1,9 @@
+- group: 2022
+  list:
+    - entry: 'Li, L., Plint, A. and Heath, A., 2022. Generating High-Utility Synthetic Clinical Trial Data Using Non-Parametric Data-Augmented Multiple Imputation. Journal of the Royal Statistical Society: Series C (Under review)'
+    - entry: t2
+
+- group: 2021
+  list:
+    - entry: t1
+    - entry: t2
