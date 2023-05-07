@@ -1,26 +1,26 @@
 - desc: Current Master
   type: current
   list:
-  - file: team-01.jpg
-    name: title-1.jpg
+    - file: Mohammad_Reza_Fahimi.jpg
+    name: Zunaira Mehmood
+    supervisor: test1 misc 
+    year: 1st Year MSc
+    link: 'https://www.linkedin.com/in/zunairamehmood/'
+  - file: Zhou_Wei.HEIC
+    name: Zhou Wei
+    supervisor:  
+    year: 1st Year MSc_AI/DS
+    link: 'https://www.linkedin.com/in/zhuo-lilian-wei/'
+  - file: Yushu_Zou.jpg
+    name: Yushu Zou
+    supervisor:  
+    year: 1st Year MSc
+    link: 'https://www.linkedin.com/in/yushu-zou/'
+  - file: Yuan_Bian.jpg
+    name: Yuan Bian
     supervisor: test1 misc 
     year: The first img
-    link: test
-  - file: team-01.jpg
-    name: title-1.jpg
-    supervisor: test1 misc 
-    year: The first img
-    link: test
-  - file: team-01.jpg
-    name: title-1.jpg
-    supervisor: test1 misc 
-    year: The first img
-    link: test
-  - file: team-01.jpg
-    name: title-1.jpg
-    supervisor: test1 misc 
-    year: The first img
-    link: test
+    link: 'https://yuanbian.netlify.app/'
 
 
 - desc: Current PhD
