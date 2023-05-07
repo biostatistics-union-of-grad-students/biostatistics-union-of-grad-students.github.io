@@ -1,8 +1,9 @@
 - desc: Current Master
   type: current
   list:
-
-  - file: Mohammad_Reza_Fahimi.jpg
+<<<<<<< HEAD
+=======
+    - file: Mohammad_Reza_Fahimi.jpg
     name: Zunaira Mehmood
     supervisor: test1 misc 
     year: 1st Year MSc
@@ -19,6 +20,9 @@
     link: 'https://www.linkedin.com/in/yushu-zou/'
   - file: Yuan_Bian.jpg
     name: Yuan Bian
+    supervisor: test1 misc 
+    year: The first img
+    link: 'https://yuanbian.netlify.app/'
 
 - desc: Current PhD
   type: current
