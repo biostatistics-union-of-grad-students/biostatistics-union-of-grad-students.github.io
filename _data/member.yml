@@ -1,10 +1,7 @@
 - desc: Current Master
   type: current
   list:
-<<<<<<< Updated upstream
-  - file: team-01.jpg
-    name: title-1.jpg
-=======
+
   - file: Mohammad_Reza_Fahimi.jpg
     name: Zunaira Mehmood
     supervisor: test1 misc 
@@ -22,26 +19,6 @@
     link: 'https://www.linkedin.com/in/yushu-zou/'
   - file: Yuan_Bian.jpg
     name: Yuan Bian
->>>>>>> Stashed changes
-    supervisor: test1 misc 
-    year: The first img
-    link: test
-  - file: team-01.jpg
-    name: title-1.jpg
-    supervisor: test1 misc 
-    year: The first img
-    link: test
-  - file: team-01.jpg
-    name: title-1.jpg
-    supervisor: test1 misc 
-    year: The first img
-    link: test
-  - file: team-01.jpg
-    name: title-1.jpg
-    supervisor: test1 misc 
-    year: The first img
-    link: test
-
 
 - desc: Current PhD
   type: current
