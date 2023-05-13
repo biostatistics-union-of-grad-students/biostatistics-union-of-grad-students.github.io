@@ -1,89 +1,88 @@
 - desc: Current Master
   type: current
   list:
-  - file: team-01.jpg
+  - file: no_pic.png
     name: Aoqi Xie
-    supervisor: Practicum - Dr. Victoria Landsman </br>
-                Thesis - Dr. Clement Ma
-    year: 1st Year MSc (Thesis)
+    supervisor: 'Supervisor: Dr. Clement Ma'
+    year: MSc (Thesis)
     link: 'https://www.linkedin.com/in/aoqi-xie-708811208/'
 
   - file: April_Cheng.jpg
     name: April Yang Cheng
     supervisor:
-    year: 1st Year MSc
+    year: MSc
     link: 'https://www.linkedin.com/in/aprilyangcheng/'
 
   - file: Yutong_Chen.jpg
     name: Betty Chen
-    supervisor: Dr.Rahim Moineddin, Christopher Meaney
-    year: 1st Year MSc
+    supervisor: 'Supervisor: Dr.Rahim Moineddin, Christopher Meaney'
+    year: MSc
     link: 'http://www.linkedin.com/in/betty-yc'
 
   - file: Charlotte_Chen.jpg
     name: Charlotte Chen
     supervisor:
-    year: 1st Year MSc
+    year: MSc
     link:
 
-  - file: team-01.jpg
+  - file: no_pic.png
     name: ChenNingZhi Sheng
-    supervisor: Dr. Rafal Kustra
-    year: 1st Year MSc
+    supervisor: 'Supervisor: Dr. Rafal Kustra, Dr. Kuan Liu'
+    year: MSc
     link: 'www.linkedin.com/in/kara-sheng-2a77461b1'
 
-  - file: team-01.jpg
+  - file: no_pic.png
     name: Luis Ledesma
-    supervisor: Dr.Eleanor Pullenayegum
-    year: 2nd Year MSc (Thesis)
+    supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
+    year: MSc (Thesis)
     link: 'https://www.linkedin.com/in/luisledes/'
 
   - file: Mohammad_Reza_Fahimi.jpg
     name: Mohammad Reza Fahimi
-    supervisor: Dr. Osvaldo Espin-Garcia </br> Dr. Aya Mitani
-    year: 1st Year MSc (Thesis)
+    supervisor: 'Supervisor: Dr. Osvaldo Espin-Garcia, Dr. Aya Mitani'
+    year: MSc (Thesis)
     link: 'https://www.linkedin.com/in/mohammad-reza-fahimi-48a67020b/'
 
   - file: Mu_Yang.jpg
     name: Mu Yang
-    supervisor: Dr. Daniel Felsky
-    year: 2nd Year MSc (Thesis)
+    supervisor: 'Supervisor: Dr. Daniel Felsky'
+    year: MSc (Thesis)
     link: 'linkedin.com/in/mu-yang-432954171'
 
-  - file: team-01.jpg
+  - file: no_pic.png
     name: Peiyu Li
-    supervisor: Practicum - Dr.Aya Mitani, Dr.Chun-Po Steve Fan, Dr.Sudipta Saha
-    year: 1st Year MSc
+    supervisor: 'Supervisor: Dr.Aya Mitani, Dr.Chun-Po Steve Fan, Dr.Sudipta Saha'
+    year: MSc
     link: 'https://www.linkedin.com/in/peiyu-li-76a734235/'
 
-  - file: team-01.jpg
+  - file: Shijie_Min.jpg
     name: Shijie Min
-    supervisor: Practicum - Dr.Aya Mitani, Dr.Kuan Liu </br> Thesis - Dr.Pingzhao Hu
-    year: 1st Year MSc (Thesis)
+    supervisor: 'Supervisor: Dr.Pingzhao Hu'
+    year: MSc (Thesis)
     link:
 
   - file: Jennifer_Su.jpg
-    name: Yi-chen Su
-    supervisor: Practicum - Dr. Huan Jiang
-    year: 1st Year MSc (AI/DS)
+    name: Yi-Chen Su
+    supervisor: 'Supervisor: Dr. Huan Jiang'
+    year: MSc (AI/DS Emphasis)
     link:
 
   - file: Yu-Chun(Gingin)_Chien.jpg
     name: Yu-Chun (Gingin) Chien
-    supervisor: Melanie Poulin-Costello
-    year: 1st Year MSc
+    supervisor: 'Supervisor: Melanie Poulin-Costello'
+    year: MSc
     link: 'https://www.linkedin.co  m/in/yuchunchien/'
 
   - file: Yushu_Zou.jpg
     name: Yushu Zou
-    supervisor: Practicum - Dr. Lennon Li, Dr.Venkata Duvvuri </br> Thesis - Dr. Kuan Liu
-    year: 1st Year MSc (Thesis)
+    supervisor: 'Supervisor: Dr. Kuan Liu'
+    year: MSc (Thesis)
     link: 'https://www.linkedin.com/in/yushu-zou/'
 
-  - file: team-01.jpg
+  - file: no_pic.png
     name: Zunaira Mehmood
     supervisor:
-    year: 1st Year MSc
+    year: MSc
     link: 'https://www.linkedin.com/in/zunairamehmood/'
 
 
@@ -93,87 +92,122 @@
 - desc: Current PhD
   type: current
   list:
-  - file: team-01.jpg
+  - file: no_pic.png
     name: Anastasia Teterina
-    supervisor: 'Supervisor:  Dr.Wendy Lou'
-    year: 2nd Year PhD
+    supervisor: 'Supervisor:  Dr. Wendy Lou'
+    year: 
     research:
     link:
+
+  - file: Boxi_Lin.jpeg
+    name: Boxi Lin
+    supervisor: 'Supervisor:  Dr. Lei Sun'
+    year: 
+    research: "Research Interest: Statistical genetics, Computational Statistics"
+    link: https://boxilin.github.io/
 
   - file: Chen_Chen.jpg
     name: Chen Chen
     supervisor: 'Practicum supervisors: Dr. Kuan Liu, Dr. Zihang  Lu, Dr. Geoffrey Anderson'
-    year: 1st Year PhD
+    year: 
     research: "Research Interest: Joint Model, Bayesian"
     link:
 
+  - file: Dongyang_Yang.jpg
+    name: Dongyang Yang
+    supervisor: 'Supervisor:  Dr. Wei Xu'
+    year: 
+    research: "Research Interest: Statistical Genetics, Microbiome"
+    link: https://www.linkedin.com/in/dongyang-dawn-yang/
+
   - file: Eric_Sanders.jpg
     name: Eric Sanders
-    supervisor: 'Supervisor:  Dr.Lisa Strug'
-    year: 2nd Year PhD
+    supervisor: 'Supervisor:  Dr. Lisa Strug'
+    year: 
     research: "Research Interest: Statistical Genetics"
-    link:
+    link: 
 
   - file: Gengming_He.jpg
     name: Gengming He
-    supervisor: 'Supervisor:  Dr.Lisa Strug'
-    year: 2nd Year PhD
+    supervisor: 'Supervisor:  Dr. Lisa Strug'
+    year: 
     research: "Research Interest: Long-read Sequencing Data, Post-selection Inference, Matrix Regression"
     link:
 
   - file: George_Stefan.jpg
     name: George Stefan
     supervisor: 'Supervisor:  Dr. Eleanor Pullenayegum'
-    year: 2nd Year PhD
+    year: 
     research: "Research Interest: Irregularly Measured Longitudinal Data; Survival Analysis"
     link: http://www.linkedin.com/in/george-stefan
 
   - file: Mei_Dong.jpg
     name: Mei Dong
-    supervisor: 'Supervisor:  Dr.Wei Xu'
-    year: 2nd Year PhD
+    supervisor: 'Supervisor:  Dr. Wei Xu'
+    year: 
     research: "Research Interest: Causal Inference; Statistical Genetics"
     link: https://www.linkedin.com/in/mei-dong-297392128/
 
-  - file: team-01.jpg
+  - file: Naomi_Chang.jpeg
     name: Naomi Chang
     supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
-    year:
+    year: 
     research: "Research Interest: Causal Inference; Statistical Genetics"
     link: https://ca.linkedin.com/in/naomi-c-804b77171
 
   - file: Jasper_zhang.jpg
-    name: Zhongyuan Zhang
-    supervisor: 'Supervisor:  Dr.Wei Xu'
-    year: 1st Year PhD
+    name: Jasper Zhongyuan Zhang
+    supervisor: 'Supervisor:  Dr. Wei Xu'
+    year: 
     research: 'Research Interest: Survival Analysis, Deep Learning, Health Economics'
     link: https://jasperzhang.com/
 
-  - file: Jenny_Li.jpg
+  - file: Jiahui_Zhang.jpg
+    name: Jiahui Zhang
+    supervisor: 'Supervisor:  Dr. Wei Xu'
+    year: 
+    research: 'Research Interest: Longitudinal study, Statistical Genetics'
+    link: 
+    
+  - file: Yao_Li.jpg
     name: Yao Li
-    supervisor: 'Supervisor:  Dr.Wei Xu'
-    year: 3rd Year PhD
-    research: 'Research Interest: Causal Inference, Machine Learning'
+    supervisor: 'Supervisor:  Dr. Wei Xu'
+    year: 
+    research: 'Research Interest: Causal Mediation Analysis, Microbiome'
     link: https://www.linkedin.com/in/yao-li-a15b2884/?originalSubdomain=ca
 
   - file: Linke_Li2.jpg
     name: Linke Li
-    supervisor: 'Supervisor: Dr.Anna Heath'
-    year: 3rd Year PhD
+    supervisor: 'Supervisor: Dr. Anna Heath'
+    year: 
     research: 'Research Interest: Bayesian Decision Theory, Health Economics'
     link: https://www.linkedin.com/in/linke-li-596390107/?originalSubdomain=ca
 
   - file: Larry_Dong.jpg
     name: Larry Dong
-    supervisor: 'Supervisor: Dr.Olli Saarela'
-    year: 3rd Year PhD
+    supervisor: 'Supervisor: Dr. Olli Saarela'
+    year: 
     research: 'Research Interest: Causal inference, Image Analysis, Bayesian Methods'
     link: https://larrydong.com/
 
+  - file: Pai-Shan_Cheng.jpeg
+    name: Pai-Shan Cheng
+    supervisor: 'Supervisor: Dr. George Tomlinson'
+    year: 
+    research: 'Research Interest: Network meta-analysis, Bayesian inference, Osteoarthritis'
+    link: 
+
+  - file: Rose_Garrett.jpg
+    name: Rose Garrett
+    supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
+    year: 
+    research: 'Research Interest: Irregularly spaced longitudinal data, Bayesian inference, JDM'
+    link: https://www.linkedin.com/in/rose-garrett-305414129/
+
   - file: Thai-Son_Tang.jpeg
     name: Thai-Son Tang
-    supervisor: 'Supervisor: Dr.Olli Saarela'
-    year: 5th Year PhD
+    supervisor: 'Supervisor: Dr. Olli Saarela'
+    year: 
     research: 'Research Interest: Causal Mediation Analysis, Functional Data Analysis'
     link: https://www.linkedin.com/in/thaison-tang
 
@@ -185,33 +219,26 @@
     research: 'Research Interest: Dynamic prediction, Longitudinal Data, Survival Analysis'
     link: www.linkedin.com/in/xinyang-sean-feng-4039b6136
 
-  - file: Yao_Li.jpg
-    name: Yao Li
-    supervisor: ''
-    year:
-    research: 'Research Interest: Causal Mediation Analysis, Microbiome'
-    link:
-
-  - file: team-01.jpg
+  - file: Yu_Shi.jpg
     name: Yu Shi
     supervisor: 'Practicum Supervisor: Dr. Pingzhao Hu'
-    year: 1st Year PhD
+    year: 
     research: ''
     link:
 
-  - file: team-01.jpg
+  - file: Yuqing_Liu.jpg
     name: Yuqing Liu
     supervisor: ''
-    year: 1st Year PhD
+    year: 
     research: ''
     link:
 
   - file: Ziqian_Zhuang .JPG
     name: Ziqian Zhuang
     supervisor: 'Supervisor: Wei Xu' 
-    year: 3rd Year PhD
+    year: 
     research: 'Research Interest: Survival analysis, Statistical genetics, Machine learning'
-    link:
+    link: https://www.linkedin.com/in/ziqianzhuang/?locale=en_US
 
 
 
@@ -232,7 +259,7 @@
     year: 2020
     link: 'https://www.linkedin.com/in/ashleymaohuiyan/'
 
-  - file: team-01.jpg.jpeg
+  - file: no_pic.png.jpeg
     name: Jiachen (Jason) Zhu
     position:  Data Engineer at Roche
     year: 2020
@@ -285,13 +312,13 @@
 - desc: PhD Alumni
   type: alumni
   list:
-  - file: team-01.jpg
+  - file: no_pic.png
     name: Kuan Liu
     position: Assistant Professor at Univeristy of Toronto
     year: 2015 - 2021
     link: https://www.kuan-liu.com/
 
-  - file: team-01.jpg
+  - file: no_pic.png
     name: Zihang Lu
     position: Assistant Professor at Queen's University
     year: 2015 - 2020
@@ -301,17 +328,37 @@
 - desc: Executive Team
   type: executive
   list:
-  # - file: Erik.jpg
-  #   name: title-1.jpg
-  #   position: <br>
   - file: Jasper_zhang.jpg
-    name: Zhongyuan Zhang
+    name: Jasper Zhongyuan Zhang
     position: Co-President
     link: https://jasperzhang.com/
+
+  - file: no_pic.png
+    name: Anastasia Teterina
+    position: Co-President
+
+  - file: Xinyang(Sean)_Feng.jpg
+    name: Xinyang (Sean) Feng
+    position: Seminar Co-Chair
 
   - file: Linke_Li2.jpg
     name: Linke Li
     position: Seminar Co-Chair & Webmaster
     link: https://www.linkedin.com/in/linke-li-596390107/?originalSubdomain=ca
 
+  - file: April_Cheng.jpg
+    name: April Yang Cheng
+    position: Webmaster
 
+  - file: Eric_Sanders.jpg
+    name: Eric Sanders
+    position: Social Co-Chair & Secretary
+
+  - file: Shijie_Min.jpg
+    name: Shijie Min
+    position: Social Co-Chair
+
+  - file: George_Stefan.jpg
+    name: George Stefan
+    position: PHSA Biostatistics PhD Representative
+   
