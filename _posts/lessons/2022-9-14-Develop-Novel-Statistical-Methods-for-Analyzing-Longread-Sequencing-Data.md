@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Proposal Defense
+category : Defense
 tagline: "Hello world post on helium jekyll"
 tags : [intro, beginner, jekyll, tutorial]
 img : Proposal_defense_post.avif

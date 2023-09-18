@@ -5,31 +5,152 @@
         <description>BUGS - Congwei Chen</description>
         <link></link>
         <link></link>
-        <lastBuildDate>2023-09-05T11:19:10-04:00</lastBuildDate>
-        <pubDate>2023-09-05T11:19:10-04:00</pubDate>
+        <lastBuildDate>2023-09-18T14:48:45-04:00</lastBuildDate>
+        <pubDate>2023-09-18T14:48:45-04:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
-                <title>Efficient</title>
+                <title>Your First Open Source Contribution</title>
                 <description>
-&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;: Boxi Lin&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;: Larry Dong, University of Toronto&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Supervisory Committee:&lt;/strong&gt; Lei Sun (Supervisor), Lisa Strug, and Shelley Bull&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Date and Time&lt;/strong&gt;: Monday, September 25, 2023, 1pm - 2pm&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Date and Time&lt;/strong&gt;:  Tuesday, December 20, 2022, 10am-12noon EST&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: Room 734 @ Health Sciences building&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: 155 College Street, Health Science Building, Room 790&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration Link&lt;/strong&gt;: https://ktq3lcblh4r.typeform.com/to/DzCJFJwG&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: The genetic architecture of a complex trait may differ among subpopulations of a studied population. In genetic association studies, stratified and joint analysis strategies have been applied to incorporate heterogeneity. However, there is no uniformly most powerful test, and their performance will depend on the underlying genetic model. We aim to develop robust association testing methods that remain powerful under various patterns of heterogeneity by leveraging heterogeneity through the lens of interaction. We first propose second-order meta-analysis combing evidence from each subpopulation by taking the sum of Z-scores. We show the analytical connection between this meta-analysis is equivalent to mega-analysis approach based on weighted regression. Then we will conduct large-scale real data application to discover genetic association hidden in previous GWAS with stratified design or ignoring the potential heterogeneity and heteroskedasticity. Apart from identifying genetic effect in any of the groups, we also aim to develop meta-analysis for detecting the presence of genetic effect heterogeneity between groups. Lastly, we plan to apply the joint location-scale (JLS) testing framework detecting genetic association under heterogeneity due to unknown environmental factors.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: Are you a student with some experience in programming? Do you want to explore the world of open-source contributions and understand the magic behind collaborative coding on platforms like GitHub? If so, this workshop is tailored just for you!&lt;/p&gt;
+
+&lt;p&gt;Join us for an interactive session with Larry, a GitHub Campus Expert and biostatistics PhD student, who will guide you step-by-step to make your very first open-source contribution using GitHub integrated within RStudio or via the command line. By the end of this workshop, you’ll not only have a deeper understanding of the open-source community but also the confidence to contribute to it.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;All are welcome!&lt;/strong&gt;&lt;/p&gt;
 </description>
-                <link>/proposal%20defense/2022/12/23/Efficient</link>
-                <guid>/proposal%20defense/2022/12/23/Efficient</guid>
-                <pubDate>2022-12-23T00:00:00-05:00</pubDate>
+                <link>/seminar/2023/09/17/Your-First-Open-Source-Contribution</link>
+                <guid>/seminar/2023/09/17/Your-First-Open-Source-Contribution</guid>
+                <pubDate>2023-09-17T00:00:00-04:00</pubDate>
+        </item>
+
+        <item>
+                <title>Intercept Estimationof Semiparametric Joint Models In The Context of Longitudinal Data Subject To Irregular Observations</title>
+                <description>
+&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;: Luis Ledesma&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Supervisory Committee:&lt;/strong&gt; Eleanor Pullenayegum (Supervisor), Aya Mitani and Kuan Liu &lt;br /&gt;
+&lt;strong&gt;Date and Time&lt;/strong&gt;:  Monday, September 11th, 2023 at 2pm EST&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: Health Sciences Building (155 College St), Room HS650&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zoom&lt;/strong&gt;:  https://utoronto.zoom.us/j/87849654795&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Longitudinal data is often subject to irregular visiting times. While there are established methods developed to deal with certain irregular visiting patterns, not much is known regarding modelling scenarios where the current value of the outcome influences the visit intensity at that time. One model that allows for such dependence provided there is conditional independence given a random effect is the Sun (2011) multiplicative model, which is one of the few semi-parametric joint models that is suitable for count data. We extend this model by additionally estimating the intercept term which was formerly treated as a nuisance parameter. This technique enables us to assess prognosis by examining the evolution of the outcome variable over time, rather than just the relative effects of model covariates. This extended estimator exhibits desirable large-sample properties such as consistency and asymptotic normality. We evaluate finite-sample performance with a simulation study, which shows that the proposed method outperforms standard approaches in terms of bias and standard error under a range of scenarios. Moreover, the proposed model is more computationally efficient than the standard method for different specifications of the intercept term. Furthermore, we present an application to a study of tumour recurrence for a longitudinal cohort of bladder cancer patients characterized by informative visits. We recommend that unless the intercept term fluctuates extensively through time, applying our proposed method results in improved model estimates and reduced computational complexity compared to the standard Sun (2011) model estimation, and permits the additional estimation of the mean outcome trajectories.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;All are welcome!&lt;/strong&gt;&lt;/p&gt;
+</description>
+                <link>/defense/2023/09/11/Intercept-Estimationof-semiparametric-joint-models-in-the-context-of-longitudinal-data-subject-to-irregular-observations</link>
+                <guid>/defense/2023/09/11/Intercept-Estimationof-semiparametric-joint-models-in-the-context of-longitudinal-data-subject-to-irregular-observations</guid>
+                <pubDate>2023-09-11T00:00:00-04:00</pubDate>
+        </item>
+
+        <item>
+                <title>Summer 2023 Student Award</title>
+                <description>
+&lt;p&gt;&lt;strong&gt;Event&lt;/strong&gt;: 2023 Winter End of Semestera Celebrationf Semestera Celebrationf Semestera Celebrationf Semestera Celebration&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Date and Time&lt;/strong&gt;:  Thursday, April 13th, 2023, 5:00 pm (the last of the food should arrive by 5:30pm)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;:  7th Floor Lounge, Health Science Building&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RSVP Form&lt;/strong&gt; :  https://docs.google.com/forms/d/e/1FAIpQLSdFMb1OkqF-cWxRT7eWcPLIv2EJG_mIzn1y6Gr254k12RPc6Q/viewform&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;_site/assets/images/post/2023-SSC-jasper-luis-award.jpg&quot; alt=&quot;Jasper_Luis&quot; /&gt;&lt;/p&gt;
+</description>
+                <link>/award/2023/09/01/Summer-2023-Student-Award</link>
+                <guid>/award/2023/09/01/Summer-2023-Student-Award</guid>
+                <pubDate>2023-09-01T00:00:00-04:00</pubDate>
+        </item>
+
+        <item>
+                <title>Biopsychosocial Characterization of Cognitive Decline and Late Life  Depression Trajectories Using Bayesian Consensus Clustering and Machine Learning</title>
+                <description>
+&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;: Mu Yang&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Supervisory Committee:&lt;/strong&gt; Dan Felsky (Supervisor), Osvaldo-Espin Garcia and Divya Sharma   &lt;br /&gt;
+&lt;strong&gt;Date and Time&lt;/strong&gt;: Thursday, August 31st , 2023 at 10am EST&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: Health Sciences Building (155 College St), Room HS734&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zoom&lt;/strong&gt;:   https://utoronto.zoom.us/j/81167651537&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Cognitive decline and late-life depression (LLD) often co-occur and impact elderly’s wellbeing. However, their intersection and antecedents are understudied. We analyzed 2,992 participants from the Religious Orders Study and Memory and Aging Project, integrating symptoms and diagnostic records with Bayesian consensus clustering to define latent subtrajectories of cognitive decline and LLD. Logistic regression, elastic-net regression and XGBoost were used to build models of these trajectories including n=57 biopsychosocial predictors. Associations of subgroups with postmortem neuropathologies were assessed for 1,721 deceased participants. Three subgroups were identified for cognitive decline and two for LLD, which overlapped significantly (chi-square p=8.1x10-26). Elastic-net regression performed best overall, while XGBoost excelled at predicting moderate subgroups. High neuroticism and low physical health at baseline predicted unhealthy subgroups for both cognition  and LLD. There were no neuropathologies associated with LLD trajectories. Our results suggest potential values of targeting neuroticism and physical health for healthy aging and patient screening.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;All are welcome!&lt;/strong&gt;&lt;/p&gt;
+</description>
+                <link>/defense/2023/08/31/Biopsychosocial-Characterization-of-Cognitive-Decline-and-Late-Life-Depression-Trajectories-Using-Bayesian-Consensus-Clustering-and-Machine-Learning</link>
+                <guid>/defense/2023/08/31/Biopsychosocial-Characterization of-Cognitive-Decline and-Late-Life -Depression-Trajectories-Using-Bayesian-Consensus-Clustering and-Machine-Learning</guid>
+                <pubDate>2023-08-31T00:00:00-04:00</pubDate>
+        </item>
+
+        <item>
+                <title>How to Create a Research Poster</title>
+                <description>
+&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;: Chen Chen&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Date and Time&lt;/strong&gt;:  Friday, April 28, 2023, 2:10pm-3pm EST&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zoom&lt;/strong&gt;:  https://utoronto.zoom.us/j/84235632557&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Learn to effectively create and present research posters for the upcoming Biostatistics Research Day on May 15.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;All are welcome!&lt;/strong&gt;&lt;/p&gt;
+</description>
+                <link>/seminar/2023/04/28/How-to-Create-a-Research-Poster</link>
+                <guid>/seminar/2023/04/28/How to-Create a-Research-Poster</guid>
+                <pubDate>2023-04-28T00:00:00-04:00</pubDate>
+        </item>
+
+        <item>
+                <title>End of Semester Celebration</title>
+                <description>
+&lt;p&gt;&lt;strong&gt;Event&lt;/strong&gt;: 2023 Winter End of Semester Celebration&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Date and Time&lt;/strong&gt;:  Thursday, April 13th, 2023, 5:00 pm (the last of the food should arrive by 5:30pm)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;:  7th Floor Lounge, Health Science Building&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RSVP Form&lt;/strong&gt; :  https://docs.google.com/forms/d/e/1FAIpQLSdFMb1OkqF-cWxRT7eWcPLIv2EJG_mIzn1y6Gr254k12RPc6Q/viewform&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Dear UofT Biostatistics Community,&lt;/p&gt;
+
+&lt;p&gt;We hope this message finds you well! The Biostatistics Union of Graduate Students (BUGS) executive team is pleased to announce our Biostatistics End of Semester Celebration on April 13th at 5:00 pm.&lt;/p&gt;
+
+&lt;p&gt;We invite all members of the UofT Biostatistics community to join us for an evening of celebration and delicious food, as we reflect on our collective achievements over the past semester. Food will be provided, including fried chicken, pizza, and other snacks. There will be vegetarian pizza and snack options present.&lt;/p&gt;
+
+&lt;p&gt;Biostatistics End of semester celebration🍗🥗🎉
+Date: Thursday, April 13th, 2023 Time: 5:00 pm, say some food may not arrive until 5:30pm Location: 7th Floor Lounge, Health Science Building Food will be provided: fried chicken, pizza and other snacks. We will also provide a vegetarian option.&lt;/p&gt;
+
+&lt;p&gt;We encourage you to share this invitation with your colleagues and peers in the Biostatistics community! If you have any dietary restrictions or questions, please do not hesitate to reach out to us.&lt;/p&gt;
+
+&lt;p&gt;We look forward to seeing you all at the celebration as we unwind and socialize with our peers after a long and productive semester.&lt;/p&gt;
+
+&lt;p&gt;Best Regards, and see you soon!&lt;/p&gt;
+
+&lt;p&gt;BUGS Exec Team&lt;/p&gt;
+</description>
+                <link>/social%20event/2023/04/13/End-of-Semester-Celebration</link>
+                <guid>/social%20event/2023/04/13/End of-Semester-Celebration</guid>
+                <pubDate>2023-04-13T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -49,8 +170,8 @@
 
 &lt;p&gt;&lt;strong&gt;All are welcome!&lt;/strong&gt;&lt;/p&gt;
 </description>
-                <link>/proposal%20defense/2022/12/22/Robust-Genetic-Association-Testing-Approaches-Accounting-for-Heterogeneity-copy</link>
-                <guid>/proposal%20defense/2022/12/22/Robust-Genetic-Association-Testing-Approaches-Accounting-for-Heterogeneity copy</guid>
+                <link>/defense/2022/12/22/Robust-Genetic-Association-Testing-Approaches-Accounting-for-Heterogeneity-copy</link>
+                <guid>/defense/2022/12/22/Robust-Genetic-Association-Testing-Approaches-Accounting-for-Heterogeneity copy</guid>
                 <pubDate>2022-12-22T00:00:00-05:00</pubDate>
         </item>
 
@@ -150,8 +271,8 @@ See you soon!&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;All are welcome!&lt;/strong&gt;&lt;/p&gt;
 </description>
-                <link>/proposal%20defense/2022/09/14/Develop-Novel-Statistical-Methods-for-Analyzing-Longread-Sequencing-Data</link>
-                <guid>/proposal%20defense/2022/09/14/Develop-Novel-Statistical-Methods-for-Analyzing-Longread-Sequencing-Data</guid>
+                <link>/defense/2022/09/14/Develop-Novel-Statistical-Methods-for-Analyzing-Longread-Sequencing-Data</link>
+                <guid>/defense/2022/09/14/Develop-Novel-Statistical-Methods-for-Analyzing-Longread-Sequencing-Data</guid>
                 <pubDate>2022-09-14T00:00:00-04:00</pubDate>
         </item>
 

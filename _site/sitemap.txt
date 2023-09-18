@@ -13,9 +13,14 @@
 /sitemap.txt
 /team
 
-/proposal%20defense/2022/12/23/Efficient
-/proposal%20defense/2022/12/22/Robust-Genetic-Association-Testing-Approaches-Accounting-for-Heterogeneity-copy
+/seminar/2023/09/17/Your-First-Open-Source-Contribution
+/defense/2023/09/11/Intercept-Estimationof-semiparametric-joint-models-in-the-context-of-longitudinal-data-subject-to-irregular-observations
+/award/2023/09/01/Summer-2023-Student-Award
+/defense/2023/08/31/Biopsychosocial-Characterization-of-Cognitive-Decline-and-Late-Life-Depression-Trajectories-Using-Bayesian-Consensus-Clustering-and-Machine-Learning
+/seminar/2023/04/28/How-to-Create-a-Research-Poster
+/social%20event/2023/04/13/End-of-Semester-Celebration
+/defense/2022/12/22/Robust-Genetic-Association-Testing-Approaches-Accounting-for-Heterogeneity-copy
 /seminar/2022/11/11/Precision-Public-Health-in-Canada,-Hurdles-and-Opportunities
 /social%20event/2022/11/09/November-BUGS-Potluck-Social
 /misc/2022/11/01/Vol-Methods
-/proposal%20defense/2022/09/14/Develop-Novel-Statistical-Methods-for-Analyzing-Longread-Sequencing-Data
+/defense/2022/09/14/Develop-Novel-Statistical-Methods-for-Analyzing-Longread-Sequencing-Data
