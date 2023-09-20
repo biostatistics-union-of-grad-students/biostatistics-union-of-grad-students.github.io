@@ -5,43 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69aedd77-7421-4c54-8ab2-314b8d43b308" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/lessons/2023-08-31-Biopsychosocial-Characterization of-Cognitive-Decline and-Late-Life -Depression-Trajectories-Using-Bayesian-Consensus-Clustering and-Machine-Learning.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/lessons/2023-09-01-Summer-2023-Student-Award.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/lessons/2023-09-11-Intercept-Estimationof-semiparametric-joint-models-in-the-context of-longitudinal-data-subject-to-irregular-observations.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/lessons/2023-09-17-Your-First-Open-Source-Contribution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/lessons/2023-09-19-Variable-categorization-and-selection-in-the-context of-inverse-intensity-weighting-for-longitudinal-data.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/2017-01-17-testing-locally-helium-jekyll.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/2017-02-15-helium-theme-syntax-highlight-example.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/2017-03-19-bootstrap-4-components-on-fullit.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/2017-03-20-make-your-jekyll-website-amazing.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/2017-10-08-helium-jekyll-theme-markdown-examples.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/jekyll-introduction-draft.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/defense/2022-12-20-boxi lin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/defense/2023-09-11-Luis Ledesma" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/lessons/2022-11-9-November-BUGS-Potluck-Social.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/lessons/2022-11-9-November-BUGS-Potluck-Social.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/lessons/2022-12-22-Robust-Genetic-Association-Testing-Approaches-Accounting-for-Heterogeneity copy.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/lessons/2022-12-22-Robust-Genetic-Association-Testing-Approaches-Accounting-for-Heterogeneity copy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/lessons/2022-12-23-Efficient.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/lessons/2022-9-14-Develop-Novel-Statistical-Methods-for-Analyzing-Longread-Sequencing-Data.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/lessons/2022-9-14-Develop-Novel-Statistical-Methods-for-Analyzing-Longread-Sequencing-Data.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/archive.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/atom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog-sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-sample.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/headers.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/headers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/misc/2022/11/01/Vol-Methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/misc/2022/11/01/Vol-Methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/proposal defense/2022/09/14/Develop-Novel-Statistical-Methods-for-Analyzing-Longread-Sequencing-Data.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/proposal defense/2022/12/22/Robust-Genetic-Association-Testing-Approaches-Accounting-for-Heterogeneity-copy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/proposal defense/2022/12/23/Efficient.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/publication.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publication.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/rss.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/rss.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/seminar/2022/11/11/Precision-Public-Health-in-Canada,-Hurdles-and-Opportunities.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/seminar/2022/11/11/Precision-Public-Health-in-Canada,-Hurdles-and-Opportunities.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/social event/2022/11/09/November-BUGS-Potluck-Social.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/social event/2022/11/09/November-BUGS-Potluck-Social.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,20 +25,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/yushu/OneDrive/Desktop/BUGweb/_posts/lessons",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yushu/OneDrive/Desktop/BUGweb/_posts/lessons&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\yushu\OneDrive\Desktop\BUGweb\_posts\lessons" />
@@ -101,6 +67,7 @@
       <workItem from="1693927505725" duration="1958000" />
       <workItem from="1694120319458" duration="642000" />
       <workItem from="1695059002777" duration="3923000" />
+      <workItem from="1695230480116" duration="425000" />
     </task>
     <servers />
   </component>
