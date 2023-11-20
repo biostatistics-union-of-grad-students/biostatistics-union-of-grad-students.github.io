@@ -217,21 +217,21 @@
     supervisor: 'Supervisor: Dr. Aya Mitani'
     year:
     research: 'Research Interest: Dynamic prediction, Longitudinal Data, Survival Analysis'
-    link: www.linkedin.com/in/xinyang-sean-feng-4039b6136
+    link: https://www.linkedin.com/in/xinyang-sean-feng-4039b6136/
 
   - file: Yu_Shi.jpg
     name: Yu Shi
     supervisor: 'Practicum Supervisor: Dr. Pingzhao Hu'
     year: 
     research: ''
-    link:
+    link: https://www.linkedin.com/in/yu-shi-a80571193/
 
   - file: Yuqing_Liu.jpg
     name: Yuqing Liu
     supervisor: ''
     year: 
     research: ''
-    link:
+    link: https://www.linkedin.com/in/yuqingliu1/
 
   - file: Ziqian_Zhuang .JPG
     name: Ziqian Zhuang
