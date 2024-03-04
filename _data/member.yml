@@ -7,35 +7,49 @@
     year: MSc (Thesis)
     link: 'https://www.linkedin.com/in/aoqi-xie-708811208/'
 
+  - file: Feifan_Xiang.jpg
+    name: Feifan Xiang
+    supervisor: 'Supervisor: Dr. Shelley Bull'
+    year: MSc
+    link: 'https://www.linkedin.com/in/aoqi-xie-708811208/'
+
+  - file: Yankai_Feng.jpg
+    name: Yankai Feng
+    supervisor: 'Supervisor: Dr. Briollais Laurent'
+    year: MSc
+    research: 'Research Interest: Longitudinal studies, Survival analysis, Categorical data analysis'
+    link: 'https://fengyankai.github.io/'
+
+  - file: Yutong_Lu.JPG
+    name: Yutong Lu
+    supervisor: 'Supervisor: Dr. Pingzhao Hu'
+    year: MSc (AI/DS Emphasis)
+    link: 'https://www.linkedin.com/in/yutong-lu-lorraine/'
+
+  - file: no_pic.png.jpg
+    name: Priyonto Saha
+    supervisor: 'Supervisor: Dr. Zahra Shakeri'
+    year: MSc (AI/DS Emphasis)
+    link: ''
+
+  - file: Xiao_Yan.jpg
+    name: Xiao Yan
+    supervisor: 'Supervisor: Dr. Kuan Liu '
+    year: MSc (AI/DS Emphasis)
+    link: 'www.linkedin.com/in/xiaoyan1596'
+
+  - file: Youxue_Ren.jpeg
+    name: Youxue Ren
+    supervisor: 'Supervisor:  Dr. Aya Mitani'
+    year: MSc (AI/DS Emphasis)
+    research: 'Research Interest: Casual inference，NLP'
+    link: 'https://ca.linkedin.com/in/%E6%82%A0%E9%9B%AA-%E4%BB%BB-snowball/en'
+
   - file: April_Cheng.jpg
     name: April Yang Cheng
     supervisor:
     year: MSc
     link: 'https://www.linkedin.com/in/aprilyangcheng/'
-
-  - file: Yutong_Chen.jpg
-    name: Betty Chen
-    supervisor: 'Supervisor: Dr.Rahim Moineddin, Christopher Meaney'
-    year: MSc
-    link: 'http://www.linkedin.com/in/betty-yc'
-
-  - file: Charlotte_Chen.jpg
-    name: Charlotte Chen
-    supervisor:
-    year: MSc
-    link:
-
-  - file: no_pic.png
-    name: ChenNingZhi Sheng
-    supervisor: 'Supervisor: Dr. Rafal Kustra, Dr. Kuan Liu'
-    year: MSc
-    link: 'https://www.linkedin.com/in/kara-sheng-2a77461b1/'
-
-  - file: Luis_Ledesma.jpg
-    name: Luis Ledesma
-    supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
-    year: MSc (Thesis)
-    link: 'https://www.linkedin.com/in/luisledes/'
 
   - file: Mohammad_Reza_Fahimi.jpg
     name: Mohammad Reza Fahimi
@@ -43,47 +57,30 @@
     year: MSc (Thesis)
     link: 'https://www.linkedin.com/in/mohammad-reza-fahimi-48a67020b/'
 
-  - file: Mu_Yang.jpg
-    name: Mu Yang
-    supervisor: 'Supervisor: Dr. Daniel Felsky'
-    year: MSc (Thesis)
-    link: 'https://www.linkedin.com/in/mu-yang-432954171/'
-
-  - file: no_pic.png
-    name: Peiyu Li
-    supervisor: 'Supervisor: Dr.Aya Mitani, Dr.Chun-Po Steve Fan, Dr.Sudipta Saha'
-    year: MSc
-    link: 'https://www.linkedin.com/in/peiyu-li-76a734235/'
-
   - file: Shijie_Min.jpg
     name: Shijie Min
     supervisor: 'Supervisor: Dr.Pingzhao Hu'
     year: MSc (Thesis)
     link:
 
-  - file: Jennifer_Su.JPG
-    name: Yi-Chen Su
-    supervisor: 'Supervisor: Dr. Huan Jiang'
-    year: MSc (AI/DS Emphasis)
-    link:
-
-  - file: Yu-Chun(Gingin)_Chien.jpg
-    name: Yu-Chun (Gingin) Chien
-    supervisor: 'Supervisor: Melanie Poulin-Costello'
-    year: MSc
-    link: 'https://www.linkedin.co  m/in/yuchunchien/'
-
   - file: Yushu_Zou.jpg
     name: Yushu Zou
     supervisor: 'Supervisor: Dr. Kuan Liu'
     year: MSc (Thesis)
-    link: 'https://www.linkedin.com/in/yushu-zou/'
+    link: 'https://reidbrok.github.io/'
 
   - file: no_pic.png
     name: Zunaira Mehmood
     supervisor:
     year: MSc
     link: 'https://www.linkedin.com/in/zunairamehmood/'
+
+  - file: no_pic.png
+    name: Qirui Hou
+    supervisor: "Supervisor: Dr. Clement Ma"
+    year: MSc (Thesis)
+    research: 'Research Interest: Master protocol, Trial design'
+    link: ''
 
 
 
@@ -235,10 +232,17 @@
 
   - file: Ziqian_Zhuang .JPG
     name: Ziqian Zhuang
-    supervisor: 'Supervisor: Wei Xu' 
+    supervisor: 'Supervisor: Dr. Wei Xu'
     year: 
     research: 'Research Interest: Survival analysis, Statistical genetics, Machine learning'
     link: https://www.linkedin.com/in/ziqianzhuang/?locale=en_US
+
+  - file: Desmond_Zeya_Chen.jpg
+    name: Desmond Zeya Chen
+    supervisor: 'Dr. Andrew Paterson & Dr. Clement Ma'
+    year:
+    research: 'Research Interest: Statistical Omics, Large Scale Statistical Software Development under HPC Environment.'
+    link: ''
 
 
 
@@ -249,9 +253,66 @@
   list:
   - file: Yuan_Bian.jpg
     name: Yuan Bian
-    position: PhD candidate in Western University
-    year: 2020
+    position: PhD Candidate in Statistics, University of Western Ontario
+    supervisor: 'Supervisor: Dr.Shelley Bull'
+    year: 2020 (Thesis)
+    research: 'Research Interest: Machine learning , Missing data, Causal inference, Survival analysis'
     link: 'https://yuanbian.netlify.app/'
+
+  - file: Jennifer_Su.JPG
+    name: Yi-Chen Su
+    supervisor: 'Supervisor: Dr. Huan Jiang'
+    year: 2023 (AI/DS Emphasis)
+    link:
+
+  - file: Yu-Chun(Gingin)_Chien.jpg
+    name: Yu-Chun (Gingin) Chien
+    supervisor: 'Supervisor: Melanie Poulin-Costello'
+    year: 2023
+    link: 'https://www.linkedin.co  m/in/yuchunchien/'
+
+  - file: Mu_Yang.jpg
+    name: Mu Yang
+    supervisor: 'Supervisor: Dr. Daniel Felsky'
+    year: 2023 (Thesis)
+    link: 'https://www.linkedin.com/in/mu-yang-432954171/'
+
+  - file: no_pic.png
+    name: Peiyu Li
+    supervisor: 'Supervisor: Dr.Aya Mitani, Dr.Chun-Po Steve Fan, Dr.Sudipta Saha'
+    year: 2023
+    link: 'https://www.linkedin.com/in/peiyu-li-76a734235/'
+
+  - file: no_pic.png
+    name: ChenNingZhi Sheng
+    supervisor: 'Supervisor: Dr. Rafal Kustra, Dr. Kuan Liu'
+    year: MSc
+    link: 'https://www.linkedin.com/in/kara-sheng-2a77461b1/'
+
+  - file: Luis_Ledesma.jpg
+    name: Luis Ledesma
+    supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
+    year: MSc (Thesis)
+    link: 'https://www.linkedin.com/in/luisledes/'
+
+  - file: no_pic.png
+    name: Shangyi Gao
+    position: Biostatistician at UHN
+    supervisor: 'Supervisor: Dr.Wendy Lou'
+    year: 2023
+    link: ''
+
+  - file: Yutong_Chen.jpg
+    name: Betty Chen
+    supervisor: 'Supervisor: Dr.Rahim Moineddin, Christopher Meaney'
+    year: 2023
+    link: 'http://www.linkedin.com/in/betty-yc'
+
+  - file: Charlotte_Chen.jpg
+    name: Charlotte Chen
+    supervisor:
+    year: MSc
+    link:
 
   - file: Ashley_Mao.jpeg
     name: Ashley Mao
