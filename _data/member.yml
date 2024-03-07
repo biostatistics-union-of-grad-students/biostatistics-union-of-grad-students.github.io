@@ -17,7 +17,7 @@
     name: Yankai Feng
     supervisor: 'Supervisor: Dr. Briollais Laurent'
     year: MSc
-    research: 'Research Interest: Longitudinal studies, survival analysis, categorical data analysis'
+    research: 'Research Interest: Longitudinal Studies, Survival Analysis, Categorical Data Analysis'
     link: 'https://fengyankai.github.io/'
 
   - file: Yutong_Lu.JPG
@@ -42,7 +42,7 @@
     name: Youxue Ren
     supervisor: 'Supervisor:  Dr. Aya Mitani'
     year: MSc (AI/DS Emphasis)
-    research: 'Research Interest: Casual inference，NLP'
+    research: 'Research Interest: Casual Inference，NLP'
     link: 'https://ca.linkedin.com/in/%E6%82%A0%E9%9B%AA-%E4%BB%BB-snowball/en'
 
   - file: April_Cheng.jpg
@@ -55,7 +55,7 @@
     name: Mohammad Reza Fahimi
     supervisor: 'Supervisor: Dr. Osvaldo Espin-Garcia, Dr. Aya Mitani'
     year: MSc (Thesis)
-    research: Two-phase study design, longitudinal data analysis, ordinal data analysis
+    research: Two-Phase Study Design, Longitudinal Data Analysis, Ordinal Data Analysis
     link: 'https://www.linkedin.com/in/mohammad-reza-fahimi-48a67020b/'
 
   - file: Shijie_Min.jpg
@@ -80,7 +80,7 @@
     name: Qirui Hou
     supervisor: "Supervisor: Dr. Clement Ma"
     year: MSc (Thesis)
-    research: 'Research Interest: Master protocol, Trial design'
+    research: 'Research Interest: Master protocol, Trial Design'
     link: ''
 
 
@@ -108,7 +108,7 @@
     name: Chen Chen
     supervisor: 'Practicum supervisors: Dr. Kuan Liu, Dr. Zihang  Lu, Dr. Geoffrey Anderson'
     year: 
-    research: "Research Interest: Joint Model, Bayesian"
+    research: "Research Interest: Joint Modeling, Bayesian Statistics"
     link:
 
   - file: Dongyang_Yang.jpg
@@ -129,28 +129,28 @@
     name: Gengming He
     supervisor: 'Supervisor:  Dr. Lisa Strug'
     year: 
-    research: "Research Interest: Long-read Sequencing Data, Post-selection Inference, Matrix Regression"
+    research: "Research Interest: Long-Read Sequencing Data, Post-selection Inference, Matrix Regression"
     link:
 
   - file: George_Stefan.jpg
     name: George Stefan
     supervisor: 'Supervisor:  Dr. Eleanor Pullenayegum'
     year: 
-    research: "Research Interest: Irregularly Measured Longitudinal Data; Survival Analysis"
+    research: "Research Interest: Irregularly Measured Longitudinal Data, Survival Analysis"
     link: http://www.linkedin.com/in/george-stefan
 
   - file: Mei_Dong.jpg
     name: Mei Dong
     supervisor: 'Supervisor:  Dr. Wei Xu'
     year: 
-    research: "Research Interest: Causal Inference; Statistical Genetics"
+    research: "Research Interest: Causal Inference, Statistical Genetics"
     link: https://www.linkedin.com/in/mei-dong-297392128/
 
   - file: Naomi_Chang.jpeg
     name: Naomi Chang
     supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
     year: 
-    research: "Research Interest: Causal Inference; Statistical Genetics"
+    research: "Research Interest: Causal Inference, Statistical Genetics"
     link: https://ca.linkedin.com/in/naomi-c-804b77171
 
   - file: Jasper_zhang.jpg
@@ -164,7 +164,7 @@
     name: Jiahui Zhang
     supervisor: 'Supervisor:  Dr. Wei Xu'
     year: 
-    research: 'Research Interest: Longitudinal study, Statistical Genetics'
+    research: 'Research Interest: Longitudinal Study, Statistical Genetics'
     link: 
     
   - file: Yao_Li.jpg
@@ -185,21 +185,21 @@
     name: Larry Dong
     supervisor: 'Supervisor: Dr. Olli Saarela'
     year: 
-    research: 'Research Interest: Causal inference, Image Analysis, Bayesian Methods'
+    research: 'Research Interest: Causal Inference, Image Analysis, Bayesian Methods'
     link: https://larrydong.com/
 
   - file: Pai-Shan_Cheng.jpeg
     name: Pai-Shan Cheng
     supervisor: 'Supervisor: Dr. George Tomlinson'
     year: 
-    research: 'Research Interest: Network meta-analysis, Bayesian inference, Osteoarthritis'
+    research: 'Research Interest: Network Meta-Analysis, Bayesian Inference, Osteoarthritis'
     link: 
 
   - file: Rose_Garrett.jpg
     name: Rose Garrett
     supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
     year: 
-    research: 'Research Interest: Irregularly spaced longitudinal data, Bayesian inference, JDM'
+    research: 'Research Interest: Irregularly Spaced Longitudinal Data, Bayesian Inference, JDM'
     link: https://www.linkedin.com/in/rose-garrett-305414129/
 
   - file: Thai-Son_Tang.jpeg
@@ -214,7 +214,7 @@
     name: Xinyang (Sean) Feng
     supervisor: 'Supervisor: Dr. Aya Mitani'
     year:
-    research: 'Research Interest: Dynamic prediction, Longitudinal Data, Survival Analysis'
+    research: 'Research Interest: Dynamic Prediction, Longitudinal Data, Survival Analysis'
     link: https://www.linkedin.com/in/xinyang-sean-feng-4039b6136/
 
   - file: Yu_Shi.jpg
@@ -235,14 +235,14 @@
     name: Ziqian Zhuang
     supervisor: 'Supervisor: Dr. Wei Xu'
     year: 
-    research: 'Research Interest: Survival analysis, Statistical genetics, Machine learning'
+    research: 'Research Interest: Survival Analysis, Statistical Genetics, Machine learning'
     link: https://www.linkedin.com/in/ziqianzhuang/?locale=en_US
 
   - file: Desmond_Zeya_Chen.jpg
     name: Desmond Zeya Chen
     supervisor: 'Dr. Andrew Paterson & Dr. Clement Ma'
     year:
-    research: 'Research Interest: Statistical Omics, Large Scale Statistical Software Development under HPC Environment.'
+    research: 'Research Interest: Statistical Omics, Large Scale Statistical Software Development Under HPC Environment.'
     link: ''
 
 
