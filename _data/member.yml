@@ -17,7 +17,7 @@
     name: Yankai Feng
     supervisor: 'Supervisor: Dr. Briollais Laurent'
     year: MSc
-    research: 'Research Interest: Longitudinal studies, Survival analysis, Categorical data analysis'
+    research: 'Research Interest: Longitudinal studies, survival analysis, categorical data analysis'
     link: 'https://fengyankai.github.io/'
 
   - file: Yutong_Lu.JPG
@@ -55,6 +55,7 @@
     name: Mohammad Reza Fahimi
     supervisor: 'Supervisor: Dr. Osvaldo Espin-Garcia, Dr. Aya Mitani'
     year: MSc (Thesis)
+    research: Two-phase study design, longitudinal data analysis, ordinal data analysis
     link: 'https://www.linkedin.com/in/mohammad-reza-fahimi-48a67020b/'
 
   - file: Shijie_Min.jpg
