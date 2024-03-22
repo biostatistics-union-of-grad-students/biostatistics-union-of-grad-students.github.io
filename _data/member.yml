@@ -25,7 +25,7 @@
     name: Qirui Hou
     supervisor: "Supervisor: Dr. Clement Ma"
     year: MSc (Thesis)
-    research: 'Research Interests: Master protocol, Trial Design'
+    research: 'Research Interests: Master Protocol, Trial Design'
     link: ''
 
   - file: Yutong_Lu.JPG
@@ -50,7 +50,7 @@
     name: Youxue Ren
     supervisor: 'Supervisor:  Dr. Aya Mitani'
     year: MSc (AI/DS Emphasis)
-    research: 'Research Interests: Causal Inference，NLP'
+    research: 'Research Interests: Causal Inference, NLP'
     link: 'https://ca.linkedin.com/in/%E6%82%A0%E9%9B%AA-%E4%BB%BB-snowball/en'
 
   - file: no_pic.png
@@ -245,7 +245,7 @@
 
 
 
-- desc: Master's Alumni
+- desc: MSc Alumni
   type: alumni
   list:
   - file: Yuan_Bian.jpg
