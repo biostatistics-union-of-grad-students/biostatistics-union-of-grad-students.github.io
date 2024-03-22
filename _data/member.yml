@@ -44,7 +44,7 @@
     name: Shijie Min
     supervisor: 'Supervisor: Dr. Pingzhao Hu'
     year: MSc (Thesis)
-    link:
+    link: 'https://www.linkedin.com/in/shijie-min/'
 
   - file: Youxue_Ren.jpeg
     name: Youxue Ren
@@ -57,7 +57,7 @@
     name: Priyonto Saha
     supervisor: 'Supervisor: Dr. Zahra Shakeri'
     year: MSc (AI/DS Emphasis)
-    link: ''
+    link: 'https://www.linkedin.com/in/priyontosaha/'
     
   - file: Feifan_Xiang.jpg
     name: Feifan Xiang
@@ -392,37 +392,73 @@
 - desc: Executive Team
   type: executive
   list:
-  - file: Jasper_zhang.jpg
-    name: Jasper Zhongyuan Zhang
-    position: Co-President
-    link: https://jasperzhang.com/
-
-  - file: no_pic.png
-    name: Anastasia Teterina
-    position: Co-President
-
   - file: Xinyang(Sean)_Feng.jpg
     name: Xinyang (Sean) Feng
-    position: Seminar Co-Chair
-
-  - file: Linke_Li2.jpg
-    name: Linke Li
-    position: Seminar Co-Chair & Webmaster
-    link: https://www.linkedin.com/in/linke-li-596390107/?originalSubdomain=ca
-
-  - file: April_Cheng.jpg
-    name: April Yang Cheng
-    position: Webmaster
-
-  - file: Eric_Sanders.jpg
-    name: Eric Sanders
-    position: Social Co-Chair & Secretary
-
-  - file: Shijie_Min.jpg
-    name: Shijie Min
-    position: Social Co-Chair
+    position: Co-President
+    link: https://www.linkedin.com/in/xinyang-sean-feng-4039b6136/
 
   - file: George_Stefan.jpg
     name: George Stefan
-    position: PHSA Biostatistics PhD Representative
-   
+    position: Co-President
+    link: https://www.linkedin.com/in/george-stefan/
+
+  - file: Eric_Sanders.jpg
+    name: Eric Sanders
+    position: Treasurer
+
+  - file: Youxue_Ren.jpeg
+    name: Youxue Ren
+    position: Secretary & Fundraising Co-Chair
+    link: 'https://ca.linkedin.com/in/%E6%82%A0%E9%9B%AA-%E4%BB%BB-snowball/en'
+
+  - file: no_pic.png
+    name: Abigail McGrory
+    position: Social Co-Chair
+    link: https://www.linkedin.com/in/abigail-mcgrory/
+
+  - file: Shijie_Min.jpg
+    name: Shijie Min
+    position: Social Co-Chair  
+    link: https://www.linkedin.com/in/shijie-min/
+
+  - file: Yushu_Zou.jpg
+    name: Yushu Zou
+    position: Seminar Co-Chair
+    link: 'https://reidbrok.github.io/'
+
+  - file: Yutong_Lu.JPG
+    name: Yutong Lu
+    position: Seminar Co-Chair
+    link: 'https://www.linkedin.com/in/yutong-lu-lorraine/'
+
+  - file: Mohammad_Reza_Fahimi.jpg
+    name: Mohammad Reza Fahimi
+    position: Webmaster
+    link: 'https://www.linkedin.com/in/mohammad-reza-fahimi-48a67020b/'
+
+  - file: no_pic.png
+    name: Qirui Hou
+    position: Webmaster
+
+  - file: Feifan_Xiang.jpg
+    name: Feifan Xiang
+    position: Fundraising Co-Chair
+
+  - file: no_pic.png
+    name: Anastasia Teterina
+    position: PHSA PhD Representative
+
+  - file: Yuqing_Liu.jpg
+    name: Yuqing Liu
+    position: PHSA PhD Representative
+    link: https://www.linkedin.com/in/yuqingliu1/
+
+  - file: no_pic.png
+    name: Priyonto Saha
+    position: PHSA MSc Representative
+    link: 'https://www.linkedin.com/in/priyontosaha/'
+
+  - file: no_pic.png
+    name: Aoqi Xie
+    position: PHSA MSc Representative
+    link: 'https://www.linkedin.com/in/aoqi-xie-708811208/'
