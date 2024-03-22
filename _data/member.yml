@@ -15,9 +15,9 @@
 
   - file: Yankai_Feng.jpg
     name: Yankai Feng
-    supervisor: 'Supervisor: Dr. Briollais Laurent'
+    supervisor: 'Supervisor: Dr. Laurent Briollais'
     year: MSc
-    research: 'Research Interest: Longitudinal Studies, Survival Analysis, Categorical Data Analysis'
+    research: 'Research Interests: Longitudinal Studies, Survival Analysis, Categorical Data Analysis'
     link: 'https://fengyankai.github.io/'
 
   - file: Yutong_Lu.JPG
@@ -34,7 +34,7 @@
 
   - file: Xiao_Yan.jpg
     name: Xiao Yan
-    supervisor: 'Supervisor: Dr. Kuan Liu '
+    supervisor: 'Supervisor: Dr. Kuan Liu'
     year: MSc (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/xiaoyan1596/'
 
@@ -42,7 +42,7 @@
     name: Youxue Ren
     supervisor: 'Supervisor:  Dr. Aya Mitani'
     year: MSc (AI/DS Emphasis)
-    research: 'Research Interest: Casual Inference，NLP'
+    research: 'Research Interests: Causal Inference，NLP'
     link: 'https://ca.linkedin.com/in/%E6%82%A0%E9%9B%AA-%E4%BB%BB-snowball/en'
 
   - file: April_Cheng.jpg
@@ -55,12 +55,12 @@
     name: Mohammad Reza Fahimi
     supervisor: 'Supervisor: Dr. Osvaldo Espin-Garcia, Dr. Aya Mitani'
     year: MSc (Thesis)
-    research: Two-Phase Study Design, Longitudinal Data Analysis, Ordinal Data Analysis
+    research: 'Research Interests: Two-Phase Study Design, Longitudinal Data Analysis, Ordinal Data Analysis'
     link: 'https://www.linkedin.com/in/mohammad-reza-fahimi-48a67020b/'
 
   - file: Shijie_Min.jpg
     name: Shijie Min
-    supervisor: 'Supervisor: Dr.Pingzhao Hu'
+    supervisor: 'Supervisor: Dr. Pingzhao Hu'
     year: MSc (Thesis)
     link:
 
