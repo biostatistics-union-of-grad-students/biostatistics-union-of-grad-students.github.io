@@ -25,7 +25,7 @@
     name: Qirui Hou
     supervisor: "Supervisor: Dr. Clement Ma"
     year: MSc (Thesis)
-    research: 'Research Interest: Master protocol, Trial Design'
+    research: 'Research Interests: Master protocol, Trial Design'
     link: ''
 
   - file: Yutong_Lu.JPG
@@ -86,142 +86,92 @@
 
 
 
-- desc: Current PhD
+- desc: Current PhD Students
   type: current
   list:
-  - file: no_pic.png
-    name: Anastasia Teterina
-    supervisor: 'Supervisor:  Dr. Wendy Lou'
-    year: 
-    research:
-    link:
-
-  - file: Boxi_Lin.jpeg
-    name: Boxi Lin
-    supervisor: 'Supervisor:  Dr. Lei Sun'
-    year: 
-    research: "Research Interest: Statistical genetics, Computational Statistics"
-    link: https://boxilin.github.io/
-
-  - file: Chen_Chen.jpg
-    name: Chen Chen
-    supervisor: 'Practicum supervisors: Dr. Kuan Liu, Dr. Zihang  Lu, Dr. Geoffrey Anderson'
-    year: 
-    research: "Research Interest: Joint Modeling, Bayesian Statistics"
-    link:
-
-  - file: Dongyang_Yang.jpg
-    name: Dongyang Yang
-    supervisor: 'Supervisor:  Dr. Wei Xu'
-    year: 
-    research: "Research Interest: Statistical Genetics, Microbiome"
-    link: https://www.linkedin.com/in/dongyang-dawn-yang/
-
-  - file: Eric_Sanders.jpg
-    name: Eric Sanders
-    supervisor: 'Supervisor:  Dr. Lisa Strug'
-    year: 
-    research: "Research Interest: Statistical Genetics"
-    link: 
-
-  - file: Gengming_He.jpg
-    name: Gengming He
-    supervisor: 'Supervisor:  Dr. Lisa Strug'
-    year: 
-    research: "Research Interest: Long-Read Sequencing Data, Post-selection Inference, Matrix Regression"
-    link:
-
-  - file: George_Stefan.jpg
-    name: George Stefan
-    supervisor: 'Supervisor:  Dr. Eleanor Pullenayegum'
-    year: 
-    research: "Research Interest: Irregularly Measured Longitudinal Data, Survival Analysis"
-    link: http://www.linkedin.com/in/george-stefan
-
-  - file: Mei_Dong.jpg
-    name: Mei Dong
-    supervisor: 'Supervisor:  Dr. Wei Xu'
-    year: 
-    research: "Research Interest: Causal Inference, Statistical Genetics"
-    link: https://www.linkedin.com/in/mei-dong-297392128/
-
   - file: Naomi_Chang.jpeg
     name: Naomi Chang
     supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
     year: 
-    research: "Research Interest: Causal Inference, Statistical Genetics"
+    research: "Research Interests: Causal Inference, Statistical Genetics"
     link: https://ca.linkedin.com/in/naomi-c-804b77171
-
-  - file: Jasper_zhang.jpg
-    name: Jasper Zhongyuan Zhang
-    supervisor: 'Supervisor:  Dr. Wei Xu'
-    year: 
-    research: 'Research Interest: Survival Analysis, Deep Learning, Health Economics'
-    link: https://jasperzhang.com/
-
-  - file: Jiahui_Zhang.jpg
-    name: Jiahui Zhang
-    supervisor: 'Supervisor:  Dr. Wei Xu'
-    year: 
-    research: 'Research Interest: Longitudinal Study, Statistical Genetics'
-    link: 
     
-  - file: Yao_Li.jpg
-    name: Yao Li
-    supervisor: 'Supervisor:  Dr. Wei Xu'
+  - file: Chen_Chen.jpg
+    name: Chen Chen
+    supervisor: 'Practicum Supervisors: Dr. Kuan Liu, Dr. Zihang Lu, Dr. Geoffrey Anderson'
     year: 
-    research: 'Research Interest: Causal Mediation Analysis, Microbiome'
-    link: https://www.linkedin.com/in/yao-li-a15b2884/?originalSubdomain=ca
+    research: "Research Interests: Joint Modeling, Bayesian Statistics"
+    link:
 
-  - file: Linke_Li2.jpg
-    name: Linke Li
-    supervisor: 'Supervisor: Dr. Anna Heath'
-    year: 
-    research: 'Research Interest: Bayesian Decision Theory, Health Economics'
-    link: https://www.linkedin.com/in/linke-li-596390107/?originalSubdomain=ca
-
-  - file: Larry_dong.jpg
-    name: Larry Dong
-    supervisor: 'Supervisor: Dr. Olli Saarela'
-    year: 
-    research: 'Research Interest: Causal Inference, Image Analysis, Bayesian Methods'
-    link: https://larrydong.com/
+  - file: Desmond_Zeya_Chen.jpg
+    name: Desmond Zeya Chen
+    supervisor: 'Dr. Andrew Paterson & Dr. Clement Ma'
+    year:
+    research: 'Research Interests: Statistical Omics, Large Scale Statistical Software Development Under HPC Environment.'
+    link: ''
 
   - file: Pai-Shan_Cheng.jpeg
     name: Pai-Shan Cheng
     supervisor: 'Supervisor: Dr. George Tomlinson'
     year: 
-    research: 'Research Interest: Network Meta-Analysis, Bayesian Inference, Osteoarthritis'
-    link: 
+    research: 'Research Interests: Network Meta-Analysis, Bayesian Inference, Osteoarthritis'
+    link:
 
-  - file: Rose_Garrett.jpg
-    name: Rose Garrett
-    supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
-    year: 
-    research: 'Research Interest: Irregularly Spaced Longitudinal Data, Bayesian Inference, JDM'
-    link: https://www.linkedin.com/in/rose-garrett-305414129/
-
-  - file: Thai-Son_Tang.jpeg
-    name: Thai-Son Tang
+  - file: Larry_dong.jpg
+    name: Larry Dong
     supervisor: 'Supervisor: Dr. Olli Saarela'
     year: 
-    research: 'Research Interest: Causal Mediation Analysis, Functional Data Analysis'
-    link: https://www.linkedin.com/in/thaison-tang
+    research: 'Research Interests: Causal Inference, Image Analysis, Bayesian Methods'
+    link: https://larrydong.com/
 
+  - file: Mei_Dong.jpg
+    name: Mei Dong
+    supervisor: 'Supervisor:  Dr. Wei Xu'
+    year: 
+    research: "Research Interests: Causal Inference, Statistical Genetics"
+    link: https://www.linkedin.com/in/mei-dong-297392128/
 
   - file: Xinyang(Sean)_Feng.jpg
     name: Xinyang (Sean) Feng
     supervisor: 'Supervisor: Dr. Aya Mitani'
     year:
-    research: 'Research Interest: Dynamic Prediction, Longitudinal Data, Survival Analysis'
+    research: 'Research Interests: Dynamic Prediction, Longitudinal Data, Survival Analysis'
     link: https://www.linkedin.com/in/xinyang-sean-feng-4039b6136/
 
-  - file: Yu_Shi.jpg
-    name: Yu Shi
-    supervisor: 'Practicum Supervisor: Dr. Pingzhao Hu'
+  - file: Rose_Garrett.jpg
+    name: Rose Garrett
+    supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
     year: 
-    research: ''
-    link: https://www.linkedin.com/in/yu-shi-a80571193/
+    research: 'Research Interests: Irregularly Spaced Longitudinal Data, Bayesian Inference, JDM'
+    link: https://www.linkedin.com/in/rose-garrett-305414129/
+    
+  - file: Gengming_He.jpg
+    name: Gengming He
+    supervisor: 'Supervisor: Dr. Lisa Strug'
+    year: 
+    research: "Research Interests: Long-Read Sequencing Data, Post-selection Inference, Matrix Regression"
+    link:
+
+  - file: Linke_Li2.jpg
+    name: Linke Li
+    supervisor: 'Supervisor: Dr. Anna Heath'
+    year: 
+    research: 'Research Interests: Bayesian Decision Theory, Health Economics'
+    link: https://www.linkedin.com/in/linke-li-596390107/?originalSubdomain=ca
+
+  - file: Yao_Li.jpg
+    name: Yao Li
+    supervisor: 'Supervisor:  Dr. Wei Xu'
+    year: 
+    research: 'Research Interests: Causal Mediation Analysis, Microbiome'
+    link: https://www.linkedin.com/in/yao-li-a15b2884/?originalSubdomain=ca
+    
+  - file: Boxi_Lin.jpeg
+    name: Boxi Lin
+    supervisor: 'Supervisor:  Dr. Lei Sun'
+    year: 
+    research: "Research Interests: Statistical Genetics, Computational Statistics"
+    link: https://boxilin.github.io/
 
   - file: Yuqing_Liu.jpg
     name: Yuqing Liu
@@ -230,55 +180,106 @@
     research: ''
     link: https://www.linkedin.com/in/yuqingliu1/
 
+  - file: Eric_Sanders.jpg
+    name: Eric Sanders
+    supervisor: 'Supervisor: Dr. Lisa Strug'
+    year: 
+    research: "Research Interests: Statistical Genetics"
+    link:
+
+  - file: Yu_Shi.jpg
+    name: Yu Shi
+    supervisor: 'Practicum Supervisor: Dr. Pingzhao Hu'
+    year: 
+    research: ''
+    link: https://www.linkedin.com/in/yu-shi-a80571193/
+
+  - file: George_Stefan.jpg
+    name: George Stefan
+    supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
+    year: 
+    research: "Research Interests: Irregularly Observed Longitudinal Data, Survival Analysis"
+    link: http://www.linkedin.com/in/george-stefan
+
+  - file: Thai-Son_Tang.jpeg
+    name: Thai-Son Tang
+    supervisor: 'Supervisor: Dr. Olli Saarela'
+    year: 
+    research: 'Research Interests: Causal Mediation Analysis, Functional Data Analysis'
+    link: https://www.linkedin.com/in/thaison-tang
+
+  - file: no_pic.png
+    name: Anastasia Teterina
+    supervisor: 'Supervisor: Dr. Wendy Lou'
+    year: 
+    research:
+    link:
+
+  - file: Dongyang_Yang.jpg
+    name: Dongyang Yang
+    supervisor: 'Supervisor: Dr. Wei Xu'
+    year: 
+    research: "Research Interests: Statistical Genetics, Microbiome"
+    link: https://www.linkedin.com/in/dongyang-dawn-yang/
+
+  - file: Jasper_zhang.jpg
+    name: Jasper Zhongyuan Zhang
+    supervisor: 'Supervisor: Dr. Wei Xu'
+    year: 
+    research: 'Research Interests: Survival Analysis, Deep Learning, Health Economics'
+    link: https://jasperzhang.com/
+
+  - file: Jiahui_Zhang.jpg
+    name: Jiahui Zhang
+    supervisor: 'Supervisor: Dr. Wei Xu'
+    year: 
+    research: 'Research Interests: Longitudinal Study, Statistical Genetics'
+    link:
+
   - file: Ziqian_Zhuang .JPG
     name: Ziqian Zhuang
     supervisor: 'Supervisor: Dr. Wei Xu'
     year: 
-    research: 'Research Interest: Survival Analysis, Statistical Genetics, Machine learning'
+    research: 'Research Interests: Survival Analysis, Statistical Genetics, Machine Learning'
     link: https://www.linkedin.com/in/ziqianzhuang/?locale=en_US
 
-  - file: Desmond_Zeya_Chen.jpg
-    name: Desmond Zeya Chen
-    supervisor: 'Dr. Andrew Paterson & Dr. Clement Ma'
-    year:
-    research: 'Research Interest: Statistical Omics, Large Scale Statistical Software Development Under HPC Environment.'
-    link: ''
 
 
-
-
-
-- desc: Master Alumni
+- desc: Master's Alumni
   type: alumni
   list:
   - file: Yuan_Bian.jpg
     name: Yuan Bian
     position: PhD Candidate in Statistics, University of Western Ontario
-    supervisor: 'Supervisor: Dr.Shelley Bull'
+    supervisor: 'Supervisor: Dr. Shelley Bull'
     year: 2020 (Thesis)
     research: 'Research Interest: Machine learning , Missing data, Causal inference, Survival analysis'
     link: 'https://yuanbian.netlify.app/'
 
   - file: Jennifer_Su.JPG
     name: Yi-Chen Su
+    position: Biostatistician, Lunenfeld-Tanenbaum Research Institute, Sinai Health
     supervisor: 'Supervisor: Dr. Huan Jiang'
     year: 2023 (AI/DS Emphasis)
-    link:
+    link: 'https://www.linkedin.com/in/yi-chen-su-b62060290/'
 
   - file: Yu-Chun(Gingin)_Chien.jpg
     name: Yu-Chun (Gingin) Chien
+    position: Research Analyst, Institute for Work & Health
     supervisor: 'Supervisor: Melanie Poulin-Costello'
     year: 2023
     link: 'https://www.linkedin.com/in/yuchunchien/'
 
   - file: Mu_Yang.jpg
     name: Mu Yang
+    position: Senior Research Associate, University of Waterloo
     supervisor: 'Supervisor: Dr. Daniel Felsky'
     year: 2023 (Thesis)
     link: 'https://www.linkedin.com/in/mu-yang-432954171/'
 
   - file: no_pic.png
     name: Peiyu Li
+    position: CANSTAT Fellow, Unity Health Toronto
     supervisor: 'Supervisor: Dr.Aya Mitani, Dr.Chun-Po Steve Fan, Dr.Sudipta Saha'
     year: 2023
     link: 'https://www.linkedin.com/in/peiyu-li-76a734235/'
@@ -291,16 +292,17 @@
 
   - file: Luis_Ledesma.jpg
     name: Luis Ledesma
+    position: Statistical Analyst, McMaster University
     supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
-    year: MSc (Thesis)
+    year: 2023 (Thesis)
     link: 'https://www.linkedin.com/in/luisledes/'
 
   - file: no_pic.png
     name: Shangyi Gao
-    position: Biostatistician at UHN
+    position: Biostatistician, University Health Network (UHN)
     supervisor: 'Supervisor: Dr.Wendy Lou'
     year: 2023
-    link: ''
+    link: 'https://www.linkedin.com/in/shangyi-gao/'
 
   - file: Yutong_Chen.jpg
     name: Betty Chen
@@ -310,61 +312,62 @@
 
   - file: Charlotte_Chen.jpg
     name: Charlotte Chen
+    position: Data Analyst, William Osler Health System
     supervisor:
-    year: MSc
-    link:
+    year: 2023
+    link: 'https://www.linkedin.com/in/xiaoyu-%EF%BC%88charlotte%EF%BC%89-chen-4199aa280/'
 
   - file: Ashley_Mao.jpeg
     name: Ashley Mao
-    position:  Data Scientist at Roche
+    position: Senior Data Scientist, Roche
     year: 2020
     link: 'https://www.linkedin.com/in/ashleymaohuiyan/'
 
   - file: no_pic.png.jpeg
     name: Jiachen (Jason) Zhu
-    position:  Data Engineer at Roche
+    position: Data Engineer, Roche
     year: 2020
     link: 'https://www.linkedin.com/in/jiachen-jason-zhu-333412157/'
 
   - file: Rebbeca_Du.jpeg
     name: Jingwen (Rebecca) Du
-    position:  Statistical Programmer at Everest Clinical Research
+    position: Statistical Programmer, Everest Clinical Research
     year: 2020
     link: 'https://www.linkedin.com/in/jingwen-rebecca-du-a9056217a/'
 
   - file: Siyi_Wang.jpeg
     name: Siyi Wang
-    position:  Research Data Scientist at St. Michael's Hospital
+    position: Research Data Scientist, St. Michael's Hospital
     year: 2022
     link: 'https://www.linkedin.com/in/siyi-wang-667595211/'
 
   - file: Jiayue(Edith)_Yu.jpeg
     name: Jiayue (Edith) Yu
-    position: Research Associate - Evidence Generation at Cytel
+    position: Research Associate - Evidence Generation, Cytel
     year: 2021
     link: 'https://www.linkedin.com/in/jiayue-edith-yu/'
 
   - file: Qiao Li.jpg
-    name: Li Qiao
-    position: Statistical Consultant at Amaris Consulting
+    name: Qiao Li
+    position: Statistical Consultant, Amaris Consulting
     year: 2021
     link: 'https://www.linkedin.com/in/qiao-li-95079aab/?originalSubdomain=ca'
 
   - file: Ruixue_Dai.jpg
     name: Ruixue Dai
-    position: Statistical Consultant at Amaris Consulting
+    position: Senior Biostatistician, The Hospital for Sick Children
     year: 2017
     link: 'https://www.linkedin.com/in/ruixuedai'
 
   - file: Zhuo_Wei.jpg
     name: Zhuo Wei
-    position: Statistical Consultant at Amaris Consulting
+    position: Senior Biostatistician, Syneos Health
     year: 2021
     link: 'https://www.linkedin.com/in/zhuo-lilian-wei/'
 
   - file: Jocelyn(Ziming)_Chen.jpeg
     name:  Ziming (Jocelyn) Chen
-    position:  Biostatistician at AstraZeneca
+    position:  Biostatistician, AstraZeneca
     year: 2022
     link: 'https://www.linkedin.com/in/ziming-jocelyn-chen-428053124/?originalSubdomain=cn'
 
@@ -375,14 +378,14 @@
   list:
   - file: no_pic.png
     name: Kuan Liu
-    position: Assistant Professor at Univeristy of Toronto
-    year: 2015 - 2021
+    position: Assistant Professor at University of Toronto
+    year: 2021
     link: https://www.kuan-liu.com/
 
   - file: no_pic.png
     name: Zihang Lu
     position: Assistant Professor at Queen's University
-    year: 2015 - 2020
+    year: 2020
     link: https://zihanglu.com/current-students/
 
 
