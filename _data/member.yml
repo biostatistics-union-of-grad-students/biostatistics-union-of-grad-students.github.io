@@ -432,15 +432,15 @@
     position: Social Co-Chair
     link: https://www.linkedin.com/in/shijie-min/
 
-  - file: Yushu_Zou.jpg
-    name: Yushu Zou
-    position: Seminar Co-Chair
-    link: 'https://reidbrok.github.io/'
-
   - file: Yutong_Lu.JPG
     name: Yutong Lu
     position: Seminar Co-Chair
     link: 'https://www.linkedin.com/in/yutong-lu-lorraine/'
+
+  - file: Yushu_Zou.jpg
+    name: Yushu Zou
+    position: Seminar Co-Chair
+    link: 'https://reidbrok.github.io/'
 
   - file: Mohammad_Reza_Fahimi.jpg
     name: Mohammad Reza Fahimi
