@@ -256,54 +256,6 @@
     research: 'Research Interest: Machine learning , Missing data, Causal inference, Survival analysis'
     link: 'https://yuanbian.netlify.app/'
 
-  - file: Jennifer_Su.JPG
-    name: Yi-Chen Su
-    position: Biostatistician, Lunenfeld-Tanenbaum Research Institute, Sinai Health
-    supervisor: 'Supervisor: Dr. Huan Jiang'
-    year: 2023 (AI/DS Emphasis)
-    link: 'https://www.linkedin.com/in/yi-chen-su-b62060290/'
-
-  - file: Yu-Chun(Gingin)_Chien.jpg
-    name: Yu-Chun (Gingin) Chien
-    position: Research Analyst, Institute for Work & Health
-    supervisor: 'Supervisor: Melanie Poulin-Costello'
-    year: 2023
-    link: 'https://www.linkedin.com/in/yuchunchien/'
-
-  - file: Mu_Yang.jpg
-    name: Mu Yang
-    position: Senior Research Associate, University of Waterloo
-    supervisor: 'Supervisor: Dr. Daniel Felsky'
-    year: 2023 (Thesis)
-    link: 'https://www.linkedin.com/in/mu-yang-432954171/'
-
-  - file: no_pic.png
-    name: Peiyu Li
-    position: CANSTAT Fellow, Unity Health Toronto
-    supervisor: 'Supervisor: Dr.Aya Mitani, Dr.Chun-Po Steve Fan, Dr.Sudipta Saha'
-    year: 2023
-    link: 'https://www.linkedin.com/in/peiyu-li-76a734235/'
-
-  - file: no_pic.png
-    name: ChenNingZhi Sheng
-    supervisor: 'Supervisor: Dr. Rafal Kustra, Dr. Kuan Liu'
-    year: MSc
-    link: 'https://www.linkedin.com/in/kara-sheng-2a77461b1/'
-
-  - file: Luis_Ledesma.jpg
-    name: Luis Ledesma
-    position: Statistical Analyst, McMaster University
-    supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
-    year: 2023 (Thesis)
-    link: 'https://www.linkedin.com/in/luisledes/'
-
-  - file: no_pic.png
-    name: Shangyi Gao
-    position: Biostatistician, University Health Network (UHN)
-    supervisor: 'Supervisor: Dr.Wendy Lou'
-    year: 2023
-    link: 'https://www.linkedin.com/in/shangyi-gao/'
-
   - file: Yutong_Chen.jpg
     name: Betty Chen
     supervisor: 'Supervisor: Dr.Rahim Moineddin, Christopher Meaney'
@@ -317,41 +269,18 @@
     year: 2023
     link: 'https://www.linkedin.com/in/xiaoyu-%EF%BC%88charlotte%EF%BC%89-chen-4199aa280/'
 
-  - file: Ashley_Mao.jpeg
-    name: Ashley Mao
-    position: Senior Data Scientist, Roche
-    year: 2020
-    link: 'https://www.linkedin.com/in/ashleymaohuiyan/'
-
-  - file: no_pic.png.jpeg
-    name: Jiachen (Jason) Zhu
-    position: Data Engineer, Roche
-    year: 2020
-    link: 'https://www.linkedin.com/in/jiachen-jason-zhu-333412157/'
-
-  - file: Rebbeca_Du.jpeg
-    name: Jingwen (Rebecca) Du
-    position: Statistical Programmer, Everest Clinical Research
-    year: 2020
-    link: 'https://www.linkedin.com/in/jingwen-rebecca-du-a9056217a/'
-
-  - file: Siyi_Wang.jpeg
-    name: Siyi Wang
-    position: Research Data Scientist, St. Michael's Hospital
+  - file: Jocelyn(Ziming)_Chen.jpeg
+    name:  Ziming (Jocelyn) Chen
+    position:  Biostatistician, AstraZeneca
     year: 2022
-    link: 'https://www.linkedin.com/in/siyi-wang-667595211/'
+    link: 'https://www.linkedin.com/in/ziming-jocelyn-chen-428053124/?originalSubdomain=cn'
 
-  - file: Jiayue(Edith)_Yu.jpeg
-    name: Jiayue (Edith) Yu
-    position: Research Associate - Evidence Generation, Cytel
-    year: 2021
-    link: 'https://www.linkedin.com/in/jiayue-edith-yu/'
-
-  - file: Qiao Li.jpg
-    name: Qiao Li
-    position: Statistical Consultant, Amaris Consulting
-    year: 2021
-    link: 'https://www.linkedin.com/in/qiao-li-95079aab/?originalSubdomain=ca'
+  - file: Yu-Chun(Gingin)_Chien.jpg
+    name: Yu-Chun (Gingin) Chien
+    position: Research Analyst, Institute for Work & Health
+    supervisor: 'Supervisor: Melanie Poulin-Costello'
+    year: 2023
+    link: 'https://www.linkedin.com/in/yuchunchien/'
 
   - file: Ruixue_Dai.jpg
     name: Ruixue Dai
@@ -359,17 +288,88 @@
     year: 2017
     link: 'https://www.linkedin.com/in/ruixuedai'
 
+  - file: Rebbeca_Du.jpeg
+    name: Jingwen (Rebecca) Du
+    position: Statistical Programmer, Everest Clinical Research
+    year: 2020
+    link: 'https://www.linkedin.com/in/jingwen-rebecca-du-a9056217a/'
+
+  - file: no_pic.png
+    name: Shangyi Gao
+    position: Biostatistician, University Health Network (UHN)
+    supervisor: 'Supervisor: Dr.Wendy Lou'
+    year: 2023
+    link: 'https://www.linkedin.com/in/shangyi-gao/'
+
+  - file: Luis_Ledesma.jpg
+    name: Luis Ledesma
+    position: Statistical Analyst, McMaster University
+    supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
+    year: 2023 (Thesis)
+    link: 'https://www.linkedin.com/in/luisledes/'
+
+  - file: no_pic.png
+    name: Peiyu Li
+    position: CANSTAT Fellow, Unity Health Toronto
+    supervisor: 'Supervisor: Dr.Aya Mitani, Dr.Chun-Po Steve Fan, Dr.Sudipta Saha'
+    year: 2023
+    link: 'https://www.linkedin.com/in/peiyu-li-76a734235/'
+
+  - file: Qiao Li.jpg
+    name: Qiao Li
+    position: Statistical Consultant, Amaris Consulting
+    year: 2021
+    link: 'https://www.linkedin.com/in/qiao-li-95079aab/?originalSubdomain=ca'
+
+  - file: Ashley_Mao.jpeg
+    name: Ashley Mao
+    position: Senior Data Scientist, Roche
+    year: 2020
+    link: 'https://www.linkedin.com/in/ashleymaohuiyan/'
+
+  - file: no_pic.png
+    name: ChenNingZhi Sheng
+    supervisor: 'Supervisor: Dr. Rafal Kustra, Dr. Kuan Liu'
+    year: 2023
+    link: 'https://www.linkedin.com/in/kara-sheng-2a77461b1/'
+
+  - file: Jennifer_Su.JPG
+    name: Yi-Chen Su
+    position: Biostatistician, Lunenfeld-Tanenbaum Research Institute, Sinai Health
+    supervisor: 'Supervisor: Dr. Huan Jiang'
+    year: 2023 (AI/DS Emphasis)
+    link: 'https://www.linkedin.com/in/yi-chen-su-b62060290/'
+
+  - file: Siyi_Wang.jpeg
+    name: Siyi Wang
+    position: Research Data Scientist, St. Michael's Hospital
+    year: 2022
+    link: 'https://www.linkedin.com/in/siyi-wang-667595211/'
+
   - file: Zhuo_Wei.jpg
     name: Zhuo Wei
     position: Senior Biostatistician, Syneos Health
     year: 2021
     link: 'https://www.linkedin.com/in/zhuo-lilian-wei/'
 
-  - file: Jocelyn(Ziming)_Chen.jpeg
-    name:  Ziming (Jocelyn) Chen
-    position:  Biostatistician, AstraZeneca
-    year: 2022
-    link: 'https://www.linkedin.com/in/ziming-jocelyn-chen-428053124/?originalSubdomain=cn'
+  - file: Mu_Yang.jpg
+    name: Mu Yang
+    position: Senior Research Associate, University of Waterloo
+    supervisor: 'Supervisor: Dr. Daniel Felsky'
+    year: 2023 (Thesis)
+    link: 'https://www.linkedin.com/in/mu-yang-432954171/'
+
+  - file: Jiayue(Edith)_Yu.jpeg
+    name: Jiayue (Edith) Yu
+    position: Research Associate - Evidence Generation, Cytel
+    year: 2021
+    link: 'https://www.linkedin.com/in/jiayue-edith-yu/'
+
+  - file: no_pic.png.jpeg
+    name: Jiachen (Jason) Zhu
+    position: Data Engineer, Roche
+    year: 2020
+    link: 'https://www.linkedin.com/in/jiachen-jason-zhu-333412157/'
 
 
 
