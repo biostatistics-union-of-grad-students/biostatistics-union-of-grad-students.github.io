@@ -1,4 +1,4 @@
-- desc: Current Master's Students
+- desc: Current MSc Students
   type: current
   list:
   - file: April_Cheng.jpg
@@ -39,6 +39,12 @@
     supervisor:
     year: MSc
     link: 'https://www.linkedin.com/in/zunairamehmood/'
+
+  - file: no_pic.png
+    name: Abigail McGrory
+    supervisor: 'Supervisor: Dr. Anna Heath'
+    year: MSc (Thesis)
+    link: 'https://www.linkedin.com/in/abigail-mcgrory/'
 
   - file: Shijie_Min.jpg
     name: Shijie Min
@@ -412,13 +418,18 @@
     link: 'https://ca.linkedin.com/in/%E6%82%A0%E9%9B%AA-%E4%BB%BB-snowball/en'
 
   - file: no_pic.png
+    name: Xiaoxuan (Rose) Han
+    position: Social Co-Chair
+    link: https://www.linkedin.com/in/xiaoxuan-han-82629b236/
+
+  - file: no_pic.png
     name: Abigail McGrory
     position: Social Co-Chair
     link: https://www.linkedin.com/in/abigail-mcgrory/
 
   - file: Shijie_Min.jpg
     name: Shijie Min
-    position: Social Co-Chair  
+    position: Social Co-Chair
     link: https://www.linkedin.com/in/shijie-min/
 
   - file: Yushu_Zou.jpg
@@ -444,14 +455,14 @@
     name: Feifan Xiang
     position: Fundraising Co-Chair
 
-  - file: no_pic.png
-    name: Anastasia Teterina
-    position: PHSA PhD Representative
-
   - file: Yuqing_Liu.jpg
     name: Yuqing Liu
     position: PHSA PhD Representative
     link: https://www.linkedin.com/in/yuqingliu1/
+
+  - file: no_pic.png
+    name: Anastasia Teterina
+    position: PHSA PhD Representative
 
   - file: no_pic.png
     name: Priyonto Saha
