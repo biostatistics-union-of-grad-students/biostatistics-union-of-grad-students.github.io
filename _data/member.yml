@@ -1,50 +1,6 @@
-- desc: Current Master
+- desc: Current Master's Students
   type: current
   list:
-  - file: no_pic.png
-    name: Aoqi Xie
-    supervisor: 'Supervisor: Dr. Clement Ma'
-    year: MSc (Thesis)
-    link: 'https://www.linkedin.com/in/aoqi-xie-708811208/'
-
-  - file: Feifan_Xiang.jpg
-    name: Feifan Xiang
-    supervisor: 'Supervisor: Dr. Shelley Bull'
-    year: MSc
-    link: ''
-
-  - file: Yankai_Feng.jpg
-    name: Yankai Feng
-    supervisor: 'Supervisor: Dr. Laurent Briollais'
-    year: MSc
-    research: 'Research Interests: Longitudinal Studies, Survival Analysis, Categorical Data Analysis'
-    link: 'https://fengyankai.github.io/'
-
-  - file: Yutong_Lu.JPG
-    name: Yutong Lu
-    supervisor: 'Supervisor: Dr. Pingzhao Hu'
-    year: MSc (AI/DS Emphasis)
-    link: 'https://www.linkedin.com/in/yutong-lu-lorraine/'
-
-  - file: no_pic.png
-    name: Priyonto Saha
-    supervisor: 'Supervisor: Dr. Zahra Shakeri'
-    year: MSc (AI/DS Emphasis)
-    link: ''
-
-  - file: Xiao_Yan.jpg
-    name: Xiao Yan
-    supervisor: 'Supervisor: Dr. Kuan Liu'
-    year: MSc (AI/DS Emphasis)
-    link: 'https://www.linkedin.com/in/xiaoyan1596/'
-
-  - file: Youxue_Ren.jpeg
-    name: Youxue Ren
-    supervisor: 'Supervisor:  Dr. Aya Mitani'
-    year: MSc (AI/DS Emphasis)
-    research: 'Research Interests: Causal Inference，NLP'
-    link: 'https://ca.linkedin.com/in/%E6%82%A0%E9%9B%AA-%E4%BB%BB-snowball/en'
-
   - file: April_Cheng.jpg
     name: April Yang Cheng
     supervisor:
@@ -57,24 +13,13 @@
     year: MSc (Thesis)
     research: 'Research Interests: Two-Phase Study Design, Longitudinal Data Analysis, Ordinal Data Analysis'
     link: 'https://www.linkedin.com/in/mohammad-reza-fahimi-48a67020b/'
-
-  - file: Shijie_Min.jpg
-    name: Shijie Min
-    supervisor: 'Supervisor: Dr. Pingzhao Hu'
-    year: MSc (Thesis)
-    link:
-
-  - file: Yushu_Zou.jpg
-    name: Yushu Zou
-    supervisor: 'Supervisor: Dr. Kuan Liu'
-    year: MSc (Thesis)
-    link: 'https://reidbrok.github.io/'
-
-  - file: no_pic.png
-    name: Zunaira Mehmood
-    supervisor:
+    
+  - file: Yankai_Feng.jpg
+    name: Yankai Feng
+    supervisor: 'Supervisor: Dr. Laurent Briollais'
     year: MSc
-    link: 'https://www.linkedin.com/in/zunairamehmood/'
+    research: 'Research Interests: Longitudinal Studies, Survival Analysis, Categorical Data Analysis'
+    link: 'https://fengyankai.github.io/'
 
   - file: no_pic.png
     name: Qirui Hou
@@ -83,6 +28,60 @@
     research: 'Research Interest: Master protocol, Trial Design'
     link: ''
 
+  - file: Yutong_Lu.JPG
+    name: Yutong Lu
+    supervisor: 'Supervisor: Dr. Pingzhao Hu'
+    year: MSc (AI/DS Emphasis)
+    link: 'https://www.linkedin.com/in/yutong-lu-lorraine/'
+
+  - file: no_pic.png
+    name: Zunaira Mehmood
+    supervisor:
+    year: MSc
+    link: 'https://www.linkedin.com/in/zunairamehmood/'
+
+  - file: Shijie_Min.jpg
+    name: Shijie Min
+    supervisor: 'Supervisor: Dr. Pingzhao Hu'
+    year: MSc (Thesis)
+    link:
+
+  - file: Youxue_Ren.jpeg
+    name: Youxue Ren
+    supervisor: 'Supervisor:  Dr. Aya Mitani'
+    year: MSc (AI/DS Emphasis)
+    research: 'Research Interests: Causal Inference，NLP'
+    link: 'https://ca.linkedin.com/in/%E6%82%A0%E9%9B%AA-%E4%BB%BB-snowball/en'
+
+  - file: no_pic.png
+    name: Priyonto Saha
+    supervisor: 'Supervisor: Dr. Zahra Shakeri'
+    year: MSc (AI/DS Emphasis)
+    link: ''
+    
+  - file: Feifan_Xiang.jpg
+    name: Feifan Xiang
+    supervisor: 'Supervisor: Dr. Shelley Bull'
+    year: MSc
+    link: ''
+    
+  - file: no_pic.png
+    name: Aoqi Xie
+    supervisor: 'Supervisor: Dr. Clement Ma'
+    year: MSc (Thesis)
+    link: 'https://www.linkedin.com/in/aoqi-xie-708811208/'
+
+  - file: Xiao_Yan.jpg
+    name: Xiao Yan
+    supervisor: 'Supervisor: Dr. Kuan Liu'
+    year: MSc (AI/DS Emphasis)
+    link: 'https://www.linkedin.com/in/xiaoyan1596/'
+
+  - file: Yushu_Zou.jpg
+    name: Yushu Zou
+    supervisor: 'Supervisor: Dr. Kuan Liu'
+    year: MSc (Thesis)
+    link: 'https://reidbrok.github.io/'
 
 
 
