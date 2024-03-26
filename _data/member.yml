@@ -257,15 +257,21 @@
   list:
   - file: no_pic.png
     name: Kuan Liu
-    position: Assistant Professor at University of Toronto
+    position: Assistant Professor, University of Toronto
     year: 2021
     link: https://www.kuan-liu.com/
 
   - file: no_pic.png
     name: Zihang Lu
-    position: Assistant Professor at Queen's University
+    position: Assistant Professor, Queen's University
     year: 2020
     link: https://zihanglu.com/current-students/
+
+  - file: no_pic.png
+    name: Mohsen Soltanifar
+    position: Faculty Lecturer, Northeastern University/Senior Biostatistician, ClinChoice Inc.
+    year: 2020
+    link: https://www.linkedin.com/in/mohsensoltanifar/
 
 - desc: MSc Alumni
   type: alumni
