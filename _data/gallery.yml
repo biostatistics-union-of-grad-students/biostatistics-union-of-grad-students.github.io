@@ -2,51 +2,58 @@
   label: Social_Activity
   title: 2024 Winter New Year Celebration
   text: 2024 New Year Celebration on Feb 8, 2024
+
 - file: 2023_welcome_pic.JPG
   label: Social_Activity
   title: 2023 Fall Welcome Picnic
   text: 2023 Fall Welcome Picnic at the Etobicoke Yacht Club on Sep 30, 2023
+
 - file: 2023_posterseminar.png
   label: Seminar
-  title: 2023 Student-led seminar series - How to create a research poster
+  title: 2023 Student-led Seminar Series - How to Create a Research Poster
   text: Seminar on Apr 28, by Chen Chen
+
 - file: 2023_endofsemester.jpeg
   label: Social_Activity
   title: 2023 Winter End of Semester Celebration
   text: 2023 Winter End of Semester Celebration on Apr 13, 2023
+
 - file: 2023_newyear_wendy.jpg
   title: 2023 BUGS New Year Celebration (Wendy)
   label: Social_Activity
   text: BUGS New Year Celebration on Jan 26, 2023
+
 - file: 2023_newyear_tony.jpg
   title: 2023 BUGS New Year Celebration (Tony)
   label: Social_Activity
-  text: BUGS New year Celebration on Jan 26, 2023
+  text: BUGS New Year Celebration on Jan 26, 2023
+
 - file: 2020_osvaldo_workshop.jpeg
   label: Seminar
-  title: Introduction to optimization and parallel processing in R, March 6, 2020.
-  text: Osvaldo-Espin Garcia is a senior biostatistician within the Department of Biostatistics of Princess Margaret Cancer Centre. Osvaldo recently completed his PhD in Biostatistics from the Dalla Lana School of Public Health, University of Toronto on “Advances in Incomplete Data Methods for Statistical Genetics” with research interests in methods development for statistical genetics, design and analysis of two-phase studies, as well as the analysis of microbiome data.
-This workshop will cover optimization and parallel processing in R. The workshop will take place in a computer lab, therefore computers will be available for those wishing to follow along. However, you are most welcome to bring your own laptop for this event.
+  title: Introduction to Optimization and Parallel Processing in R, March 6, 2020
+  text: Workshop led by Osvaldo-Espin Garcia
+
 - file: 2020_new_year.png
-  title: Division of Biostatistics Dumpling’s Night, The Winding Road, February 12, 2020.
+  title: Division of Biostatistics Dumplings Night, The Winding Road, February 12, 2020
   label: Social_Activity
-  text: Lunar New Year’s celebration with faculty, students and alumni. Wendy with her annual tradition of giving out red pockets!
+  text: Lunar New Year's celebration with faculty, students, and alumni. Wendy continues her annual tradition of giving out red pockets!
+
 - file: 2019_holiday.jpeg
-  title: Division of Biostatistics Holiday Party, Fran’s Upper Deck, December 10, 2019.
+  title: Division of Biostatistics Holiday Party, Fran's Upper Deck, December 10, 2019
   label: Social_Activity
-  text: Thank you everyone for coming out and celebrating the end of the semester with us! Be sure to keep an eye out for more events coming in the new year.
+  text: Thank you to everyone for coming out and celebrating the end of the semester with us! Be sure to keep an eye out for more events coming in the new year.
+
 - file: 2019_halloween.jpeg
   title: 2019 Fall Halloween Potluck
   label: Social_Activity
-  text: Division of Biostatistics Halloween Potluck, Health Sciences Building, October 31, 2019. Thank you to everyone who came out and to those who brought food. We hope everyone had fun, and look forward to seeing you at our next event!
+  text: Division of Biostatistics Halloween Potluck, Health Sciences Building, October 31, 2019. Thank you to everyone who came out and to those who brought food. We hope everyone had fun and look forward to seeing you at our next event!
+
 - file: 2019_welcome_pic.jpeg
   title: 2019 Fall Welcome Picnic
   label: Social_Activity
-  text: Division of Biostatistics Welcome Picnic High Park Picnic Area 24, September 21, 2019. Thanks again to those that came out to the Welcome Picnic on Saturday! We had a great turn out his year and hopefully you’ve all gotten a chance to get to know your peers, upper year students and professors a little bit more!
+  text: Division of Biostatistics Welcome Picnic, High Park Picnic Area 24, September 21, 2019. Thanks again to those who came out to the Welcome Picnic on Saturday! We had a great turnout this year and hopefully you've all gotten a chance to get to know your peers, upper-year students, and professors a little bit more!
+
 - file: 2019_bootcamp.jpg
   title: 2019 Biostatistics Bootcamp
-  label: SeminarBiostatistics Welcome Picnic High Park Picnic 
-  text: 2019 Biostatistics Bootcamp, Health Sciences Building, Toronto. September 7-8, 2019. Thank you to all the incoming MSc/PhD students who attended the bootcamp, as well as faculty and volunteers whom took time out of their weekend to make this 2-day workshop possible!
-
-
-  
+  label: Seminar
+  text: 2019 Biostatistics Bootcamp, Health Sciences Building, Toronto, September 7-8, 2019. Thank you to all the incoming MSc/PhD students who attended the bootcamp, as well as faculty and volunteers who took time out of their weekend to make this 2-day workshop possible!
