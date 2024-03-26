@@ -1,97 +1,3 @@
-- desc: Current MSc Students
-  type: current
-  list:
-  - file: April_Cheng.jpg
-    name: April Yang Cheng
-    supervisor:
-    year: MSc
-    link: 'https://www.linkedin.com/in/aprilyangcheng/'
-
-  - file: Mohammad_Reza_Fahimi.jpg
-    name: Mohammad Reza Fahimi
-    supervisor: 'Supervisor: Dr. Osvaldo Espin-Garcia, Dr. Aya Mitani'
-    year: MSc (Thesis)
-    research: 'Research Interests: Two-Phase Study Design, Longitudinal Data Analysis, Ordinal Data Analysis'
-    link: 'https://www.linkedin.com/in/mohammad-reza-fahimi-48a67020b/'
-    
-  - file: Yankai_Feng.jpg
-    name: Yankai Feng
-    supervisor: 'Supervisor: Dr. Laurent Briollais'
-    year: MSc
-    research: 'Research Interests: Longitudinal Studies, Survival Analysis, Categorical Data Analysis'
-    link: 'https://fengyankai.github.io/'
-
-  - file: no_pic.png
-    name: Qirui Hou
-    supervisor: "Supervisor: Dr. Clement Ma"
-    year: MSc (Thesis)
-    research: 'Research Interests: Master Protocol, Trial Design'
-    link: ''
-
-  - file: Yutong_Lu.JPG
-    name: Yutong Lu
-    supervisor: 'Supervisor: Dr. Pingzhao Hu'
-    year: MSc (AI/DS Emphasis)
-    link: 'https://www.linkedin.com/in/yutong-lu-lorraine/'
-
-  - file: no_pic.png
-    name: Zunaira Mehmood
-    supervisor:
-    year: MSc
-    link: 'https://www.linkedin.com/in/zunairamehmood/'
-
-  - file: no_pic.png
-    name: Abigail McGrory
-    supervisor: 'Supervisor: Dr. Anna Heath'
-    year: MSc (Thesis)
-    link: 'https://www.linkedin.com/in/abigail-mcgrory/'
-
-  - file: Shijie_Min.jpg
-    name: Shijie Min
-    supervisor: 'Supervisor: Dr. Pingzhao Hu'
-    year: MSc (Thesis)
-    link: 'https://www.linkedin.com/in/shijie-min/'
-
-  - file: Youxue_Ren.jpeg
-    name: Youxue Ren
-    supervisor: 'Supervisor:  Dr. Aya Mitani'
-    year: MSc (AI/DS Emphasis)
-    research: 'Research Interests: Causal Inference, NLP'
-    link: 'https://ca.linkedin.com/in/%E6%82%A0%E9%9B%AA-%E4%BB%BB-snowball/en'
-
-  - file: no_pic.png
-    name: Priyonto Saha
-    supervisor: 'Supervisor: Dr. Zahra Shakeri'
-    year: MSc (AI/DS Emphasis)
-    link: 'https://www.linkedin.com/in/priyontosaha/'
-    
-  - file: Feifan_Xiang.jpg
-    name: Feifan Xiang
-    supervisor: 'Supervisor: Dr. Shelley Bull'
-    year: MSc
-    link: ''
-    
-  - file: no_pic.png
-    name: Aoqi Xie
-    supervisor: 'Supervisor: Dr. Clement Ma'
-    year: MSc (Thesis)
-    link: 'https://www.linkedin.com/in/aoqi-xie-708811208/'
-
-  - file: Xiao_Yan.jpg
-    name: Xiao Yan
-    supervisor: 'Supervisor: Dr. Kuan Liu'
-    year: MSc (AI/DS Emphasis)
-    link: 'https://www.linkedin.com/in/xiaoyan1596/'
-
-  - file: Yushu_Zou.jpg
-    name: Yushu Zou
-    supervisor: 'Supervisor: Dr. Kuan Liu'
-    year: MSc (Thesis)
-    link: 'https://reidbrok.github.io/'
-
-
-
-
 - desc: Current PhD Students
   type: current
   list:
@@ -249,7 +155,111 @@
     research: 'Research Interests: Survival Analysis, Statistical Genetics, Machine Learning'
     link: https://www.linkedin.com/in/ziqianzhuang/?locale=en_US
 
+- desc: Current MSc Students
+  type: current
+  list:
+  - file: April_Cheng.jpg
+    name: April Yang Cheng
+    supervisor:
+    year: MSc
+    link: 'https://www.linkedin.com/in/aprilyangcheng/'
 
+  - file: Mohammad_Reza_Fahimi.jpg
+    name: Mohammad Reza Fahimi
+    supervisor: 'Supervisor: Dr. Osvaldo Espin-Garcia, Dr. Aya Mitani'
+    year: MSc (Thesis)
+    research: 'Research Interests: Two-Phase Study Design, Longitudinal Data Analysis, Ordinal Data Analysis'
+    link: 'https://www.linkedin.com/in/mohammad-reza-fahimi-48a67020b/'
+    
+  - file: Yankai_Feng.jpg
+    name: Yankai Feng
+    supervisor: 'Supervisor: Dr. Laurent Briollais'
+    year: MSc
+    research: 'Research Interests: Longitudinal Studies, Survival Analysis, Categorical Data Analysis'
+    link: 'https://fengyankai.github.io/'
+
+  - file: no_pic.png
+    name: Qirui Hou
+    supervisor: "Supervisor: Dr. Clement Ma"
+    year: MSc (Thesis)
+    research: 'Research Interests: Master Protocol, Trial Design'
+    link: ''
+
+  - file: Yutong_Lu.JPG
+    name: Yutong Lu
+    supervisor: 'Supervisor: Dr. Pingzhao Hu'
+    year: MSc (AI/DS Emphasis)
+    link: 'https://www.linkedin.com/in/yutong-lu-lorraine/'
+
+  - file: no_pic.png
+    name: Zunaira Mehmood
+    supervisor:
+    year: MSc
+    link: 'https://www.linkedin.com/in/zunairamehmood/'
+
+  - file: no_pic.png
+    name: Abigail McGrory
+    supervisor: 'Supervisor: Dr. Anna Heath'
+    year: MSc (Thesis)
+    link: 'https://www.linkedin.com/in/abigail-mcgrory/'
+
+  - file: Shijie_Min.jpg
+    name: Shijie Min
+    supervisor: 'Supervisor: Dr. Pingzhao Hu'
+    year: MSc (Thesis)
+    link: 'https://www.linkedin.com/in/shijie-min/'
+
+  - file: Youxue_Ren.jpeg
+    name: Youxue Ren
+    supervisor: 'Supervisor:  Dr. Aya Mitani'
+    year: MSc (AI/DS Emphasis)
+    research: 'Research Interests: Causal Inference, NLP'
+    link: 'https://ca.linkedin.com/in/%E6%82%A0%E9%9B%AA-%E4%BB%BB-snowball/en'
+
+  - file: no_pic.png
+    name: Priyonto Saha
+    supervisor: 'Supervisor: Dr. Zahra Shakeri'
+    year: MSc (AI/DS Emphasis)
+    link: 'https://www.linkedin.com/in/priyontosaha/'
+    
+  - file: Feifan_Xiang.jpg
+    name: Feifan Xiang
+    supervisor: 'Supervisor: Dr. Shelley Bull'
+    year: MSc
+    link: ''
+    
+  - file: no_pic.png
+    name: Aoqi Xie
+    supervisor: 'Supervisor: Dr. Clement Ma'
+    year: MSc (Thesis)
+    link: 'https://www.linkedin.com/in/aoqi-xie-708811208/'
+
+  - file: Xiao_Yan.jpg
+    name: Xiao Yan
+    supervisor: 'Supervisor: Dr. Kuan Liu'
+    year: MSc (AI/DS Emphasis)
+    link: 'https://www.linkedin.com/in/xiaoyan1596/'
+
+  - file: Yushu_Zou.jpg
+    name: Yushu Zou
+    supervisor: 'Supervisor: Dr. Kuan Liu'
+    year: MSc (Thesis)
+    link: 'https://reidbrok.github.io/'
+
+- desc: PhD Alumni
+  type: alumni
+  list:
+  - file: no_pic.png
+    name: Kuan Liu
+    position: Assistant Professor at University of Toronto
+    year: 2021
+    link: https://www.kuan-liu.com/
+
+  - file: no_pic.png
+    name: Zihang Lu
+    position: Assistant Professor at Queen's University
+    year: 2020
+    link: https://zihanglu.com/current-students/
 
 - desc: MSc Alumni
   type: alumni
@@ -377,22 +387,6 @@
     year: 2020
     link: 'https://www.linkedin.com/in/jiachen-jason-zhu-333412157/'
 
-
-
-- desc: PhD Alumni
-  type: alumni
-  list:
-  - file: no_pic.png
-    name: Kuan Liu
-    position: Assistant Professor at University of Toronto
-    year: 2021
-    link: https://www.kuan-liu.com/
-
-  - file: no_pic.png
-    name: Zihang Lu
-    position: Assistant Professor at Queen's University
-    year: 2020
-    link: https://zihanglu.com/current-students/
 
 
 - desc: Executive Team
