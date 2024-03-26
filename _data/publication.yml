@@ -1,9 +1,8 @@
+- group: 2024
+  list:
+    - entry: 'Li, L., Jalal, H., Heath, A., 2024. A Nonparametric Approach for Estimating the Effective Sample Size in Gaussian Approximation of Expected Value of Sample Information. arXiv preprint arXiv:2401.16660'
+    - entry: 'Li, L., Jalal, H., Heath, A., 2024. Estimating the EVSI with Gaussian Approximations and Spline-Based Series Methods. arXiv preprint arXiv:2401.17393'
+
 - group: 2022
   list:
     - entry: 'Li, L., Plint, A. and Heath, A., 2022. Generating High-Utility Synthetic Clinical Trial Data Using Non-Parametric Data-Augmented Multiple Imputation. Journal of the Royal Statistical Society: Series C (Under review)'
-    - entry: t2
-
-- group: 2021
-  list:
-    - entry: t1
-    - entry: t2
