@@ -14,18 +14,17 @@ keywords: components, demo
 {% include JB/setup %}
     <!--Content Area Start-->
     <div id="content">
-      <!-- Note about underscored author -->
-      <div class="container">
-        <div class="note">
-          <p><strong>Note:</strong> An underscored author name indicates our biostatistics student.</p>
-        </div>
-      </div>
-
       <div class="container">
         <div class="divider-info ptb">
           <div class="page-header-title">
             <h2 class="heading-title text-center">Publications</h2>
           </div>
+
+          <!-- Note about underscored author right after the Publications title -->
+          <div class="note text-center">
+            <p><strong>Note:</strong> An underscored author name indicates our biostatistics student.</p>
+          </div>
+
           <div class="list-wrap">
             {% for list in site.data.publication %}
             <div class="row row-spacer justify-content-md-center"">
