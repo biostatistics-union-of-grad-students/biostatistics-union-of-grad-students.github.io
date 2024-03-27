@@ -1,12 +1,12 @@
 - group: 2024
   list:
-    - entry: 'Li, L., Jalal, H., Heath, A., 2024. A Nonparametric Approach for Estimating the Effective Sample Size in Gaussian Approximation of Expected Value of Sample Information. arXiv preprint arXiv:2401.16660'
-    - entry: 'Li, L., Jalal, H., Heath, A., 2024. Estimating the EVSI with Gaussian Approximations and Spline-Based Series Methods. arXiv preprint arXiv:2401.17393'
+    - entry: '<u>Li, L.</u>, Jalal, H., Heath, A., 2024. A Nonparametric Approach for Estimating the Effective Sample Size in Gaussian Approximation of Expected Value of Sample Information. arXiv preprint arXiv:2401.16660'
+    - entry: '<u>Li, L.</u>, Jalal, H., Heath, A., 2024. Estimating the EVSI with Gaussian Approximations and Spline-Based Series Methods. arXiv preprint arXiv:2401.17393'
 
 - group: 2023
   list:
-    - entry: 'Yang, M., Matan-Lithwick, S., Wang, Y., De Jager, P.L., Bennett, D.A., Felsky, D., 2023. Multi-omic integration via similarity network fusion to detect molecular subtypes of ageing. Brain Communications, Volume 5, Issue 2. DOI: 10.1093/braincomms/fcad110'
+    - entry: '<u>Yang, M.</u>, Matan-Lithwick, S., Wang, Y., De Jager, P.L., Bennett, D.A., Felsky, D., 2023. Multi-omic integration via similarity network fusion to detect molecular subtypes of ageing. Brain Communications, Volume 5, Issue 2. DOI: 10.1093/braincomms/fcad110'
 
 - group: 2022
   list:
-    - entry: 'Li, L., Plint, A. and Heath, A., 2022. Generating High-Utility Synthetic Clinical Trial Data Using Non-Parametric Data-Augmented Multiple Imputation. Journal of the Royal Statistical Society: Series C (Under review)'
+    - entry: '<u>Li, L.</u>, Plint, A. and Heath, A., 2022. Generating High-Utility Synthetic Clinical Trial Data Using Non-Parametric Data-Augmented Multiple Imputation. Journal of the Royal Statistical Society: Series C (Under review)'
