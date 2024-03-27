@@ -1,5 +1,6 @@
 - group: 2024
   list:
+    - entry: '<u>Feng, S. X.</u>, & Mitani, A. A. 2024. Marginal clustered multistate models for longitudinal progressive processes with informative cluster size. Statistical Analysis and Data Mining: The ASA Data Science Journal, 17(2), e11668. https://doi.org/10.1002/sam.11668'
     - entry: '<u>Li, L.</u>, Jalal, H., Heath, A., 2024. A Nonparametric Approach for Estimating the Effective Sample Size in Gaussian Approximation of Expected Value of Sample Information. arXiv preprint arXiv:2401.16660'
     - entry: '<u>Li, L.</u>, Jalal, H., Heath, A., 2024. Estimating the EVSI with Gaussian Approximations and Spline-Based Series Methods. arXiv preprint arXiv:2401.17393'
 
