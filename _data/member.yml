@@ -17,10 +17,10 @@
 
   - file: Desmond_Zeya_Chen.jpg
     name: Desmond Zeya Chen
-    supervisor: 'Dr. Andrew Paterson & Dr. Clement Ma'
+    supervisor: 'Supervisor: Dr. Clement Ma'
     year:
     research: 'Research Interests: Statistical Omics, Large Scale Statistical Software Development Under HPC Environment.'
-    link: ''
+    link: 'https://github.com/zeyachen'
 
   - file: Pai-Shan_Cheng.jpeg
     name: Pai-Shan Cheng
