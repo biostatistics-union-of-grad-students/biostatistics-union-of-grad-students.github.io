@@ -46,6 +46,44 @@
   label: Social_Activity
   text: BUGS New Year Celebration on Jan 26, 2023
 
+- file: 2020_IGES_dawn.png
+  label: Conference
+  title: International Genetic Epidemiology Society (IGES) 2020, July 3, 2020.
+  text: |
+  Dongyang Yang (PhD, Year 2) is one of three William’s finalists at this year’s International Genetic Epidemiology Society (IGES) 2020 meeting, presenting her work on “Clustering of Human Microbiome Sequencing Data: A Distance-Based Unsupervised Learning Model” under the supervision of Dr. Wei Xu (Princess Margaret Cancer Centre).
+
+- file: 2020_research_day.png
+  label: Conference
+  title: Paul Corey Award Winners, DLSPH Biostatistics Research Day, June 17-18, 2020
+  text: |
+    1st Place: Yuan (Kris) Bian (MSc, Thesis-Track)
+    2nd Place: Pai-Shan (Jason) Cheng (PhD, Year 2)
+    3rd Place: Boxi Lin (PhD, Year 1)
+    Honourable Mentions: Madeline Ward (UofGuelph), Linda Luu (MSc, Year 1)
+
+- file: 2020_student_award.png
+  label: Conference
+  title: Recent Student Award Winners, June 6, 2020
+  text: |
+    Kuan Liu (PhD, Year 5) is the recipient of this year’s Beverly Antle Trainee Award, which recognizes “excellence in research and knowledge translation for first-authored research conducted by trainees,” provided by the CHES Education Committee at The Hospital for Sick Children.
+
+    Thai-Son Tang (PhD, Year 2) is the recipient of the 2020-2021 Queen Elizabeth II/Sanofi/John G FitzGerald Graduate Scholarships in Science and Technology.
+
+    This year, four teams from the Biostatistics Division have received the $3000 University of Toronto COVID-19 Student Engagement Award to fund their COVID-19 research projects:
+    - Kuan and Thai-Son, along with Rose Garrett (PhD, Year 2) and Alexandra Bushby (PhD, Year 1), will be “Using Data Visualization and Crowdsourcing Survey to study COVID-19 Testing Capacity, Protocol, and Barriers in Canada.”
+    - Jerry Lin (PhD, Year 3) and Boxi Lin (PhD, Year 1) will be conducting research on “What Causes Elevated Risk in COVID-19? Discover Exposure & Genetic Factors at Play.”
+    - Jerry, Thai-Son, Kaviul Khan (PhD, Year 3), and Michael Moon (MSc Grad, Stats PhD, Year 2) will be “Assessing the global effect of public health interventions on COVID-19 pandemic growth and unemployment.”
+    - Jianhui Gao (MSc, Year 1) is involved with 3 other students in “Quantifying effects of community-based public health measures in controlling COVID-19 epidemics: a comparative modeling study in China, Iceland, Italy, and Canada.”
+
+    Congratulations to our amazing students!
+
+- file: 2020_SSC_case_study.png
+  label: Conference
+  title: SSC 2020 Case Study Competition, June 1, 2020
+  text: |
+    Shuting Lou (MSc Biostatistics), Michael Prashad (MSc Biostatistics), Ashley Mao (MSc Biostatistics), and Amin Kharaghani (MSc Biostatistics), advised by Dr. Wendy Lou, received honourable mentions for the Best Student Case Study Poster award at the 48th Annual Meeting of the Statistical Society of Canada on June 1, 2020 for their poster titled, “From time series models to neural networks: predicting energy usage in Ontario.” Congratulations everyone!
+
+
 - file: 2020_osvaldo_workshop.jpeg
   label: Seminar
   title: Introduction to Optimization and Parallel Processing in R, March 6, 2020
