@@ -3,7 +3,7 @@ layout: post
 category : Seminar
 tagline: "Hello world post on helium jekyll"
 tags : [intro, beginner, jekyll, tutorial]
-img : Seminar_post.jpg
+img : Precision_Public_Health_Image.jpg
 img-mobile : 
 img2 : 
 img3 : 
