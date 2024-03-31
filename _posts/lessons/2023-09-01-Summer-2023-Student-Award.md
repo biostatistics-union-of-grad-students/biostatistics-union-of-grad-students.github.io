@@ -26,4 +26,4 @@ keywords: Award
 
 **RSVP Form** :  https://docs.google.com/forms/d/e/1FAIpQLSdFMb1OkqF-cWxRT7eWcPLIv2EJG_mIzn1y6Gr254k12RPc6Q/viewform
 
-![Jasper_Luis](_site/assets/images/post/2023-SSC-jasper-luis-award.jpg)
+![Jasper_Luis](/assets/images/post/2023-SSC-jasper-luis-award.jpg)
