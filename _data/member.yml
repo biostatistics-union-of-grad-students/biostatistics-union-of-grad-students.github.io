@@ -238,7 +238,7 @@
     name: Feifan Xiang
     supervisor: 'Supervisor: Dr. Shelley Bull'
     year: MSc
-    link: ''
+    link: 'https://www.linkedin.com/in/feifan-kristy-xiang-7295b4234/'
     
   - file: no_pic.png
     name: Aoqi Xie
@@ -471,6 +471,7 @@
   - file: Feifan_Xiang.jpg
     name: Feifan Xiang
     position: Fundraising Co-Chair
+    link: 'https://www.linkedin.com/in/feifan-kristy-xiang-7295b4234/'
 
   - file: Yuqing_Liu.jpg
     name: Yuqing Liu
