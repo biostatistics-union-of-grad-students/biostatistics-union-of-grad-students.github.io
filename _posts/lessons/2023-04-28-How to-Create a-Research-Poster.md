@@ -3,7 +3,7 @@ layout: post
 category : Seminar
 tagline: "BUGS Student-led Seminar Series"
 tags : [intro, beginner, jekyll, tutorial]
-img : Proposal_defense_post.avif
+img : poster_image.jpg
 img-mobile : 
 img2 : 
 img3 : 
