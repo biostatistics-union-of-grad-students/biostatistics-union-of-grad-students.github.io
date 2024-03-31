@@ -3,7 +3,7 @@ layout: post
 category : Seminar
 tagline: "Health Data Working Group"
 tags : [intro, beginner, jekyll, tutorial]
-img : Seminar_post.jpg
+img : seminar_wide.jpg
 img-mobile : 
 img2 : 
 img3 : 
