@@ -69,7 +69,7 @@ See also: ["15 DLSPH Student-​Led Projects Win U of T's COVID-​19 Student En
 
 [SSC 2020 Case Study Competition](https://ssc.ca/en/meetings/annual/2020-annual-meeting/case-studies), June 1, 2020.
 
-![SSC-Case-Study-2020-Honourable-Mention](assets/images/post/SSC-Case-Study-2020-Honourable-Mention.png "FLTR: Shuting Lou, Michael Prashad, Ashley Mao, Amin Kharaghani.")
+![SSC-Case-Study-2020-Honourable-Mention](https://github.com/biostatistics-union-of-grad-students/biostatistics-union-of-grad-students.github.io/blob/main/assets/images/post/SSC-Case-Study-2020-Honourable-Mention.png "FLTR: Shuting Lou, Michael Prashad, Ashley Mao, Amin Kharaghani.")
 
 **Shuting Lou** (MSc Biostatistics), **Michael Prashad** (MSc Biostatistics), **Ashley Mao** (MSc Biostatistics), and **Amin Kharaghani** (MSc Biostatistics), advised by Dr. Wendy Lou, received honourable mentions for the Best Student Case Study Poster award at the 48th Annual Meeting of the Statistical Society of Canada on June 1, 2020 for their poster titled, “From time series models to neural networks: predicting energy usage in Ontario.” Congratulations everyone!
 
