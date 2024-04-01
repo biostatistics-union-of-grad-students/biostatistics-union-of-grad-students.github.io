@@ -36,4 +36,4 @@ Once everyone arrives, we will create smaller breakout rooms and give everyone t
 
 We also encourage you to **change your Zoom backgrounds to something Lunar New Year or Valentine's themed** to help create the setting.
 
-<font color=red>_**We hope to see you all there!**_</font>
+**<font color=red>We hope to see you all there!</font>**
