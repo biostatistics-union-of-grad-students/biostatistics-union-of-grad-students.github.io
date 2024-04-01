@@ -24,25 +24,38 @@ _FLTR: Larry Dong, Thai-Son Tang, Rose Garrett_
 
 Larry Dong (PhD, Year 1) is a 2021 Google Summer of Code Research Intern, where he is working on developing a Dirichlet Process submodule. Thai-Son Tang (PhD, Year 3) is the recipient of the 2021 Paul Corey Award for Excellence in Biostatistics, and Rose Garrett (PhD, Year 3) is the recipient of the 2021 John Hsieh Award.
 
+/break
+
 **DLSPH BIOSTATISTICS RESEARCH DAY 2021**
+
 _FLTR: (Top) Jessica Cichon, Lena Nguyen, Qiao Li _
+
 _(Bottom) Katrina Hueniken, Larry Dong_
 
 **1st Place**: Jessica Cichon (MSc)
+
 **2nd Place**: Lena Nguyen (MSc)
+
 **3rd Place**: Qiao Li (MSc)
+
 **Honourable Mentions**: Katrina Hueniken (MSc), Larry Dong (PhD, Year 1)
 
 This year's Biostatistics Research Day features around 40 speed poster presentations over three 90-minute blocks.
 
 _Schedule_
+
 **May 18 (Tuesday)**
+
 12:00-1:30pm (EDT): Speed Poster Presentation I
+
 2:00-3:30pm (EDT): Speed Poster Presentation II
 
 **May 19 (Wednesday)**
+
 12:30-2:00pm (EDT): : Speed Poster Presentation III
+
 2:00-3:00pm (EDT): Informal Social/Networking
+
 3:00-3:30pm (EDT):  Paul Corey Awards announcements & Closing Remarks.
 
 You are invited to attend the presentations whenever you are available. As in previous years, the best three posters will be awarded with cash prizes at the closing session. As a special note, we will present the first of the four new Paul Corey Awards that were established last fall (see https://www.dlsph.utoronto.ca/students/current-students/student-awards-funding-opportunities/students-awards-funding-internal/)
