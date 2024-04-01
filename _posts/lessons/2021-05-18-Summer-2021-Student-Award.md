@@ -28,7 +28,7 @@ Larry Dong (PhD, Year 1) is a 2021 Google Summer of Code Research Intern, where 
 
 **DLSPH BIOSTATISTICS RESEARCH DAY 2021**
 
-_FLTR: (Top) Jessica Cichon, Lena Nguyen, Qiao Li _
+_FLTR: (Top) Jessica Cichon, Lena Nguyen, Qiao Li_
 
 _(Bottom) Katrina Hueniken, Larry Dong_
 
