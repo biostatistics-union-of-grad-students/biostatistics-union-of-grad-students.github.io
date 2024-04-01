@@ -22,13 +22,13 @@ keywords: Proposal
 
 **Theme**: "Statistical Machine Learning for Biomedical Data"
 
-**Description**: https://sorataba.org/sora-taba-dlsph-workshop-2020/
+**Description**: <https://sorataba.org/sora-taba-dlsph-workshop-2020/>
 
 **Date**: August 20-21, 2020
 
 **Time**: 11am-5:30pm (EDT)
 
-**Registration**：https://www.eventbrite.ca/e/2020-sorataba-annual-workshop-tickets-113911670874
+**Registration**：<https://www.eventbrite.ca/e/2020-sorataba-annual-workshop-tickets-113911670874>
 
 
 
