@@ -20,13 +20,11 @@ keywords: Award
 
 **STUDENT AWARDS, SUMMER 2021**
 
-
 Larry Dong (PhD, Year 1) is a 2021 Google Summer of Code Research Intern, where he is working on developing a Dirichlet Process submodule. Thai-Son Tang (PhD, Year 3) is the recipient of the 2021 Paul Corey Award for Excellence in Biostatistics, and Rose Garrett (PhD, Year 3) is the recipient of the 2021 John Hsieh Award.
 
-/break
+<br/>
 
 **DLSPH BIOSTATISTICS RESEARCH DAY 2021**
-
 
 _(Bottom) Katrina Hueniken, Larry Dong_
 
