@@ -1,7 +1,7 @@
 ---
 layout: post
 category : Award
-tagline: "Hello world post on helium jekyll"
+tagline: "Award"
 tags : [intro, beginner, jekyll, tutorial]
 img : Precision_Public_Health_Image.jpg
 img-mobile : 
@@ -22,7 +22,10 @@ keywords: Proposal
 
 Congratulations to this year's winners of the Paul Corey Award!
 
-![brd2020winners](assets/images/post/brd2020winners.jpg "FLTR: Yuan (Kris) Bian, Pai-Shan (Jason) Cheng, Boxi Lin")
+![brd2020winners](/assets/images/post/brd2020winners.jpg)
+_FLTR: Yuan (Kris) Bian, Pai-Shan (Jason) Cheng, Boxi Lin_
+
+<br/>
 
 **1st Place**: Yuan (Kris) Bian (MSc, Thesis-Track)
 
@@ -57,7 +60,11 @@ If you have any questions, please contact Ryan Rosner at <biostat.dlsph@utoronto
 
 _Recent Student Award Winners, June 6, 2020._
 
-![COVIDWinners-1](assets/images/post/COVIDWinners-1-scaled.jpg "FLTR: (Top) Kuan Liu, Thai-Son Tang, Rose Garrett, Alex Bushby (Bottom) Jerry Lin, Kaviul Khan, Michael Moon, Boxi Lin")
+![COVIDWinners-1](/assets/images/post/COVIDWinners-1-scaled.jpg) 
+
+_FLTR: (Top) Kuan Liu, Thai-Son Tang, Rose Garrett, Alex Bushby (Bottom) Jerry Lin, Kaviul Khan, Michael Moon, Boxi Lin_
+
+<br/>
 
 **Kuan Liu** (PhD, Year 5) is the recipient of this year’s Beverly Antle Trainee Award  that recognizes “excellence in research and knowledge translation for first-authored research conducted by trainees”, provided by the CHES Education Committee at The Hospital for Sick Children. **Thai-Son Tang** (PhD, Year 2) is the recipient of the 2020-2021 Queen Elizabeth II/Sanofi/John G FitzGerald Graduate Scholarships in Science and Technology.
 
@@ -65,11 +72,15 @@ This year, four teams from the Biostatistics Division have both received the $30
 
 See also: ["15 DLSPH Student-​Led Projects Win U of T's COVID-​19 Student Engagement Award"](https://www.dlsph.utoronto.ca/2020/07/30/15-dlsph-student-led-projects-win-u-of-ts-covid-19-student-engagement-award/) (DLSPH Article)
 
-<dr/>
+<br/>
 
 [SSC 2020 Case Study Competition](https://ssc.ca/en/meetings/annual/2020-annual-meeting/case-studies), June 1, 2020.
 
-![SSC-Case-Study-2020-Honourable-Mention](https://github.com/biostatistics-union-of-grad-students/biostatistics-union-of-grad-students.github.io/blob/main/assets/images/post/SSC-Case-Study-2020-Honourable-Mention.png "FLTR: Shuting Lou, Michael Prashad, Ashley Mao, Amin Kharaghani.")
+![SSC-Case-Study-2020-Honourable-Mention](/assets/images/post/SSC-Case-Study-2020-Honourable-Mention.png)
+
+_FLTR: Shuting Lou, Michael Prashad, Ashley Mao, Amin Kharaghani_
+
+<br/>
 
 **Shuting Lou** (MSc Biostatistics), **Michael Prashad** (MSc Biostatistics), **Ashley Mao** (MSc Biostatistics), and **Amin Kharaghani** (MSc Biostatistics), advised by Dr. Wendy Lou, received honourable mentions for the Best Student Case Study Poster award at the 48th Annual Meeting of the Statistical Society of Canada on June 1, 2020 for their poster titled, “From time series models to neural networks: predicting energy usage in Ontario.” Congratulations everyone!
 
