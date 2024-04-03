@@ -3,7 +3,7 @@ layout: post
 category : Seminar
 tagline: "Seminar"
 tags : [intro, beginner, jekyll, tutorial]
-img : Seminar_post.jpg
+img : sora_taba_image.jpg
 img-mobile : 
 img2 : 
 img3 : 
