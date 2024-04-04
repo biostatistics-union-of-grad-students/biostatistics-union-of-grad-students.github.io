@@ -1,9 +1,9 @@
 ---
 layout: post
 category : Misc
-tagline: "Hello world post on helium jekyll"
-tags : [intro, beginner, jekyll, tutorial]
-img : misc_logo_2.jpg
+tagline: 
+tags : 
+img : genetics1.jpg
 img-mobile : 
 img2 : 
 img3 : 
