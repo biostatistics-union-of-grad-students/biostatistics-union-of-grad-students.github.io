@@ -2,8 +2,8 @@
 layout: post
 category : Defense
 tagline: "MSc Thesis Defense"
-tags : [intro, beginner, jekyll, tutorial]
-img : Proposal_defense_post.avif
+tags : 
+img : defence3.jpg
 
 img-mobile : 
 img2 : 
