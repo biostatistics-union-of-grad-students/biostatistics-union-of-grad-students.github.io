@@ -2,8 +2,8 @@
 layout: post
 category : Social Event
 tagline: "2023 SSC Award"
-tags : [intro, beginner, jekyll, tutorial]
-img : Social_event_post.png
+tags : 
+img : semester_end_celeb.jpg
 img-mobile :
 img2 :
 img3 :
