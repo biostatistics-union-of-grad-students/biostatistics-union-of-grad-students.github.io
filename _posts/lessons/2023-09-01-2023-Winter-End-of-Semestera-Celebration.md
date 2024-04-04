@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Award
+category : Social Event
 tagline: "2023 SSC Award"
 tags : [intro, beginner, jekyll, tutorial]
 img : Social_event_post.png
@@ -18,7 +18,7 @@ keywords: Award
 
 {% include JB/setup %}
 
-**Event**: 2023 Winter End of Semestera Celebrationf Semestera Celebrationf Semestera Celebrationf Semestera Celebration
+**Event**: 2023 Winter End of Semestera Celebration
 
 **Date and Time**:  Thursday, April 13th, 2023, 5:00 pm (the last of the food should arrive by 5:30pm)
 
