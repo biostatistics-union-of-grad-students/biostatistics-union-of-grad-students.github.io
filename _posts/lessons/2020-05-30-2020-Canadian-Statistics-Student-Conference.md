@@ -3,7 +3,7 @@ layout: post
 category : Misc
 tagline: "SSC Conference"
 tags : [intro, beginner, jekyll, tutorial]
-img : Social_event_post.png
+img : 2020_cssc.jpg
 img-mobile :
 img2 :
 img3 :
