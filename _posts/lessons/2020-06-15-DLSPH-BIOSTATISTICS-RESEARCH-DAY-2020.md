@@ -19,14 +19,6 @@ keywords: Proposal
 
 {% include JB/setup %}
 
-
-Congratulations to this year's winners of the Paul Corey Award!
-
-![brd2020winners](/assets/images/post/brd2020winners.jpg)
-_FLTR: Yuan (Kris) Bian, Pai-Shan (Jason) Cheng, Boxi Lin_
-
-<br/>
-
 **1st Place**: Yuan (Kris) Bian (MSc, Thesis-Track)
 
 **2nd Place**: Pai-Shan (Jason) Cheng (PhD, Year 2)
@@ -37,7 +29,15 @@ _FLTR: Yuan (Kris) Bian, Pai-Shan (Jason) Cheng, Boxi Lin_
 
 
 
+
 <!--more-->
+
+Congratulations to this year's winners of the Paul Corey Award!
+![brd2020winners](/assets/images/post/brd2020winners.jpg)
+
+_FLTR: Yuan (Kris) Bian, Pai-Shan (Jason) Cheng, Boxi Lin_
+
+<br/>
 
 This year the Biostatistics Research Day poster presentations, which would ordinarily have taken place in-person at the 2020 SORA/TABA Annual Workshop & DLSPH Biostatistics Research Day on May 22nd, will be hosted online over three sessions during the week of June 15th.
 
