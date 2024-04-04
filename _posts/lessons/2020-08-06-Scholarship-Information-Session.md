@@ -21,7 +21,9 @@ keywords: Proposal
 
 
 **Date**: Thursday, August 6, 2020
+
 **Time**: 12pm – 1pm (Eastern Time)
+
 **Location**: Zoom
 
 
