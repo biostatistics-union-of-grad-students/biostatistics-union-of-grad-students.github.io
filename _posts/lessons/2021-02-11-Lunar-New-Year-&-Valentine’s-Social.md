@@ -2,8 +2,8 @@
 layout: post
 category : Social Event
 tagline: "Social Event"
-tags : [intro, beginner, jekyll, tutorial]
-img : Social_event_post.png
+tags : 
+img : chinesenewyear1.jpg
 img-mobile : 
 img2 : 
 img3 : 
