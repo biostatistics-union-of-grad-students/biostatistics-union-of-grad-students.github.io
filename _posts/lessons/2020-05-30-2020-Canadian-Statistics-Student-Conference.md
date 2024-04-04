@@ -31,4 +31,5 @@ Congratulations to **Thai-Son Tang** (PhD, Y2), **Sudipta Saha** (PhD, Y5), **Mi
 <br/>
 
 ![Zihang-Mohsen](/assets/images/post/Zihang-Mohsen-1.png)
+
 _Congratulations to Dr. Zihang Lu and Dr. Mohsen Soltanifar!_
