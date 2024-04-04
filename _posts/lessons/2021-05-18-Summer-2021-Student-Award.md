@@ -3,7 +3,7 @@ layout: post
 category : Award
 tagline: "2021 SSC Award"
 tags : [intro, beginner, jekyll, tutorial]
-img : Social_event_post.png
+img : student_award2.jpg
 img-mobile :
 img2 : 
 img3 :
