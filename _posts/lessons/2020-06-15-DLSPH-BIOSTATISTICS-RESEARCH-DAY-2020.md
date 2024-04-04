@@ -3,7 +3,7 @@ layout: post
 category : Award
 tagline: "Award"
 tags : [intro, beginner, jekyll, tutorial]
-img : Precision_Public_Health_Image.jpg
+img : research_award1.jpg
 img-mobile : 
 img2 : 
 img3 : 
