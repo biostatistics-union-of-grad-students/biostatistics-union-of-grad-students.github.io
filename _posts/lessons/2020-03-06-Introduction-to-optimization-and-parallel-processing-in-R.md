@@ -1,7 +1,7 @@
 ---
 layout: post
-category : Misc
-tagline: "SSC Conference"
+category : Seminar
+tagline: "Seminar"
 tags : [intro, beginner, jekyll, tutorial]
 img : osvaldotwitter.jpg
 img-mobile :
@@ -13,7 +13,7 @@ title3 :
 css:
 js:
 bgcolor: ff5a71
-keywords: Conference
+keywords: Seminar
 ---
 
 {% include JB/setup %}
