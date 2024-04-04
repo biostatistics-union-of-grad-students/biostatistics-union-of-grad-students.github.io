@@ -3,7 +3,7 @@ layout: post
 category : Seminar
 tagline: "Seminar"
 tags : [intro, beginner, jekyll, tutorial]
-img : Social_event_post.png
+img : parallel_computing1.jpg
 img-mobile :
 img2 :
 img3 :
