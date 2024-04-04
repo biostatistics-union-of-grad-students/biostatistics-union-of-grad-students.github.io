@@ -2,8 +2,8 @@
 layout: post
 category : Social Event
 tagline: "Celebration"
-tags : [intro, beginner, jekyll, tutorial]
-img : Social_event_post.png
+tags : 
+img : dimsum1.jpg
 img-mobile :
 img2 :
 img3 :
