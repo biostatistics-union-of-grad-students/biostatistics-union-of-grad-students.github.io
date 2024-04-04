@@ -18,6 +18,10 @@ keywords: Conference
 
 {% include JB/setup %}
 
+
+
+<!--more-->
+
 ![CSSC_Organizing_Committee](/assets/images/post/CSSC_Organizing_Committee.png)
 _The organizing committee of the 8th Annual Canadian Statistics Student Conference._
 
