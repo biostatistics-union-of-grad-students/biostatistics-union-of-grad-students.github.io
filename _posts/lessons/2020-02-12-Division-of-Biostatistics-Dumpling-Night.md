@@ -8,6 +8,7 @@ img-mobile :
 img2 :
 img3 :
 author : Jasper Zhang
+title : "Biostatistics Divison Dumpling Night"
 title2 :
 title3 :
 css:
