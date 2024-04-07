@@ -14,7 +14,9 @@ keywords: T-CAIREM, AI, Medicine, Summer Research, Student Spotlight, Biostatist
 
 **Student Spotlight: Youxue Ren & Feifan Xiang**
 
-We are proud to announce that Youxue Ren and Feifan Xiang, two outstanding MSc. Biostatistics students from the University of Toronto, have been selected for the prestigious T-CAIREM AI in Medicine Summer Student Research Program 2024.
+We are proud to announce that Youxue Ren and Feifan Xiang, two outstanding MSc. Biostatistics students from the University of Toronto, have been selected for the prestigious T-CAIREM AI in Medicine Summer Student Research Program 2024. **Congratulations to Youxue and Feifan!**
+
+<!--more-->
 
 **Youxue Ren**
 
@@ -29,9 +31,5 @@ We are proud to announce that Youxue Ren and Feifan Xiang, two outstanding MSc. 
 These two students represent the best of our program, and their work this summer is poised to make significant contributions to the field of AI in healthcare. Both students will be working on projects at the intersection of technology and medicine, with Youxue focusing on improving patient care through smart ventilation systems, and Feifan on enhancing remote patient monitoring to predict health exacerbations.
 
 For more information on the T-CAIREM AI in Medicine Summer Student Research Program and this year's cohort, visit the [T-CAIREM announcement page](https://tcairem.utoronto.ca/news/t-cairem-announces-2024-cohort-summer-research-students).
-
-**Congratulations to Youxue and Feifan!**
-
-<!--more-->
 
 **All are welcome to follow their journey and support their research.**
