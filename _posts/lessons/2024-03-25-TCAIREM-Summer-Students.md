@@ -5,7 +5,7 @@ tagline: "Student Awards"
 tags: [AI, Medicine, Student Research, Biostatistics]
 img: youxue_feifan.jpeg
 author: Jasper Zhang
-title2: "Biostatistics students are selected T-CAIREM AI in Medicine Summer Student Research Program 2024"
+title2: "Biostatistics students are selected for the T-CAIREM AI in Medicine Summer Student Research Program 2024"
 bgcolor: ff5a71
 keywords: T-CAIREM, AI, Medicine, Summer Research, Student Spotlight, Biostatistics, Youxue Ren, Feifan Xiang
 ---
@@ -18,18 +18,17 @@ We are proud to announce that Youxue Ren and Feifan Xiang, two outstanding MSc. 
 
 **Youxue Ren**
 
-- **University**: University of Toronto
-- **Supervisor**: Andrew Sage, University Health Network
+- **T-CAIREM Supervisor**: Andrew Sage, University Health Network
 - **Research Project**: ‘Smart Ventilation’ - Novel real-time biosensors and artificial intelligence for optimized mechanical ventilation in human lungs.
 
 **Feifan Xiang**
-- **University**: University of Toronto
-- **Supervisor**: Bryan Ross, Research Institute of the McGill University Health Centre
+
+- **T-CAIREM Supervisor**: Bryan Ross, Research Institute of the McGill University Health Centre
 - **Research Project**: From ‘Understanding’ to ‘Predicting’ Exacerbations: The COPD Remote Patient Monitoring Pandemic Platform.
 
 These two students represent the best of our program, and their work this summer is poised to make significant contributions to the field of AI in healthcare. Both students will be working on projects at the intersection of technology and medicine, with Youxue focusing on improving patient care through smart ventilation systems, and Feifan on enhancing remote patient monitoring to predict health exacerbations.
 
-website: https://tcairem.utoronto.ca/news/t-cairem-announces-2024-cohort-summer-research-students
+For more information on the T-CAIREM AI in Medicine Summer Student Research Program and this year's cohort, visit the [T-CAIREM announcement page](https://tcairem.utoronto.ca/news/t-cairem-announces-2024-cohort-summer-research-students).
 
 **Congratulations to Youxue and Feifan!**
 
