@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Awards
+category: Award
 tagline: "Celebrating Biostatistics Excellence: AI4PH 2023-2024 Scholarship Recipients"
 tags: [AI, Public Health, Scholarships, Biostatistics, Research]
 img: 2023_24_ai4ph.jpg
