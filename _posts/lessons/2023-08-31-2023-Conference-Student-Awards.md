@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Student Spotlight
+category: Award
 tagline: "Student Awards"
 tags: [Statistics, Awards, Student Research, Biostatistics]
 img: 2020_conference_award.jpg

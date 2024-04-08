@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Student Spotlight
+category: Award
 tagline: "Student Awards"
 tags: [AI, Medicine, Student Research, Biostatistics]
 img: youxue_feifan.jpeg
