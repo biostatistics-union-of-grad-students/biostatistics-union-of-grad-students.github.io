@@ -3,7 +3,7 @@ layout: post
 category: Award
 tagline: "Student Awards"
 tags: [Statistics, Awards, Student Research, Biostatistics]
-img: 2020_conference_award.jpg
+img: 2023_conference_award.jpg
 author: Jasper Zhang
 title2: "Biostatistics Students Triumph at Statistical Conferences"
 bgcolor: ff5a71
