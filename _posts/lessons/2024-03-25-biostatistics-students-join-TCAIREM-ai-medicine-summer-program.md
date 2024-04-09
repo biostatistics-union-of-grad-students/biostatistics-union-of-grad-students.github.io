@@ -18,12 +18,12 @@ We are proud to announce that Youxue Ren and Feifan Xiang, two outstanding MSc. 
 
 <!--more-->
 
-**Youxue Ren**
+### Youxue Ren
 
 - **T-CAIREM Supervisor**: Andrew Sage, University Health Network
 - **Research Project**: ‘Smart Ventilation’ - Novel real-time biosensors and artificial intelligence for optimized mechanical ventilation in human lungs.
 
-**Feifan Xiang**
+### Feifan Xiang
 
 - **T-CAIREM Supervisor**: Bryan Ross, Research Institute of the McGill University Health Centre
 - **Research Project**: From ‘Understanding’ to ‘Predicting’ Exacerbations: The COPD Remote Patient Monitoring Pandemic Platform.

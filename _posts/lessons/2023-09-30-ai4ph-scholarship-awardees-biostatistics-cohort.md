@@ -16,9 +16,9 @@ keywords: AI4PH, Scholarships, AI, Biostatistics, PhD, Research, Dynamic Modelin
 
 ## **AI4PH Scholarship 2023-2024** 
 
-Cohort In a remarkable display of academic excellence, our biostatistics students have been awarded the prestigious AI4PH Scholarship for the 2023-2024 academic year: **Xinyang (Sean) Feng** and **Zijin Liu**. 
+Cohort In a remarkable display of academic excellence, our biostatistics PhD students have been awarded the prestigious AI4PH Scholarship for the 2023-2024 academic year: **Xinyang (Sean) Feng** and **Zijin Liu**. 
 
-Congratulations!
+**Congratulations!**
 
 <!--more-->
 
