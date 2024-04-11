@@ -16,6 +16,10 @@ keywords: End of Semester, Celebration, Fried Chicken, Student Gathering, Health
 
 We're thrilled to share that we've successfully wrapped up the semester with our delightful **End of Semester Celebration, affectionately known as the Fried Chicken Party.** We received an overwhelming response with more than 70 registrations, bringing together master's students, Ph.D. students, and alumni in a joyful reunion to celebrate the conclusion of the academic term.
 
+<!--more-->
+
+
+
 **Thank you to everyone who came out to celebrate with us!** It was a fantastic gathering, filled with laughter, shared stories, and of course, delicious fried chicken.
 
 Our students just completed their survival analysis final exam, and we hope you're all feeling a sense of relief. For those who still have projects and exams on the horizon, we're sending our best wishes your way—good luck!
