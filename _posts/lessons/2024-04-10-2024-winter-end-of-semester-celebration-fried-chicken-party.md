@@ -20,9 +20,13 @@ We're thrilled to share that we've successfully wrapped up the semester with our
 
 
 
+
+
 **Thank you to everyone who came out to celebrate with us!** It was a fantastic gathering, filled with laughter, shared stories, and of course, delicious fried chicken.
 
 Our students just completed their survival analysis final exam, and we hope you're all feeling a sense of relief. For those who still have projects and exams on the horizon, we're sending our best wishes your way—good luck!
+
+![Celebrating the end of the semester with a fried chicken party](/assets/images/post/2024_fried_chicken_169.jpg) 
 
 **Location:** 7th Floor Lounge, Health Sciences Building
 
