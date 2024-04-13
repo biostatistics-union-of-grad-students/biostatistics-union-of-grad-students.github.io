@@ -17,7 +17,7 @@
 
   - file: Desmond_Zeya_Chen.jpg
     name: Desmond Z Chen
-    supervisor: 'Supervisor: Dr. Clement Ma'
+    supervisor: 'Practicum Supervisor: Dr. Clement Ma'
     year:
     research: 'Research Interests: Statistical Omics, Large Scale Statistical Software Development Under HPC Environment.'
     link: 'https://github.com/zeyachen'
@@ -180,7 +180,7 @@
     
   - file: Yankai_Feng.jpg
     name: Yankai Feng
-    supervisor: 'Supervisor: Dr. Laurent Briollais'
+    supervisor: 'Practicum Supervisor: Dr. Laurent Briollais'
     year: MSc
     research: 'Research Interests: Longitudinal Studies, Survival Analysis, Categorical Data Analysis'
     link: 'https://fengyankai.github.io/'
@@ -200,13 +200,13 @@
 
   - file: Yutong_Lu.JPG
     name: Yutong Lu
-    supervisor: 'Supervisor: Dr. Pingzhao Hu'
+    supervisor: 'Practicum Supervisor: Dr. Pingzhao Hu'
     year: MSc (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/yutong-lu-lorraine/'
 
   - file: Jinyu_Luo.jpg
     name: Jinyu (Irene) Luo
-    supervisor: 'Supervisor: Dr. Aya Mitani'
+    supervisor: 'Practicum Supervisor: Dr. Aya Mitani'
     year: MSc
     link: 'https://www.linkedin.com/in/jinyu21/'
 
@@ -230,7 +230,7 @@
 
   - file: Youxue_Ren.jpeg
     name: Youxue Ren
-    supervisor: 'Supervisor:  Dr. Aya Mitani'
+    supervisor: 'Practicum Supervisor:  Dr. Aya Mitani'
     year: MSc (AI/DS Emphasis)
     research: 'Research Interests: Causal Inference, NLP'
     link: 'https://ca.linkedin.com/in/%E6%82%A0%E9%9B%AA-%E4%BB%BB-snowball/en'
@@ -238,12 +238,12 @@
   - file: Priyonto_Saha.jpg
     name: Priyonto Saha
     supervisor: 'Supervisor: Dr. Zahra Shakeri'
-    year: MSc (AI/DS Emphasis)
+    year: MSc (Thesis) (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/priyontosaha/'
     
   - file: Feifan_Xiang.jpg
     name: Feifan Xiang
-    supervisor: 'Supervisor: Dr. Shelley Bull'
+    supervisor: 'Practicum Supervisor: Dr. Shelley Bull'
     year: MSc
     link: 'https://www.linkedin.com/in/feifan-kristy-xiang-7295b4234/'
     
@@ -255,7 +255,7 @@
 
   - file: Xiao_Yan.jpg
     name: Xiao Yan
-    supervisor: 'Supervisor: Dr. Kuan Liu'
+    supervisor: 'Practicum Supervisor: Dr. Kuan Liu'
     year: MSc (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/xiaoyan1596/'
 
