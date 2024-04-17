@@ -164,7 +164,7 @@
 
 - desc: Current MSc Students
   type: current
-  list:
+  list: 
   - file: April_Cheng.jpg
     name: April Yang Cheng
     supervisor:
@@ -341,6 +341,18 @@
     supervisor: 'Supervisor: Dr.Wendy Lou'
     year: 2023
     link: 'https://www.linkedin.com/in/shangyi-gao/'
+
+  - file: no_pic.png
+    name: Yingshi (Cecilia) He
+    position: Research Manager, St Michael's Hospital
+    year: 2024
+    link: 'https://www.linkedin.com/in/yingshi-cecilia-he-57b31460/'
+
+  - file: no_pic.png
+    name: Zhixing Hong
+    position: Research Analyst, ICES
+    year: 2023
+    link: 'https://www.linkedin.com/in/zhixing-hong-300055179/'
 
   - file: no_pic.png
     name: Laura Langer
