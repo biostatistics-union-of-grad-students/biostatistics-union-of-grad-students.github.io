@@ -165,6 +165,12 @@
 - desc: Current MSc Students
   type: current
   list: 
+  - file: Hongyu_Chen.HEIC
+    name: Hongyu Chen
+    supervisor: 'Practicum Supervisors: Dr. Rinku Sutradhar, Dr. Alyson Mahar'
+    year: MSc
+    link: 'https://www.linkedin.com/in/hongyu-fina-chen/'
+    
   - file: April_Cheng.jpg
     name: April Yang Cheng
     supervisor:
