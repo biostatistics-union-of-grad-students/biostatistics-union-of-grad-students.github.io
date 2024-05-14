@@ -3,9 +3,9 @@ layout: post
 category : Defense
 tagline: 
 tags : 
-img : defence1.jpg 
+img : defence2.jpg 
 author : Reza Fahimi
-title : Methods Addressing Irregularly Observed Longitudinal Data Subject to Outcome-Dependent Follow-Up and Informative Dropout
+title : Methods Addressing Irregularly Observed Longitudinal Data Subject to Outcome-Dependent Follow-Up and Informative Dropout (Proposal Presentation)
 bgcolor: ff5a71
 keywords: proposal, defense
 
