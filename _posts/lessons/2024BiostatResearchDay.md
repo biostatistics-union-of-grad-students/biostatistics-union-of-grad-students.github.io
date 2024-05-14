@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Award
-tagline: "Awards"
+tagline: "Award"
 tags: [Research Day, Poster]
 img: poster_award.jpg
 author: Reza Fahimi
