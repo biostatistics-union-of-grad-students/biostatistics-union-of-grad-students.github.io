@@ -25,12 +25,12 @@ Congratulations to all the winners and participants for their hard work and cont
 
 <!--more-->
 
-![Tony Panzarella, Jinyu Luo](assets/images/post/tony_jinyu.jpg)
-![Tony Panzarella, Hongyu Chen](assets/images/post/tony_hongyu.jpg)
-![Jinyu Luo, Olli Saarela](assets/images/post/jinyu_olli.jpg)
-![Brenleigh Jebb, Olli Saarela](assets/images/post/brenleigh_olli.jpg)
-![Aya Mitani, Jinyu Luo](assets/images/post/aya_jinyu.jpg)
-![Career Panel](assets/images/post/careerpanel.jpg)
+![Tony Panzarella, Jinyu Luo](/assets/images/post/tony_jinyu.jpg)
+![Tony Panzarella, Hongyu Chen](/assets/images/post/tony_hongyu.jpg)
+![Jinyu Luo, Olli Saarela](/assets/images/post/jinyu_olli.jpg)
+![Brenleigh Jebb, Olli Saarela](/assets/images/post/brenleigh_olli.jpg)
+![Aya Mitani, Jinyu Luo](/assets/images/post/aya_jinyu.jpg)
+![Career Panel](/assets/images/post/careerpanel.jpg)
 
 
 
