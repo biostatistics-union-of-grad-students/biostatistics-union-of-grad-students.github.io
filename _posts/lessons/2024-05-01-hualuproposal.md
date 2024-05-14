@@ -5,7 +5,7 @@ tagline:
 tags : 
 img : defence4.jpg 
 author : Reza Fahimi
-title :  Interrogating the Shared Genetics: A Multi-phenotype and Cross-locus Colocalization Framework (Proposal Presentation)
+title :  "Interrogating the Shared Genetics A Multi-phenotype and Cross-locus Colocalization Framework (Proposal Presentation)"
 bgcolor: ff5a71
 keywords: proposal, defense
 
