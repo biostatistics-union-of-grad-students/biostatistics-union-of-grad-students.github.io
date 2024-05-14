@@ -5,10 +5,11 @@ tagline: "Award"
 tags: [Research Day, Poster]
 img: poster_award.jpg
 author: Reza Fahimi
-title2: "2024 Biostatistics Research Day - Paul Corey Poster Awards"
+title: "2024 Biostatistics Research Day - Paul Corey Poster Awards"
 bgcolor: ff5a71
 keywords: Biostatistics Research Day, Paul Corey, Poster, Award
 ---
+
 
 {% include JB/setup %}
 
