@@ -32,4 +32,3 @@ keywords: proposal, defense
 
 We first propose a novel feature selection method for ensemble analysis of multivariate outcomes mixed with continuous and binary variables, thereby addressing an existing gap in the literature. This method holds the potential for extension to incorporate variables of other types, thereby broadening its applicability. Then we specifically focus on the joint model of endpoints comprising multiple adverse events, wherein we consider the severity of adverse events (AE) alongside distinguishing between long term and short-term adverse events in our model. Our objective is to offer a comprehensive understanding of the impact of treatments on multivariate event occurrences. We intend to further develop a more advanced model to accommodate data featuring interval censoring and terminal events.
 
-**All are welcome!**
