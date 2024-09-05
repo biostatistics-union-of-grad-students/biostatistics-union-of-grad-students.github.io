@@ -14,7 +14,7 @@ keywords: defense
 {% include JB/setup %}
 
 
-**Presenter**:  Mohammad Reza Fahimi
+**Presenter**:  Yushu Zou
 
 **Supervisory Committee**:  Kuan Liu (Supervisor), Aya Mitani, Olli Saarela
 
