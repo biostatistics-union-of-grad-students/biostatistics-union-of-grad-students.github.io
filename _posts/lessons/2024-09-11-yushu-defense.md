@@ -22,7 +22,7 @@ keywords: defense
 
 **Date and Time**:  Wednesday, September 11, 2024, 13:00-15:00pm EST
 
-**Location**:  155 College Street, Health Sciences Building, Room 507
+**Location**:  155 College Street, Health Sciences Building, Room 650
 
 
 
