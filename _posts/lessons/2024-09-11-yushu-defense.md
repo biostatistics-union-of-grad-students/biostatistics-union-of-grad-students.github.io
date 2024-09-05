@@ -30,4 +30,4 @@ keywords: defense
 
 <!--more-->
 
-**Abstract**:
+**Abstract**: NA
