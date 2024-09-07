@@ -3,7 +3,7 @@ layout: post
 category : Defense
 tagline: 
 tags : 
-img : defence3.jpg
+img : aoqidef.jpg
 author : Reza
 title :  "A Novel Sequential Multiple Assignment Randomized Trial Design with Internal Pilot Study and Unblinded Sample Size Re-estimation "
 bgcolor: ff5a71
