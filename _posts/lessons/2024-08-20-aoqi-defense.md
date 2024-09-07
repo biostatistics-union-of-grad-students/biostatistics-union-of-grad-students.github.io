@@ -30,11 +30,11 @@ keywords: defense
 
 <!--more-->
 
-**Abstract**: Given substantial public resources allocated to health research, it is crucial to ensure the resources are used effectively so that it maximizes the benefit. A pilot study is a small-scale study
+**Abstract**: Given substantial public resources allocated to health research, it is crucial to ensure the resources are used effectively so that it maximizes the benefit. A pilot study is a small-scale study
 that aims to test for feasibility to ensure a high likelihood of success for a large-scale trial. Sample
 size re-estimation allows modification of the final sample size based on interim results, ensuring
 sufficient power are maintained. Sequential Multiple Assignment Randomized Trials (SMART)
-provide a framework for testing dynamic treatment regimens, which are pre-specified rules for rerandomizing participants based on their responses. However, there is a gap for combining these
+provide a framework for testing dynamic treatment regimens, which are pre-specified rules for rerandomizing participants based on their responses. However, there is a gap for combining these
 two methods within Sequential Multiple Assignment Randomized Trials. In this study, we aim to
 extend the fixed SMART design to include an Internal Pilot Study for feasibility and unblinded
 Sample Size Re-estimation (SSR).
