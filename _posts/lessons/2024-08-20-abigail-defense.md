@@ -40,7 +40,7 @@ methods to concurrently evaluate multiple treatments in an APT. The goal is to i
 efficiency and accuracy of APTs to save time, resources, and patient lives. Approach: Three 
 alternative ranking methods were identified through a literature review. These were (1) Surface 
 Under the Cumulative Ranking Curve (SUCRA), which summarizes the total ranking 
-distribution, (2) Mean Posterior Rank, which averages the ranks for each treatment and (3) PairWise Comparison, which compares the value of the treatment effects through all pairwise 
+distribution, (2) Mean Posterior Rank, which averages the ranks for each treatment and (3) Pairwise Comparison, which compares the value of the treatment effects through all pairwise 
 rankings. A simulation study was implemented across multiple trial designs. The ranking 
 methods were applied to each trial design, and the power and expected sample size of the trials 
 were used as metrics to assess their performance. The superiority and futility thresholds were 
