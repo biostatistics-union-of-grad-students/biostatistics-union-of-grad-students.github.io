@@ -9,7 +9,22 @@
 - group: 2023
   list:
     - entry: '<u>Yang, M.</u>, Matan-Lithwick, S., Wang, Y., De Jager, P.L., Bennett, D.A., Felsky, D., 2023. Multi-omic integration via similarity network fusion to detect molecular subtypes of ageing. Brain Communications, Volume 5, Issue 2. https://doi.org/10.1093/braincomms/fcad110'
+    - entry: '<u>Soltanifar, M.</u>, & Lee, C. H. (2023). SimSST: An R Statistical Software Package to Simulate Stop Signal Task Data. Mathematics, 11(3), 500.'
 
 - group: 2022
   list:
     - entry: '<u>Li, L.</u>, Plint, A. and Heath, A., 2022. Generating High-Utility Synthetic Clinical Trial Data Using Non-Parametric Data-Augmented Multiple Imputation. Journal of the Royal Statistical Society: Series C (Under review)'
+    - entry: '<u>Soltanifar, M.</u>, Escobar, M., Dupuis, A., Chevrier, A., & Schachar, R. (2022). The Asymmetric Laplace Gaussian (ALG) Distribution as the Descriptive Model for the Internal Proactive Inhibition in the Standard Stop Signal Task. Brain Sciences, 12(6), 730.'
+    - entry: '<u>Soltanifar, M.</u> (2022). A Look at the Primary Order Preserving Properties of Stochastic Orders: Theorems, Counterexamples and Applications in Cognitive Psychology. Mathematics, 10(22), 4362.'
+
+- group: 2021
+  list:
+    - entry: '<u>Soltanifar, M.</u>, Escobar, M., Dupuis, A., & Schachar, R. (2021). A Bayesian Mixture Modelling of Stop Signal Reaction Time Distributions: The Second Contextual Solution for the Problem of Aftereffects of Inhibition on SSRT Estimations. Brain Sciences, 11(8), 1102.'
+  
+- group: 2020
+  list:
+    - entry: '<u>Soltanifar, M.</u>, Knight, K., Dupuis, A., Schachar, R., & Escobar, M. (2020). A Time Series-Based Point Estimation of Stop Signal Reaction Times: More Evidence on the Role of Reactive Inhibition-Proactive Inhibition Interplay on the SSRT Estimations. Brain Sciences, 10(9), 598.'
+    
+- group: 2019
+  list:
+    - entry: '<u>Soltanifar, M.</u>, Dupuis, A., Schachar, R., & Escobar, M. (2019). A frequentist mixture modeling of stop signal reaction times. Biostatistics & Epidemiology, 3(1).'
