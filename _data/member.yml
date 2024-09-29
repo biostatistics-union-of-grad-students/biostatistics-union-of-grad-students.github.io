@@ -297,17 +297,11 @@
   list:
   - file: Yuan_Bian.jpg
     name: Yuan Bian
-    position: PhD Candidate in Statistics, University of Western Ontario
+    position: Postdoctoral Research Scientist, Columbia University
     supervisor: 'Supervisor: Dr. Shelley Bull'
     year: 2020 (Thesis)
     research: 'Research Interest: Machine learning , Missing data, Causal inference, Survival analysis'
     link: 'https://yuanbian.netlify.app/'
-
-  - file: Yutong_Chen.jpg
-    name: Betty Chen
-    supervisor: 'Supervisor: Dr.Rahim Moineddin, Christopher Meaney'
-    year: 2023
-    link: 'http://www.linkedin.com/in/betty-yc'
 
   - file: Charlotte_Chen.jpg
     name: Charlotte Chen
@@ -337,9 +331,9 @@
 
   - file: Rebbeca_Du.jpeg
     name: Jingwen (Rebecca) Du
-    position: Statistical Programmer, Everest Clinical Research
+    position: Statistical Programmer II, Everest Clinical Research
     year: 2020
-    link: 'https://www.linkedin.com/in/jingwen-rebecca-du-a9056217a/'
+    link: 'https://www.linkedin.com/in/rebecca-jingwen-du-a9056217a/'
 
   - file: no_pic.png
     name: Shangyi Gao
@@ -350,12 +344,12 @@
 
   - file: no_pic.png
     name: Yingshi (Cecilia) He
-    position: Research Manager, St Michael's Hospital
+    position: Research Manager, St. Michael's Hospital
     year: 2024
     link: 'https://www.linkedin.com/in/yingshi-cecilia-he-57b31460/'
 
   - file: no_pic.png
-    name: Zhixing Hong
+    name: Zhixing (Stella) Hong
     position: Research Analyst, ICES
     year: 2023
     link: 'https://www.linkedin.com/in/zhixing-hong-300055179/'
@@ -382,7 +376,7 @@
 
   - file: Qiao Li.jpg
     name: Qiao Li
-    position: Statistical Consultant, Amaris Consulting
+    position: Senior Statistician, AstraZeneca
     year: 2021
     link: 'https://www.linkedin.com/in/qiao-li-95079aab/?originalSubdomain=ca'
 
@@ -401,6 +395,7 @@
   - file: no_pic.png
     name: ChenNingZhi Sheng
     supervisor: 'Supervisor: Dr. Rafal Kustra, Dr. Kuan Liu'
+    position: Regulatory Analyst and Adminstrator, Real Estate Council of Ontario
     year: 2023
     link: 'https://www.linkedin.com/in/kara-sheng-2a77461b1/'
 
@@ -432,15 +427,15 @@
 
   - file: Jiayue(Edith)_Yu.jpeg
     name: Jiayue (Edith) Yu
-    position: Research Associate - Evidence Generation, Cytel
+    position: Research Consultant: Evidence Review and Software, Cytel
     year: 2021
     link: 'https://www.linkedin.com/in/jiayue-edith-yu/'
 
   - file: no_pic.png.jpeg
-    name: Jiachen (Jason) Zhu
-    position: Data Engineer, Roche
+    name: Jason Zhu
+    position: Associate Director/RWD Engineer, AstraZeneca
     year: 2020
-    link: 'https://www.linkedin.com/in/jiachen-jason-zhu-333412157/'
+    link: 'https://www.linkedin.com/in/jason-zhu-333412157/'
 
 
 
