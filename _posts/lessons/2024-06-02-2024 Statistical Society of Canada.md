@@ -24,7 +24,7 @@ keywords: Statistical Society of Canada, Poster, Award
 
 ### **2024 Case Studies in Data Analysis Competition**
 
-**1st Prize**, Winners, Rank: 1 out of 18 teams:
+**1st Prize**, Winners, Rank: 1 out of 18 teams
 
 Recipients: **Linke Li**, **Jasper Zhongyuan Zhang**, **Ziqian Zhuang**, **Mei Dong** (PhD Biostatistics students)
 
