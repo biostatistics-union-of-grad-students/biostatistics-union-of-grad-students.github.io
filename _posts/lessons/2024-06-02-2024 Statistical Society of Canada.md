@@ -21,39 +21,39 @@ keywords: Statistical Society of Canada, Poster, Award
 <!--more-->
 
 
-### **2024 Case Studies in Data Analysis Competition**
+## **2024 Case Studies in Data Analysis Competition**
 
 **1st Prize**, Winners, Rank: 1 out of 18 teams:
 
-**Recipients**: Linke Li, Jasper Zhongyuan Zhang, Ziqian Zhuang, Mei Dong (PhD Biostatistics students)
+Recipients: **Linke Li**, **Jasper Zhongyuan Zhang**, **Ziqian Zhuang**, **Mei Dong** (PhD Biostatistics students)
 
-**Team**: University of Toronto Team, mentored by Dr. Pingzhao Hu
+Team: University of Toronto Team, mentored by Dr. Pingzhao Hu
 
-**Case Study Topic**: Predicting Length of ICU Stay in People with Acute Traumatic Spinal Cord Injury
+Case Study Topic: Predicting Length of ICU Stay in People with Acute Traumatic Spinal Cord Injury
 
-### **2024 Case Studies in Data Analysis Competition**
+## **2024 Case Studies in Data Analysis Competition**
 
-**Biostatistics Section Honourable Mention Recipient**: Ziqian Zhuang (PhD Biostatistics), Supervisor: Dr. Wei Xu
+Biostatistics Section Honourable Mention Recipient: **Ziqian Zhuang** (PhD Biostatistics), Supervisor: Dr. Wei Xu
 
-### **2024 SSC Annual Meeting Student Travel Grants**
+## **2024 SSC Annual Meeting Student Travel Grants**
 
-**Recipient**: Aoqi Xie (MSc Biostatistics), Supervisor: Dr. Clement Ma
+Recipient: **Aoqi Xie** (MSc Biostatistics), Supervisor: Dr. Clement Ma
 
-### **2024 Canadian Statistics Student Conference (CSSC) Student Presentation Competitions**
+## **2024 Canadian Statistics Student Conference (CSSC) Student Presentation Competitions**
 
 **1st Prize** Poster Presentation
 
-**Recipient**: Yutong Lu (MSc Biostatistics), Supervisor: Dr. Pingzhao Hu
+Recipient: **Yutong Lu** (MSc Biostatistics), Supervisor: Dr. Pingzhao Hu
 
 **1st Prize** Virtual Poster Presentation
 
-**Recipient**: Xiao Yan (MSc Biostatistics), Supervisor: Dr. Kuan Liu
+Recipient: **Xiao Yan** (MSc Biostatistics), Supervisor: Dr. Kuan Liu
 
 ### **CSSC Travel Award**:
 
-**Recipient**: Ziqian Zhuang (PhD Biostatistics), Supervisor: Dr. Wei Xu
+Recipient: **Ziqian Zhuang** (PhD Biostatistics), Supervisor: Dr. Wei Xu
 
 
-Congratulations to all the winners and participants for their hard work and contributions!
+<center> Congratulations to all the winners and participants for their hard work and contributions! </center>
 
 
