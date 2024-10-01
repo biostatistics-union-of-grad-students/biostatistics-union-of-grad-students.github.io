@@ -53,7 +53,6 @@ Recipient: **Xiao Yan** (MSc Biostatistics), Supervisor: Dr. Kuan Liu
 
 Recipient: **Ziqian Zhuang** (PhD Biostatistics), Supervisor: Dr. Wei Xu
 
-
-<center> Congratulations to all the winners and participants for their hard work and contributions! </center>
+_Congratulations to all the winners and participants for their hard work and contributions!_
 
 
