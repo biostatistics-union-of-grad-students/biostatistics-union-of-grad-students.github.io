@@ -20,6 +20,7 @@ keywords: Statistical Society of Canada, Poster, Award
 
 <!--more-->
 
+<br/>
 
 ### **2024 Case Studies in Data Analysis Competition**
 
@@ -31,13 +32,19 @@ Team: University of Toronto Team, mentored by Dr. Pingzhao Hu
 
 Case Study Topic: Predicting Length of ICU Stay in People with Acute Traumatic Spinal Cord Injury
 
+<br/>
+
 ### **2024 Case Studies in Data Analysis Competition**
 
 Biostatistics Section Honourable Mention Recipient: **Ziqian Zhuang** (PhD Biostatistics), Supervisor: Dr. Wei Xu
 
+<br/>
+
 ### **2024 SSC Annual Meeting Student Travel Grants**
 
 Recipient: **Aoqi Xie** (MSc Biostatistics), Supervisor: Dr. Clement Ma
+
+<br/>
 
 ### **2024 Canadian Statistics Student Conference (CSSC) Student Presentation Competitions**
 
@@ -48,6 +55,8 @@ Recipient: **Yutong Lu** (MSc Biostatistics), Supervisor: Dr. Pingzhao Hu
 **1st Prize** Virtual Poster Presentation
 
 Recipient: **Xiao Yan** (MSc Biostatistics), Supervisor: Dr. Kuan Liu
+
+<br/>
 
 ### **CSSC Travel Award**:
 
