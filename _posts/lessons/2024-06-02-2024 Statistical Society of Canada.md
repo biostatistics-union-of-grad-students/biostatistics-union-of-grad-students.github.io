@@ -24,6 +24,9 @@ keywords: Statistical Society of Canada, Poster, Award
 
 ### **2024 Case Studies in Data Analysis Competition**
 
+![Case study competition](/assets/images/post/award_ceremony_tony_linke_team_aya.jpg)
+![Case study competition with prof](/assets/images/post/case_study_linkes_team.jpg)
+
 **1st Prize**, Winners, Rank: 1 out of 18 teams
 
 Recipients: **Linke Li**, **Jasper Zhongyuan Zhang**, **Ziqian Zhuang**, **Mei Dong** (PhD Biostatistics students)
@@ -48,9 +51,13 @@ Recipient: **Aoqi Xie** (MSc Biostatistics), Supervisor: Dr. Clement Ma
 
 ### **2024 Canadian Statistics Student Conference (CSSC) Student Presentation Competitions**
 
+![student presentation](/assets/images/post/award_pingzhao_yutong.jpg)
+
 **1st Prize** Poster Presentation
 
 Recipient: **Yutong Lu** (MSc Biostatistics), Supervisor: Dr. Pingzhao Hu
+
+![student presentation virtual](/assets/images/post/award_XiaoYan_kuan.jpg)
 
 **1st Prize** Virtual Poster Presentation
 
