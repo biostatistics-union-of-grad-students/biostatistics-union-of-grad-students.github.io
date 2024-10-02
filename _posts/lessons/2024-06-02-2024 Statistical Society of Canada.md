@@ -3,7 +3,7 @@ layout: post
 category: Award
 tagline: "Award"
 tags: [Statistical Society of Canada, poster]
-img: poster_award.jpg
+img: banquet_uoft_pingzhao_aya_kuan.jpg
 author: Qirui Hou
 title: "2024 Statistical Society of Canada (SSC) Annual Meeting Awards"
 bgcolor: ff5a71
