@@ -5,7 +5,7 @@ tagline: "Award"
 tags: [Statistical Society of Canada, poster]
 img: banquet_uoft_pingzhao_aya_kuan.jpg
 author: Qirui Hou
-title: "2024 Statistical Society of Canada (SSC) Annual Meeting Awards"
+title: "2024 Statistical Society of Canada (SSC) Annual Meeting Student Awards"
 bgcolor: ff5a71
 keywords: Statistical Society of Canada, Poster, Award
 ---
@@ -13,18 +13,26 @@ keywords: Statistical Society of Canada, Poster, Award
 
 {% include JB/setup %}
 
+# 2024 Statistical Society of Canada (SSC) Annual Meeting
+
 **Location**: Memorial University, St. John's, Newfoundland and Labrador
 
 **Dates**: Sunday, June 2, 2024, to Wednesday, June 5, 2024
+
+The 2024 SSC Annual Meeting saw active participation from UofT Biostatistics students across various competitions and presentations. Students showcased their research in the Case Study Competition, Student Presentation Competition, and the Canadian Statistics Student Conference (CSSC), gaining valuable feedback and networking opportunities. Attendees also participated in workshops and academic sessions, further enriching their knowledge and contributing to the vibrant academic exchange at the event.
+
+![SSC banquet](/assets/images/post/banquet_uoft_pingzhao_aya_kuan.jpg)
 
 <!--more-->
 
 <br/>
 
+Students' hard work and achievements were recognized through a series of awards and honors, celebrating both individual and team accomplishments.
+
 ### **2024 Case Studies in Data Analysis Competition**
 
 ![Case study competition](/assets/images/post/award_ceremony_casestudy.jpg)
-![Case study competition with prof](/assets/images/post/case_study_linkes_team.jpg)
+![Case study competition with poster](/assets/images/post/case_study_linkes_team.jpg)
 
  **Winners**
 
@@ -66,5 +74,5 @@ Recipient: **Xiao Yan** (MSc Biostatistics), Supervisor: Dr. Kuan Liu
 
 Recipient: **Ziqian Zhuang** (PhD Biostatistics), Supervisor: Dr. Wei Xu
 
-_Congratulations to all the winners and participants for their hard work and contributions!_
+_Congratulations to all the winners and participants for their hard work and contributions! Best of luck in your future research and endeavors!_
 
