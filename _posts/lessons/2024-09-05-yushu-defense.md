@@ -3,9 +3,9 @@ layout: post
 category : Defense
 tagline: 
 tags : 
-img : defence1.jpg
+img : yushu_defense.jpg
 author : Reza
-title :  "A Bayesian Sensitivity Analysis Approach for Unmeasured Confounding in Longitudinal Data (MSc)"
+title :  "A Bayesian Sensitivity Analysis Approach for Unmeasured Confounding in Longitudinal Data (MSc Defense)"
 bgcolor: ff5a71
 keywords: defense
 

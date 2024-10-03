@@ -5,7 +5,7 @@ tagline:
 tags : 
 img : defence2.jpg
 author : Reza
-title :  "Enhancing the Efficiency of Adaptive Platform Trials Through the Exploration of Alternative Treatment Ranking Methods (MSc)"
+title :  "Enhancing the Efficiency of Adaptive Platform Trials Through the Exploration of Alternative Treatment Ranking Methods (MSc Defense)"
 bgcolor: ff5a71
 keywords: defense
 

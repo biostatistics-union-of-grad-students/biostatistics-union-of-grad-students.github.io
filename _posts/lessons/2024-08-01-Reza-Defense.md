@@ -5,7 +5,7 @@ tagline:
 tags : 
 img : reza_ms_small.jpg
 author : Reza
-title :  "Optimal Sampling Design and Analysis for Two-Phase Studies with Ordinal Outcomes (MSc)"
+title :  "Optimal Sampling Design and Analysis for Two-Phase Studies with Ordinal Outcomes (MSc Defense)"
 bgcolor: ff5a71
 keywords: defense
 

@@ -5,7 +5,7 @@ tagline:
 tags : 
 img : defence1.jpg
 author : Reza
-title :  "A Novel Multi-arm, Two-stage Randomized Basket Design (MSc)"
+title :  "A Novel Multi-arm, Two-stage Randomized Basket Design (MSc Defense)"
 bgcolor: ff5a71
 keywords: defense
 
