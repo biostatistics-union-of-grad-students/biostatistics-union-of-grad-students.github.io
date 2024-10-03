@@ -32,11 +32,7 @@ Students' hard work and achievements were recognized through a series of awards 
 ![Case study competition](/assets/images/post/award_ceremony_casestudy.jpg)
 ![Case study competition with poster](/assets/images/post/case_study_linkes_team.jpg)
 
- **Winners**
-
-Recipients: **Linke Li**, **Jasper Zhang**, **Ziqian Zhuang**, **Mei Dong** (PhD Biostatistics students)
-
-Team: University of Toronto Team, mentored by Dr. Pingzhao Hu
+Competition Winners Recipients: **Linke Li**, **Jasper Zhang**, **Ziqian Zhuang**, **Mei Dong** (PhD Biostatistics students), Faculty Mentor: Dr. Pingzhao Hu
 
 Rank 1/18 in Case Study #2: Predicting Length of ICU Stay in People with Acute Traumatic Spinal Cord Injury
 
