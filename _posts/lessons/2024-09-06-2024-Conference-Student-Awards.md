@@ -13,19 +13,17 @@ keywords: Statistical Society of Canada, Poster, Award
 
 {% include JB/setup %}
 
-# 2024 Statistical Society of Canada (SSC) Annual Meeting
-
 **Location**: Memorial University, St. John's, Newfoundland and Labrador
 
 **Dates**: Sunday, June 2, 2024, to Wednesday, June 5, 2024
 
 The 2024 SSC Annual Meeting saw active participation from UofT Biostatistics students across various competitions and presentations. Students showcased their research in the Case Study Competition, Student Presentation Competition, and the Canadian Statistics Student Conference (CSSC), gaining valuable feedback and networking opportunities. Attendees also participated in workshops and academic sessions, further enriching their knowledge and contributing to the vibrant academic exchange at the event.
 
-![SSC banquet](/assets/images/post/banquet_uoft_pingzhao_aya_kuan.jpg)
-
 <!--more-->
 
 <br/>
+
+![SSC banquet](/assets/images/post/banquet_uoft_pingzhao_aya_kuan.jpg)
 
 Students' hard work and achievements were recognized through a series of awards and honors, celebrating both individual and team accomplishments.
 
