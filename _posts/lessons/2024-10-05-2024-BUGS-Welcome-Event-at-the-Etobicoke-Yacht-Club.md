@@ -27,10 +27,11 @@ As the evening settled in, we lit a **bonfire**, which added a cozy atmosphere t
 
 The event provided a wonderful opportunity for students and faculty to unwind, connect, and build lasting memories as we kicked off the 2024-2025 year together.
 
+![BUGS Social Lighthouse](/assets/images/post/2024_bugs_lighthouse.JPG)
+
 **Thank you to everyone who made this event so special!** We’re looking forward to organizing more exciting events like this one throughout the year.
 
 *Stay tuned for future announcements and more social gatherings on our website!*
-
 
 
 
