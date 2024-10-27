@@ -43,6 +43,13 @@
     research: "Research Interests: Causal Inference, Statistical Genetics"
     link: https://www.linkedin.com/in/mei-dong-297392128/
 
+  - file: Mohammad_Reza_Fahimi.jpg
+    name: Mohammad Reza Fahimi
+    supervisor: 'Supervisor: Dr. Aya Mitani'
+    year: 
+    research: 'Research Interests: Two-Phase Study Design, Longitudinal Data Analysis, Ordinal Data Analysis'
+    link: 'https://www.linkedin.com/in/mohammad-reza-fahimi-48a67020b/'
+
   - file: Xinyang(Sean)_Feng.jpg
     name: Xinyang (Sean) Feng
     supervisor: 'Supervisor: Dr. Aya Mitani'
@@ -92,6 +99,12 @@
     research: 'Research Interests: Clinical Trials, Bioequivalence, Biosimilars'
     link: https://www.linkedin.com/in/yuqingliu1/
 
+  - file: Abigail_Mcgrory.jpg
+    name: Abigail McGrory
+    supervisor: 'Supervisor: Dr. Anna Heath'
+    year: 
+    link: 'https://www.linkedin.com/in/abigail-mcgrory/'
+
   - file: Eric_Sanders.jpg
     name: Eric Sanders
     supervisor: 'Supervisor: Dr. Lisa Strug'
@@ -126,6 +139,12 @@
     year: 
     research:
     link:
+
+  - file: no_pic.png
+    name: Aoqi Xie
+    supervisor: 'Supervisor: Dr. Clement Ma'
+    year: 
+    link: 'https://www.linkedin.com/in/aoqi-xie-708811208/'
 
   - file: Dongyang_Yang.jpg
     name: Dongyang Yang
@@ -176,13 +195,6 @@
     supervisor:
     year: MSc
     link: 'https://www.linkedin.com/in/aprilyangcheng/'
-
-  - file: Mohammad_Reza_Fahimi.jpg
-    name: Mohammad Reza Fahimi
-    supervisor: 'Supervisor: Dr. Osvaldo Espin-Garcia, Dr. Aya Mitani'
-    year: MSc (Thesis)
-    research: 'Research Interests: Two-Phase Study Design, Longitudinal Data Analysis, Ordinal Data Analysis'
-    link: 'https://www.linkedin.com/in/mohammad-reza-fahimi-48a67020b/'
     
   - file: Yankai_Feng.jpg
     name: Yankai Feng
@@ -197,13 +209,6 @@
     year: MSc
     link: https://www.linkedin.com/in/xiaoxuan-han-82629b236/
 
-  - file: Qirui_Hou.jpg
-    name: Qirui Hou
-    supervisor: "Supervisor: Dr. Clement Ma"
-    year: MSc (Thesis)
-    research: 'Research Interests: Master Protocol, Adaptive Clinical Trial Design'
-    link: ''
-
   - file: Yutong_Lu.JPG
     name: Yutong Lu
     supervisor: 'Practicum Supervisor: Dr. Pingzhao Hu'
@@ -215,24 +220,6 @@
     supervisor: 'Practicum Supervisor: Dr. Aya Mitani'
     year: MSc
     link: 'https://www.linkedin.com/in/jinyu21/'
-
-  - file: no_pic.png
-    name: Zunaira Mehmood
-    supervisor:
-    year: MSc
-    link: 'https://www.linkedin.com/in/zunairamehmood/'
-
-  - file: Abigail_Mcgrory.jpg
-    name: Abigail McGrory
-    supervisor: 'Supervisor: Dr. Anna Heath'
-    year: MSc (Thesis)
-    link: 'https://www.linkedin.com/in/abigail-mcgrory/'
-
-  - file: Shijie_Min.jpg
-    name: Shijie Min
-    supervisor: 'Supervisor: Dr. Pingzhao Hu'
-    year: MSc (Thesis)
-    link: 'https://www.linkedin.com/in/shijie-min/'
 
   - file: Youxue_Ren.jpeg
     name: Youxue Ren
@@ -252,12 +239,6 @@
     supervisor: 'Practicum Supervisor: Dr. Shelley Bull'
     year: MSc
     link: 'https://www.linkedin.com/in/feifan-kristy-xiang-7295b4234/'
-    
-  - file: no_pic.png
-    name: Aoqi Xie
-    supervisor: 'Supervisor: Dr. Clement Ma'
-    year: MSc (Thesis)
-    link: 'https://www.linkedin.com/in/aoqi-xie-708811208/'
 
   - file: Xiao_Yan.jpg
     name: Xiao Yan
@@ -265,11 +246,7 @@
     year: MSc (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/xiaoyan1596/'
 
-  - file: Yushu_Zou.jpg
-    name: Yushu Zou
-    supervisor: 'Supervisor: Dr. Kuan Liu'
-    year: MSc (Thesis)
-    link: 'https://reidbrok.github.io/'
+
 
 - desc: PhD Alumni
   type: alumni
@@ -354,6 +331,13 @@
     year: 2023
     link: 'https://www.linkedin.com/in/zhixing-hong-300055179/'
 
+  - file: Qirui_Hou.jpg
+    name: Qirui Hou
+    supervisor: "Supervisor: Dr. Clement Ma"
+    year: 2024 (Thesis)
+    research: 'Research Interests: Master Protocol, Adaptive Clinical Trial Design'
+    link: ''
+
   - file: no_pic.png
     name: Laura Langer
     position: Biostatistician, University Health Network (UHN)
@@ -386,11 +370,23 @@
     year: 2023
     link: 'https://www.linkedin.com/in/qiaowei-vicky-lin-300366293/'
 
+  - file: no_pic.png
+    name: Zunaira Mehmood
+    supervisor:
+    year: MSc
+    link: 'https://www.linkedin.com/in/zunairamehmood/'
+
   - file: Ashley_Mao.jpeg
     name: Ashley Mao
     position: Senior Data Scientist, Roche
     year: 2020
     link: 'https://www.linkedin.com/in/ashleymaohuiyan/'
+
+  - file: Shijie_Min.jpg
+    name: Shijie Min
+    supervisor: 'Supervisor: Dr. Pingzhao Hu'
+    year: 2024 (Thesis)
+    link: 'https://www.linkedin.com/in/shijie-min/'
 
   - file: no_pic.png
     name: ChenNingZhi Sheng
@@ -436,6 +432,12 @@
     position: Associate Director/RWD Engineer, AstraZeneca
     year: 2020
     link: 'https://www.linkedin.com/in/jason-zhu-333412157/'
+    
+  - file: no_pic.png.jpeg
+    name: Yushu Zou
+    supervisor: 'Supervisor: Dr. Kuan Liu'
+    year: 2024 (Thesis)
+    link: 'https://reidbrok.github.io/'
 
 
 
