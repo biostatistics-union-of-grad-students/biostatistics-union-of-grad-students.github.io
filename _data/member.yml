@@ -229,21 +229,18 @@
   - file: no_pic.png
     name: Yuan Bian
     position: Postdoctoral Research Scientist, Columbia University
-    supervisor: 'Supervisor: Dr. Shelley Bull'
     year: 2020 (Thesis)
-    research: 'Research Interest: Machine learning , Missing data, Causal inference, Survival analysis'
     link: 'https://yuanbian.netlify.app/'
 
   - file: no_pic.png
     name: Charlotte Chen
     position: Data Analyst, William Osler Health System
-    supervisor:
     year: 2023
     link: 'https://www.linkedin.com/in/xiaoyu-%EF%BC%88charlotte%EF%BC%89-chen-4199aa280/'
     
- - file: no_pic.png
+  - file: no_pic.png
     name: Hongyu Chen
-    supervisor: 'Practicum Supervisors: Dr. Rinku Sutradhar, Dr. Alyson Mahar'
+    position:
     year: 2024
     link: 'https://www.linkedin.com/in/hongyu-fina-chen/'
     
@@ -256,7 +253,6 @@
   - file: no_pic.png
     name: Yu-Chun (Gingin) Chien
     position: Research Analyst, Institute for Work & Health
-    supervisor: 'Supervisor: Melanie Poulin-Costello'
     year: 2023
     link: 'https://www.linkedin.com/in/yuchunchien/'
 
@@ -275,15 +271,12 @@
   - file: no_pic.png
     name: Yankai Feng
     position:
-    supervisor: 'Practicum Supervisor: Dr. Laurent Briollais'
     year: 2024
-    research: 'Research Interests: Longitudinal Studies, Survival Analysis, Categorical Data Analysis'
     link: 'https://fengyankai.github.io/'
 
   - file: no_pic.png
     name: Shangyi Gao
     position: Biostatistician, University Health Network (UHN)
-    supervisor: 'Supervisor: Dr.Wendy Lou'
     year: 2023
     link: 'https://www.linkedin.com/in/shangyi-gao/'
 
@@ -301,7 +294,6 @@
 
   - file: no_pic.png
     name: Qirui Hou
-    supervisor: "Supervisor: Dr. Clement Ma"
     year: 2024 (Thesis)
     research: 'Research Interests: Master Protocol, Adaptive Clinical Trial Design'
     link: 
@@ -315,14 +307,12 @@
   - file: no_pic.png
     name: Luis Ledesma
     position: Statistical Analyst, McMaster University
-    supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
     year: 2023 (Thesis)
     link: 'https://www.linkedin.com/in/luisledes/'
 
   - file: no_pic.png
     name: Peiyu Li
     position: CANSTAT Fellow, Unity Health Toronto
-    supervisor: 'Supervisor: Dr.Aya Mitani, Dr.Chun-Po Steve Fan, Dr.Sudipta Saha'
     year: 2023
     link: 'https://www.linkedin.com/in/peiyu-li-76a734235/'
 
@@ -341,21 +331,18 @@
   - file: no_pic.png
     name: Yutong Lu
     position: '' 
-    supervisor: 'Practicum Supervisor: Dr. Pingzhao Hu'
     year: 2024  (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/yutong-lu-lorraine/'
 
   - file: no_pic.png
     name: Jinyu (Irene) Luo
     position:
-    supervisor: 'Practicum Supervisor: Dr. Aya Mitani'
     year: 2024
     link: 'https://www.linkedin.com/in/jinyu21/'
 
   - file: no_pic.png
     name: Zunaira Mehmood
     position: ''
-    supervisor:
     year: 2024
     link: 'https://www.linkedin.com/in/zunairamehmood/'
 
@@ -368,21 +355,17 @@
   - file: no_pic.png
     name: Shijie Min
     position: ''
-    supervisor: 'Supervisor: Dr. Pingzhao Hu'
     year: 2024 (Thesis)
     link: 'https://www.linkedin.com/in/shijie-min/'
 
   - file: no_pic.png
     name: Youxue Ren
     position: ''
-    supervisor: 'Practicum Supervisor:  Dr. Aya Mitani'
     year: 2024 (AI/DS Emphasis)
-    research: 'Research Interests: Causal Inference, NLP'
     link: 'https://ca.linkedin.com/in/%E6%82%A0%E9%9B%AA-%E4%BB%BB-snowball/en'
 
   - file: no_pic.png
     name: ChenNingZhi Sheng
-    supervisor: 'Supervisor: Dr. Rafal Kustra, Dr. Kuan Liu'
     position: Regulatory Analyst and Administrator, Real Estate Council of Ontario
     year: 2023
     link: 'https://www.linkedin.com/in/kara-sheng-2a77461b1/'
@@ -390,7 +373,6 @@
   - file: no_pic.png
     name: Yi-Chen Su
     position: Biostatistician, Lunenfeld-Tanenbaum Research Institute, Sinai Health
-    supervisor: 'Supervisor: Dr. Huan Jiang'
     year: 2023 (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/yi-chen-su-b62060290/'
 
@@ -408,21 +390,19 @@
 
   - file: no_pic.png
     name: Feifan Xiang
-    supervisor: 'Practicum Supervisor: Dr. Shelley Bull'
+    position:
     year: 2024
     link: 'https://www.linkedin.com/in/feifan-kristy-xiang-7295b4234/'
     
-- file: no_pic.png
+  - file: no_pic.png
     name: Xiao Yan
     position: ''
-    supervisor: 'Practicum Supervisor: Dr. Kuan Liu'
     year: 2024 (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/xiaoyan1596/'
     
   - file: no_pic.png
     name: Mu Yang
     position: Senior Research Associate, University of Waterloo
-    supervisor: 'Supervisor: Dr. Daniel Felsky'
     year: 2023 (Thesis)
     link: 'https://www.linkedin.com/in/mu-yang-432954171/'
 
@@ -441,7 +421,6 @@
   - file: no_pic.png.jpeg
     name: Yushu Zou
     position: ''
-    supervisor: 'Supervisor: Dr. Kuan Liu'
     year: 2024 (Thesis)
     link: 'https://reidbrok.github.io/'
 
