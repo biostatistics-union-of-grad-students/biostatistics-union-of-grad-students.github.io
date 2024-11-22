@@ -426,8 +426,6 @@
 - desc: Executive Team
   type: executive
   list:
-
-
   - file: George_Stefan3.jpg
     name: George Stefan
     position: President
@@ -441,6 +439,7 @@
   - file: Eric_Sanders.jpg
     name: Eric Sanders
     position: Treasurer
+    link:
 
   - file: Abigail_Mcgrory.jpg
     name: Abigail McGrory
