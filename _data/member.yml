@@ -71,13 +71,6 @@
     research: "Research Interests: Long-Read Sequencing Data, Post-selection Inference, Matrix Regression"
     link:
 
-  - file: Linke_Li2.jpg
-    name: Linke Li
-    supervisor: 'Supervisor: Dr. Anna Heath'
-    year: 
-    research: 'Research Interests: Bayesian Decision Theory, Health Economics'
-    link: https://www.linkedin.com/in/linke-li-596390107/?originalSubdomain=ca
-
   - file: Yao_Li.jpg
     name: Yao Li
     supervisor: 'Supervisor:  Dr. Wei Xu'
@@ -184,8 +177,7 @@
 - desc: Current MSc Students
   type: current
   list: 
- 
-- file: April_Cheng.jpg
+  - file: April_Cheng.jpg
     name: April Yang Cheng
     supervisor:
     year: 2024
@@ -197,7 +189,6 @@
     year: MSc
     link: https://www.linkedin.com/in/xiaoxuan-han-82629b236/
 
-
   - file: Priyonto_Saha.jpg
     name: Priyonto Saha
     supervisor: 'Supervisor: Dr. Zahra Shakeri'
@@ -207,6 +198,13 @@
 - desc: PhD Alumni
   type: alumni
   list:
+  - file: Linke_Li2.jpg
+    name: Linke Li
+    supervisor: 'Supervisor: Dr. Anna Heath'
+    year: 
+    research: 'Research Interests: Bayesian Decision Theory, Health Economics'
+    link: https://www.linkedin.com/in/linke-li-596390107/?originalSubdomain=ca
+
   - file: no_pic.png
     name: Kuan Liu
     position: Assistant Professor, University of Toronto
@@ -228,7 +226,7 @@
 - desc: MSc Alumni
   type: alumni
   list:
-  - file: Yuan_Bian.jpg
+  - file: no_pic.png
     name: Yuan Bian
     position: Postdoctoral Research Scientist, Columbia University
     supervisor: 'Supervisor: Dr. Shelley Bull'
@@ -236,45 +234,45 @@
     research: 'Research Interest: Machine learning , Missing data, Causal inference, Survival analysis'
     link: 'https://yuanbian.netlify.app/'
 
-  - file: Charlotte_Chen.jpg
+  - file: no_pic.png
     name: Charlotte Chen
     position: Data Analyst, William Osler Health System
     supervisor:
     year: 2023
     link: 'https://www.linkedin.com/in/xiaoyu-%EF%BC%88charlotte%EF%BC%89-chen-4199aa280/'
     
- - file: Hongyu_Chen.jpg
+ - file: no_pic.png
     name: Hongyu Chen
     supervisor: 'Practicum Supervisors: Dr. Rinku Sutradhar, Dr. Alyson Mahar'
     year: 2024
     link: 'https://www.linkedin.com/in/hongyu-fina-chen/'
     
-  - file: Jocelyn(Ziming)_Chen.jpeg
+  - file: no_pic.png
     name:  Ziming (Jocelyn) Chen
     position:  Biostatistician, AstraZeneca
     year: 2022
     link: 'https://www.linkedin.com/in/ziming-jocelyn-chen-428053124/?originalSubdomain=cn'
     
-  - file: Yu-Chun(Gingin)_Chien.jpg
+  - file: no_pic.png
     name: Yu-Chun (Gingin) Chien
     position: Research Analyst, Institute for Work & Health
     supervisor: 'Supervisor: Melanie Poulin-Costello'
     year: 2023
     link: 'https://www.linkedin.com/in/yuchunchien/'
 
-  - file: Ruixue_Dai.jpg
+  - file: no_pic.png
     name: Ruixue Dai
     position: Senior Biostatistician, The Hospital for Sick Children
     year: 2017
     link: 'https://www.linkedin.com/in/ruixuedai'
 
-  - file: Rebbeca_Du.jpeg
+  - file: no_pic.png
     name: Jingwen (Rebecca) Du
     position: Statistical Programmer II, Everest Clinical Research
     year: 2020
     link: 'https://www.linkedin.com/in/rebecca-jingwen-du-a9056217a/'
     
-  - file: Yankai_Feng.jpg
+  - file: no_pic.png
     name: Yankai Feng
     position:
     supervisor: 'Practicum Supervisor: Dr. Laurent Briollais'
@@ -301,7 +299,7 @@
     year: 2023
     link: 'https://www.linkedin.com/in/zhixing-hong-300055179/'
 
-  - file: Qirui_Hou.jpg
+  - file: no_pic.png
     name: Qirui Hou
     supervisor: "Supervisor: Dr. Clement Ma"
     year: 2024 (Thesis)
@@ -314,7 +312,7 @@
     year: 2023
     link: 'https://scholar.google.ca/citations?view_op=list_works&hl=en&hl=en&user=iYWMXocAAAAJ'
 
-  - file: Luis_Ledesma.jpg
+  - file: no_pic.png
     name: Luis Ledesma
     position: Statistical Analyst, McMaster University
     supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
@@ -328,7 +326,7 @@
     year: 2023
     link: 'https://www.linkedin.com/in/peiyu-li-76a734235/'
 
-  - file: Qiao Li.jpg
+  - file: no_pic.png
     name: Qiao Li
     position: Senior Statistician, AstraZeneca
     year: 2021
@@ -340,14 +338,14 @@
     year: 2023
     link: 'https://www.linkedin.com/in/qiaowei-vicky-lin-300366293/'
 
-  - file: Yutong_Lu.JPG
+  - file: no_pic.png
     name: Yutong Lu
-    position: 
+    position: '' 
     supervisor: 'Practicum Supervisor: Dr. Pingzhao Hu'
     year: 2024  (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/yutong-lu-lorraine/'
 
-  - file: Jinyu_Luo.jpg
+  - file: no_pic.png
     name: Jinyu (Irene) Luo
     position:
     supervisor: 'Practicum Supervisor: Dr. Aya Mitani'
@@ -356,27 +354,27 @@
 
   - file: no_pic.png
     name: Zunaira Mehmood
-    position:
+    position: ''
     supervisor:
     year: 2024
     link: 'https://www.linkedin.com/in/zunairamehmood/'
 
-  - file: Ashley_Mao.jpeg
+  - file: no_pic.png
     name: Ashley Mao
     position: Senior Data Scientist, Roche
     year: 2020
     link: 'https://www.linkedin.com/in/ashleymaohuiyan/'
 
-  - file: Shijie_Min.jpg
+  - file: no_pic.png
     name: Shijie Min
-    position:
+    position: ''
     supervisor: 'Supervisor: Dr. Pingzhao Hu'
     year: 2024 (Thesis)
     link: 'https://www.linkedin.com/in/shijie-min/'
 
-  - file: Youxue_Ren.jpeg
+  - file: no_pic.png
     name: Youxue Ren
-    position:
+    position: ''
     supervisor: 'Practicum Supervisor:  Dr. Aya Mitani'
     year: 2024 (AI/DS Emphasis)
     research: 'Research Interests: Causal Inference, NLP'
@@ -389,45 +387,46 @@
     year: 2023
     link: 'https://www.linkedin.com/in/kara-sheng-2a77461b1/'
 
-  - file: Jennifer_Su.JPG
+  - file: no_pic.png
     name: Yi-Chen Su
     position: Biostatistician, Lunenfeld-Tanenbaum Research Institute, Sinai Health
     supervisor: 'Supervisor: Dr. Huan Jiang'
     year: 2023 (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/yi-chen-su-b62060290/'
 
-  - file: Siyi_Wang.jpeg
+  - file: no_pic.png
     name: Siyi Wang
     position: Research Data Scientist, St. Michael's Hospital
     year: 2022
     link: 'https://www.linkedin.com/in/siyi-wang-667595211/'
 
-  - file: Zhuo_Wei.jpg
+  - file: no_pic.png
     name: Lilian (Zhuo) Wei
     position: Senior Biostatistician, Syneos Health
     year: 2020
     link: 'https://www.linkedin.com/in/zhuo-lilian-wei/'
 
-  - file: Feifan_Xiang.jpg
+  - file: no_pic.png
     name: Feifan Xiang
     supervisor: 'Practicum Supervisor: Dr. Shelley Bull'
-    year: MSc
+    year: 2024
     link: 'https://www.linkedin.com/in/feifan-kristy-xiang-7295b4234/'
     
-- file: Xiao_Yan.jpg
+- file: no_pic.png
     name: Xiao Yan
+    position: ''
     supervisor: 'Practicum Supervisor: Dr. Kuan Liu'
-    year: MSc (AI/DS Emphasis)
+    year: 2024 (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/xiaoyan1596/'
     
-  - file: Mu_Yang.jpg
+  - file: no_pic.png
     name: Mu Yang
     position: Senior Research Associate, University of Waterloo
     supervisor: 'Supervisor: Dr. Daniel Felsky'
     year: 2023 (Thesis)
     link: 'https://www.linkedin.com/in/mu-yang-432954171/'
 
-  - file: Jiayue(Edith)_Yu.jpeg
+  - file: no_pic.png
     name: Jiayue (Edith) Yu
     position: 'Research Consultant: Evidence Review and Software, Cytel'
     year: 2021
@@ -441,6 +440,7 @@
     
   - file: no_pic.png.jpeg
     name: Yushu Zou
+    position: ''
     supervisor: 'Supervisor: Dr. Kuan Liu'
     year: 2024 (Thesis)
     link: 'https://reidbrok.github.io/'
