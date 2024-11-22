@@ -184,67 +184,25 @@
 - desc: Current MSc Students
   type: current
   list: 
-  - file: Hongyu_Chen.jpg
-    name: Hongyu Chen
-    supervisor: 'Practicum Supervisors: Dr. Rinku Sutradhar, Dr. Alyson Mahar'
-    year: MSc
-    link: 'https://www.linkedin.com/in/hongyu-fina-chen/'
-    
-  - file: April_Cheng.jpg
+ 
+- file: April_Cheng.jpg
     name: April Yang Cheng
     supervisor:
-    year: MSc
+    year: 2024
     link: 'https://www.linkedin.com/in/aprilyangcheng/'
     
-  - file: Yankai_Feng.jpg
-    name: Yankai Feng
-    supervisor: 'Practicum Supervisor: Dr. Laurent Briollais'
-    year: MSc
-    research: 'Research Interests: Longitudinal Studies, Survival Analysis, Categorical Data Analysis'
-    link: 'https://fengyankai.github.io/'
-
   - file: Rose_Han.jpg
     name: Xiaoxuan (Rose) Han
     supervisor: 'Practicum Supervisor: Melanie Poulin-Costello'
     year: MSc
     link: https://www.linkedin.com/in/xiaoxuan-han-82629b236/
 
-  - file: Yutong_Lu.JPG
-    name: Yutong Lu
-    supervisor: 'Practicum Supervisor: Dr. Pingzhao Hu'
-    year: MSc (AI/DS Emphasis)
-    link: 'https://www.linkedin.com/in/yutong-lu-lorraine/'
-
-  - file: Jinyu_Luo.jpg
-    name: Jinyu (Irene) Luo
-    supervisor: 'Practicum Supervisor: Dr. Aya Mitani'
-    year: MSc
-    link: 'https://www.linkedin.com/in/jinyu21/'
-
-  - file: Youxue_Ren.jpeg
-    name: Youxue Ren
-    supervisor: 'Practicum Supervisor:  Dr. Aya Mitani'
-    year: MSc (AI/DS Emphasis)
-    research: 'Research Interests: Causal Inference, NLP'
-    link: 'https://ca.linkedin.com/in/%E6%82%A0%E9%9B%AA-%E4%BB%BB-snowball/en'
 
   - file: Priyonto_Saha.jpg
     name: Priyonto Saha
     supervisor: 'Supervisor: Dr. Zahra Shakeri'
     year: MSc (Thesis) (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/priyontosaha/'
-    
-  - file: Feifan_Xiang.jpg
-    name: Feifan Xiang
-    supervisor: 'Practicum Supervisor: Dr. Shelley Bull'
-    year: MSc
-    link: 'https://www.linkedin.com/in/feifan-kristy-xiang-7295b4234/'
-
-  - file: Xiao_Yan.jpg
-    name: Xiao Yan
-    supervisor: 'Practicum Supervisor: Dr. Kuan Liu'
-    year: MSc (AI/DS Emphasis)
-    link: 'https://www.linkedin.com/in/xiaoyan1596/'
 
 
 
@@ -286,13 +244,21 @@
     supervisor:
     year: 2023
     link: 'https://www.linkedin.com/in/xiaoyu-%EF%BC%88charlotte%EF%BC%89-chen-4199aa280/'
-
+    
+ - file: Hongyu_Chen.jpg
+    name: Hongyu Chen
+    supervisor: 'Practicum Supervisors: Dr. Rinku Sutradhar, Dr. Alyson Mahar'
+    year: 2024
+    link: 'https://www.linkedin.com/in/hongyu-fina-chen/'
+    
   - file: Jocelyn(Ziming)_Chen.jpeg
     name:  Ziming (Jocelyn) Chen
     position:  Biostatistician, AstraZeneca
     year: 2022
     link: 'https://www.linkedin.com/in/ziming-jocelyn-chen-428053124/?originalSubdomain=cn'
+    
 
+    
   - file: Yu-Chun(Gingin)_Chien.jpg
     name: Yu-Chun (Gingin) Chien
     position: Research Analyst, Institute for Work & Health
@@ -311,6 +277,14 @@
     position: Statistical Programmer II, Everest Clinical Research
     year: 2020
     link: 'https://www.linkedin.com/in/rebecca-jingwen-du-a9056217a/'
+    
+  - file: Yankai_Feng.jpg
+    name: Yankai Feng
+    position:
+    supervisor: 'Practicum Supervisor: Dr. Laurent Briollais'
+    year: 2024
+    research: 'Research Interests: Longitudinal Studies, Survival Analysis, Categorical Data Analysis'
+    link: 'https://fengyankai.github.io/'
 
   - file: no_pic.png
     name: Shangyi Gao
@@ -370,10 +344,25 @@
     year: 2023
     link: 'https://www.linkedin.com/in/qiaowei-vicky-lin-300366293/'
 
+  - file: Yutong_Lu.JPG
+    name: Yutong Lu
+    position: 
+    supervisor: 'Practicum Supervisor: Dr. Pingzhao Hu'
+    year: 2024  (AI/DS Emphasis)
+    link: 'https://www.linkedin.com/in/yutong-lu-lorraine/'
+
+  - file: Jinyu_Luo.jpg
+    name: Jinyu (Irene) Luo
+    position:
+    supervisor: 'Practicum Supervisor: Dr. Aya Mitani'
+    year: 2024
+    link: 'https://www.linkedin.com/in/jinyu21/'
+
   - file: no_pic.png
     name: Zunaira Mehmood
+    position:
     supervisor:
-    year: MSc
+    year: 2024
     link: 'https://www.linkedin.com/in/zunairamehmood/'
 
   - file: Ashley_Mao.jpeg
@@ -384,9 +373,18 @@
 
   - file: Shijie_Min.jpg
     name: Shijie Min
+    position:
     supervisor: 'Supervisor: Dr. Pingzhao Hu'
     year: 2024 (Thesis)
     link: 'https://www.linkedin.com/in/shijie-min/'
+
+  - file: Youxue_Ren.jpeg
+    name: Youxue Ren
+    position:
+    supervisor: 'Practicum Supervisor:  Dr. Aya Mitani'
+    year: 2024 (AI/DS Emphasis)
+    research: 'Research Interests: Causal Inference, NLP'
+    link: 'https://ca.linkedin.com/in/%E6%82%A0%E9%9B%AA-%E4%BB%BB-snowball/en'
 
   - file: no_pic.png
     name: ChenNingZhi Sheng
@@ -414,6 +412,18 @@
     year: 2020
     link: 'https://www.linkedin.com/in/zhuo-lilian-wei/'
 
+  - file: Feifan_Xiang.jpg
+    name: Feifan Xiang
+    supervisor: 'Practicum Supervisor: Dr. Shelley Bull'
+    year: MSc
+    link: 'https://www.linkedin.com/in/feifan-kristy-xiang-7295b4234/'
+    
+- file: Xiao_Yan.jpg
+    name: Xiao Yan
+    supervisor: 'Practicum Supervisor: Dr. Kuan Liu'
+    year: MSc (AI/DS Emphasis)
+    link: 'https://www.linkedin.com/in/xiaoyan1596/'
+    
   - file: Mu_Yang.jpg
     name: Mu Yang
     position: Senior Research Associate, University of Waterloo
