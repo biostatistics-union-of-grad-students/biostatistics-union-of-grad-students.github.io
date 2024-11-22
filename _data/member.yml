@@ -204,8 +204,6 @@
     year: MSc (Thesis) (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/priyontosaha/'
 
-
-
 - desc: PhD Alumni
   type: alumni
   list:
@@ -256,8 +254,6 @@
     position:  Biostatistician, AstraZeneca
     year: 2022
     link: 'https://www.linkedin.com/in/ziming-jocelyn-chen-428053124/?originalSubdomain=cn'
-    
-
     
   - file: Yu-Chun(Gingin)_Chien.jpg
     name: Yu-Chun (Gingin) Chien
@@ -310,7 +306,7 @@
     supervisor: "Supervisor: Dr. Clement Ma"
     year: 2024 (Thesis)
     research: 'Research Interests: Master Protocol, Adaptive Clinical Trial Design'
-    link: ''
+    link: 
 
   - file: no_pic.png
     name: Laura Langer
@@ -448,8 +444,6 @@
     supervisor: 'Supervisor: Dr. Kuan Liu'
     year: 2024 (Thesis)
     link: 'https://reidbrok.github.io/'
-
-
 
 - desc: Executive Team
   type: executive
