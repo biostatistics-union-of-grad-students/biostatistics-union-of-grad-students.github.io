@@ -426,84 +426,85 @@
 - desc: Executive Team
   type: executive
   list:
-  - file: Xinyang(Sean)_Feng.jpg
-    name: Xinyang (Sean) Feng
-    position: Co-President
-    link: https://www.linkedin.com/in/xinyang-sean-feng-4039b6136/
+
 
   - file: George_Stefan3.jpg
     name: George Stefan
-    position: Co-President
+    position: President
     link: https://www.linkedin.com/in/george-stefan/
 
+  - file: Rose_Han.jpg
+    name: Xiaoxuan (Rose) Han
+    position: Vice-President
+    link: https://www.linkedin.com/in/xiaoxuan-han-82629b236/
+    
   - file: Eric_Sanders.jpg
     name: Eric Sanders
     position: Treasurer
 
-  - file: Youxue_Ren.jpeg
-    name: Youxue Ren
-    position: Secretary & Fundraising Co-Chair
-    link: 'https://ca.linkedin.com/in/%E6%82%A0%E9%9B%AA-%E4%BB%BB-snowball/en'
-
-  - file: Rose_Han.jpg
-    name: Xiaoxuan (Rose) Han
-    position: Social Co-Chair
-    link: https://www.linkedin.com/in/xiaoxuan-han-82629b236/
-
   - file: Abigail_Mcgrory.jpg
     name: Abigail McGrory
-    position: Social Co-Chair
+    position: Social Committee
     link: https://www.linkedin.com/in/abigail-mcgrory/
 
-  - file: Shijie_Min.jpg
-    name: Shijie Min
-    position: Social Co-Chair
-    link: https://www.linkedin.com/in/shijie-min/
+  - file: no_pic.png
+    name: Belina Jang
+    position: Social Committee
+    link: 
 
-  - file: Yutong_Lu.JPG
-    name: Yutong Lu
-    position: Seminar Co-Chair
-    link: 'https://www.linkedin.com/in/yutong-lu-lorraine/'
+  - file: no_pic.png
+    name: Hamda Altaf
+    position: Social Committee
+    link:
+    
+  - file: no_pic.png
+    name: Barrett Buhler
+    position: Social Committee
+    link:
+    
+  - file: no_pic.png
+    name: Qiyue (Lilly) Zhang
+    position: Seminar Committee
+    link:
 
-  - file: Jinyu_Luo.jpg
-    name: Jinyu (Irene) Luo
-    position: Seminar Co-Chair
-    link: 'https://www.linkedin.com/in/jinyu21/'
-
-  - file: Yushu_Zou.jpg
-    name: Yushu Zou
-    position: Seminar Co-Chair
-    link: 'https://reidbrok.github.io/'
+  - file: no_pic.png
+    name: Emmett Peng
+    position: Seminar Committee
+    link:
 
   - file: Mohammad_Reza_Fahimi.jpg
     name: Mohammad Reza Fahimi
     position: Webmaster
     link: 'https://www.linkedin.com/in/mohammad-reza-fahimi-48a67020b/'
 
-  - file: Qirui_Hou.jpg
-    name: Qirui Hou
-    position: Webmaster
-
-  - file: Feifan_Xiang.jpg
-    name: Feifan Xiang
-    position: Fundraising Co-Chair
-    link: 'https://www.linkedin.com/in/feifan-kristy-xiang-7295b4234/'
-
-  - file: Yuqing_Liu.jpg
-    name: Yuqing Liu
-    position: PHSA PhD Representative
-    link: https://www.linkedin.com/in/yuqingliu1/
-
   - file: no_pic.png
-    name: Anastasia Teterina
-    position: PHSA PhD Representative
+    name: Moxuan (Monica) Wang
+    position: Webmaster
+    link: 
 
   - file: Priyonto_Saha.jpg
     name: Priyonto Saha
-    position: PHSA MSc Representative
+    position: Secretary
     link: 'https://www.linkedin.com/in/priyontosaha/'
 
   - file: no_pic.png
     name: Aoqi Xie
-    position: PHSA MSc Representative
+    position: PHSA PhD Representative
     link: 'https://www.linkedin.com/in/aoqi-xie-708811208/'
+
+ - file: no_pic.png
+    name: Daniel Del Rosso
+    position: PHSA MSc Representative
+    link:
+    
+  - file: no_pic.png
+    name: Rebekah Peter
+    position: Fundraising Committee
+    link:
+
+  - file: no_pic.png
+    name: Zhaoyu Tan
+    position: Fundraising Committee
+    link:
+
+    
