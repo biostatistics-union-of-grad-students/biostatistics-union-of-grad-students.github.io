@@ -198,11 +198,10 @@
 - desc: PhD Alumni
   type: alumni
   list:
-  - file: Linke_Li2.jpg
+  - file: no_pic.png
     name: Linke Li
-    supervisor: 'Supervisor: Dr. Anna Heath'
-    year: 
-    research: 'Research Interests: Bayesian Decision Theory, Health Economics'
+    position:
+    year: 2024
     link: https://www.linkedin.com/in/linke-li-596390107/?originalSubdomain=ca
 
   - file: no_pic.png
