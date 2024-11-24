@@ -103,7 +103,7 @@
     supervisor: 'Supervisor: Dr. Lisa Strug'
     year: 
     research: "Research Interests: Statistical Genetics"
-    link:
+    link: 'https://www.linkedin.com/in/eric-sanders1/'
 
   - file: Yu_Shi.jpg
     name: Yu Shi
@@ -431,6 +431,11 @@
     position: President
     link: https://www.linkedin.com/in/george-stefan/
 
+  - file: Priyonto_Saha.jpg
+    name: Priyonto Saha
+    position: Vice-President & Secretary
+    link: 'https://www.linkedin.com/in/priyontosaha/'
+
   - file: Rose_Han.jpg
     name: Xiaoxuan (Rose) Han
     position: Vice-President
@@ -439,37 +444,7 @@
   - file: Eric_Sanders.jpg
     name: Eric Sanders
     position: Treasurer
-    link: ''
-
-  - file: Abigail_Mcgrory.jpg
-    name: Abigail McGrory
-    position: Social Committee
-    link: https://www.linkedin.com/in/abigail-mcgrory/
-
-  - file: no_pic.png
-    name: Belina Jang
-    position: Social Committee
-    link: ''
-
-  - file: no_pic.png
-    name: Hamda Altaf
-    position: Social Committee
-    link: ''
-    
-  - file: no_pic.png
-    name: Barrett Buhler
-    position: Social Committee
-    link: ''
-    
-  - file: no_pic.png
-    name: Qiyue (Lilly) Zhang
-    position: Seminar Committee
-    link: ''
-
-  - file: no_pic.png
-    name: Emmett Peng
-    position: Seminar Committee
-    link: ''
+    link: 'https://www.linkedin.com/in/eric-sanders1/'
 
   - file: Mohammad_Reza_Fahimi.jpg
     name: Mohammad Reza Fahimi
@@ -481,10 +456,45 @@
     position: Webmaster
     link: ''
 
-  - file: Priyonto_Saha.jpg
-    name: Priyonto Saha
-    position: Secretary
-    link: 'https://www.linkedin.com/in/priyontosaha/'
+  - file: Abigail_Mcgrory.jpg
+    name: Abigail McGrory
+    position: Social Committee
+    link: https://www.linkedin.com/in/abigail-mcgrory/
+
+  - file: no_pic.png
+    name: Belina Jang
+    position: Social Committee
+    link: 'https://www.linkedin.com/in/belinajang/'
+
+  - file: no_pic.png
+    name: Hamda Altaf
+    position: Social Committee
+    link: 'https://www.linkedin.com/in/hamdaaltaf/'
+    
+  - file: no_pic.png
+    name: Barrett Buhler
+    position: Social Committee
+    link: ''
+    
+  - file: no_pic.png
+    name: Qiyue (Lilly) Zhang
+    position: Seminar Committee
+    link: 'https://www.linkedin.com/in/qiyue-zhang-lilly/'
+
+  - file: no_pic.png
+    name: Emmett Peng
+    position: Seminar Committee
+    link: 'https://www.linkedin.com/in/yiming-emmett-peng-b3036b321/'
+
+  - file: no_pic.png
+    name: Rebekah Peter
+    position: Fundraising Committee
+    link: ''
+
+  - file: no_pic.png
+    name: Zhaoyu Tan
+    position: Fundraising Committee
+    link: 'https://www.linkedin.com/in/zhaoyu-tan-42375b1ba/'
 
   - file: no_pic.png
     name: Aoqi Xie
@@ -494,16 +504,8 @@
   - file: no_pic.png
     name: Daniel Del Rosso
     position: PHSA MSc Representative
-    link: ''
+    link: 'https://www.linkedin.com/in/daniel-del-rosso-328766227/'
     
-  - file: no_pic.png
-    name: Rebekah Peter
-    position: Fundraising Committee
-    link: ''
 
-  - file: no_pic.png
-    name: Zhaoyu Tan
-    position: Fundraising Committee
-    link: ''
 
     
