@@ -293,23 +293,23 @@
     year: MSc year 2 (Thesis) (AI/DS Emphasis)
     link: 'www.p-saha.com'
 
- - file: Tina_Tan.jpg
-   name: Tina Tan
-   supervisor:
-   year:
-   link: 'www.linkedin.com/in/zhaoyu-tan-42375b1ba'
+  - file: Tina_Tan.jpg
+    name: Tina Tan
+    supervisor:
+    year:
+    link: 'www.linkedin.com/in/zhaoyu-tan-42375b1ba'
 
- - file: Moxuan_Wang.jpg
-   name: Moxuan(Monica) Wang
-   supervisor: 'Practicum Supervisor: Eshetu Atenafu'
-   year: MSc year 1
-   link:
+  - file: Moxuan_Wang.jpg
+    name: Moxuan(Monica) Wang
+    supervisor: 'Practicum Supervisor: Eshetu Atenafu'
+    year: MSc year 1
+    link:
 
- - file: Qiyue_Zhang.JPG
-   name: Qiyue Zhang
-   supervisor: 'Practicum Supervisor: Dr. Amy Liu'
-   year: MSc year 1
-   link: 'https://www.linkedin.com/in/qiyue-zhang-lilly/'
+  - file: Qiyue_Zhang.JPG
+    name: Qiyue Zhang
+    supervisor: 'Practicum Supervisor: Dr. Amy Liu'
+    year: MSc year 1
+    link: 'https://www.linkedin.com/in/qiyue-zhang-lilly/'
 
 - desc: PhD Alumni
   type: alumni
