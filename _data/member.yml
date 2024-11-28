@@ -224,7 +224,7 @@
   - file: Rose_Han.jpg
     name: Xiaoxuan (Rose) Han
     supervisor: 'Thesis Supervisors: Melanie Poulin-Costello, Jenna Sykes'
-    year: MSc year 2
+    year: MSc year 2 (Thesis)
     link: 'https://www.linkedin.com/in/xiaoxuan-han-82629b236/'
 
   - file: JINGXUAN_HE.jpg
@@ -245,6 +245,12 @@
     year: MSc year 1
     link: 'www.linkedin.com/in/xingchen-annie-hu-85b370219'
 
+  - file: Belina_Jang.jpg
+    name: Belina Jang
+    supervisor: 'Practicum Supervisors: Dr. Wei Xu, Anna Santiago'
+    year: MSc year 1 (AI/DS Emphasis)
+    link: 'https://www.linkedin.com/in/belinajang/'
+
   - file: Vanessa_Liao.jpg
     name: Vanessa Liao
     supervisor: 'Practicum Supervisor: Dr. Camellia Zakaria'
@@ -262,6 +268,13 @@
     supervisor: 'Wendy Lou'
     year: 
     link:
+
+  - file: Yacine_Marouf.jpg
+    name: Yacine Marouf
+    supervisor: 'Thesis Supervisor: Zahra Shakeri'
+    year: MSc year 2 (Thesis)
+    research: 'Research Interests: Causal Inference, Survival Analysis, Machine Learning'
+    link: 'http://www.linkedin.com/in/yacine-marouf'
 
   - file: Keanna_Nandlall.jpg
     name: Keanna Nandlall
@@ -292,6 +305,12 @@
     supervisor: 'Supervisor: Dr. Kuan Liu'
     year: MSc year 2 (Thesis) (AI/DS Emphasis)
     link: 'www.p-saha.com'
+
+  - file: Victoria_Truong.jpg
+    name: Victoria Truong
+    supervisor: 'Practicum Supervisor: Dr. Pingzhao Hu'
+    year: MSc year 1 (AI/DS Emphasis)
+    link: 'https://www.linkedin.com/in/victoriaktruongg/'
 
   - file: Tina_Tan.jpg
     name: Tina Tan
@@ -420,6 +439,12 @@
     link: 'https://www.linkedin.com/in/shangyi-gao/'
 
   - file: no_pic.png
+    name: Mei Han
+    position: Biostatistician at CHEO
+    year: 2022 (AI/DS Emphasis)
+    link: 'https://www.linkedin.com/in/mei-han-a149b1251/'
+    
+  - file: no_pic.png
     name: Yingshi (Cecilia) He
     position: Research Manager, St. Michael's Hospital
     year: 2024
@@ -436,6 +461,12 @@
     year: 2024 (Thesis)
     research: 'Research Interests: Master Protocol, Adaptive Clinical Trial Design'
     link: 
+
+  - file: no_pic.png
+    name: Jewon (Jay) Kim
+    position: Methodologist at BC Cancer
+    year: 2021
+    link: 'https://www.linkedin.com/in/jewon-kim-988983120/'
 
   - file: no_pic.png
     name: Laura Langer
@@ -516,6 +547,12 @@
     link: 'https://ca.linkedin.com/in/%E6%82%A0%E9%9B%AA-%E4%BB%BB-snowball/en'
 
   - file: no_pic.png
+    name: Jaffa Romain
+    position: 'Research Analyst at ICES'
+    year: 2023
+    link: 'https://www.linkedin.com/in/jaffa-romain-393098195/'
+
+  - file: no_pic.png
     name: ChenNingZhi Sheng
     position: Regulatory Analyst and Administrator, Real Estate Council of Ontario
     year: 2023
@@ -550,6 +587,12 @@
     position:
     year: 2024
     link: 'https://www.linkedin.com/in/feifan-kristy-xiang-7295b4234/'
+
+  - file: no_pic.png
+    name: ZhenHuan (Tony) Xu
+    position: 'Statistician at Astrazeneca'
+    year: 2023
+    link: 'https://www.linkedin.com/in/zhenhuan-xu/'
     
   - file: no_pic.png
     name: Xiao Yan
