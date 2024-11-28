@@ -336,7 +336,7 @@
     name: Mohsen Soltanifar
     position: Senior Statistician, Provincial Health Services Authority
     year: 2020
-    link: https://www.linkedin.com/in/mohsensoltanifar/
+    link: 'https://www.linkedin.com/in/mohsensoltanifar/'
     
   - file: no_pic.png
     name: Changchang Xu
@@ -348,7 +348,7 @@
     name: Dongyang Yang
     position: 
     year: 2024
-    link: https://www.linkedin.com/in/dongyang-dawn-yang/
+    link: 'https://www.linkedin.com/in/dongyang-dawn-yang/'
 
 - desc: MSc Alumni
   type: alumni
