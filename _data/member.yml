@@ -189,7 +189,7 @@
     name: Hamda Altaf
     supervisor: 'Practicum Supervisor: Dr. Wendy Lou & Dr. Venkat Bhat'
     year: MSc year 1
-    link: 'linkedin.com/in/hamdaaltaf'
+    link: 'https://www.linkedin.com/in/hamdaaltaf'
     
   - file: no_pic.png
     name: Luke Bai
@@ -243,7 +243,7 @@
     name: Xingchen (Annie) Hu
     supervisor: 'Practicum Supervisor: Rahim Moineddin and Christopher Meaney'
     year: MSc year 1
-    link: 'www.linkedin.com/in/xingchen-annie-hu-85b370219'
+    link: 'https://www.linkedin.com/in/xingchen-annie-hu-85b370219'
 
   - file: Belina_Jang.jpg
     name: Belina Jang
@@ -292,19 +292,19 @@
     name: Rebekah Peter
     supervisor: 'Practicum supervisors: Jenna Sykes, Anne Stephensonu'
     year: 
-    link: 'www.linkedin.com/in/rebekah-p-08a773164'
+    link: 'https://www.linkedin.com/in/rebekah-p-08a773164'
 
   - file: Daniel_Del_Rosso.jpg
     name: Daniel Del Rosso
     supervisor: 'Practicum Supervisor: Dr. Lisa Strug and Dr. Delnaz Roshandel'
     year: 
-    link: 'www.linkedin.com/in/daniel-del-rosso-328766227'
+    link: 'https://www.linkedin.com/in/daniel-del-rosso-328766227'
     
   - file: Priyonto_Saha.jpg
     name: Priyonto Saha
     supervisor: 'Supervisor: Dr. Kuan Liu'
     year: MSc year 2 (Thesis) (AI/DS Emphasis)
-    link: 'www.p-saha.com'
+    link: 'https://www.p-saha.com'
 
   - file: Victoria_Truong.jpg
     name: Victoria Truong
@@ -316,7 +316,7 @@
     name: Tina Tan
     supervisor:
     year:
-    link: 'www.linkedin.com/in/zhaoyu-tan-42375b1ba'
+    link: 'https://www.linkedin.com/in/zhaoyu-tan-42375b1ba'
 
   - file: Moxuan_Wang.jpg
     name: Moxuan(Monica) Wang
