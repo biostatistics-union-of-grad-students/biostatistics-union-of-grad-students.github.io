@@ -168,7 +168,7 @@
     research: 'Research Interests: Survival Analysis, Deep Learning, Health Economics'
     link: https://jasperzhang.com/
 
-  - file: Jiahui_Zhang.jpg
+  - file: no_pic.png
     name: Jiahui Zhang
     supervisor: 'Supervisor: Dr. Wei Xu'
     year: 
@@ -265,7 +265,7 @@
 
   - file: Mo_Malik.jpg
     name: Mohsyn Imran Malik
-    supervisor: 'Wendy Lou'
+    supervisor: 'Practicum Supervisor: Dr. Wendy Lou'
     year: 
     link:
 
@@ -335,7 +335,7 @@
   list:
   - file: no_pic.png
     name: Linke Li
-    position:
+    position: DSI Postdoctoral Fellow, University of Toronto/The Hospital for Sick Children
     year: 2024
     link: https://www.linkedin.com/in/linke-li-596390107/?originalSubdomain=ca
     
