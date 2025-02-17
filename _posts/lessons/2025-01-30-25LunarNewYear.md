@@ -1,6 +1,6 @@
 ---
 layout: post
-category : Social Events
+category : Social Event
 tagline: 
 tags : [Lunar new year, food]
 img : 25lunar7.JPG
