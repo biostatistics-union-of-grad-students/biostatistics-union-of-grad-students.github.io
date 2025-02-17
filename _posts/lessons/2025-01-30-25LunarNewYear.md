@@ -1,9 +1,9 @@
 ---
 layout: post
 category : Social Event
-tagline: 
+tagline: "2025 Lunar New Year"
 tags : [Lunar new year, food]
-img : 25lunar7.JPG
+img : 25lunar7.jpg
 img-mobile : 
 img2 : 
 img3 : 
@@ -27,17 +27,17 @@ red envelopes from our division head, Professor Wendy Lou. Happy Lunar New Year!
 
 
 
-![](/assets/images/post/25lunar1.JPG)
+![](/assets/images/post/25lunar1.jpg)
 
-![](/assets/images/post/25lunar2.JPG)
+![](/assets/images/post/25lunar2.jpg)
 
-![](/assets/images/post/25lunar3.JPG)
+![](/assets/images/post/25lunar3.jpg)
 
-![](/assets/images/post/25lunar4.JPG)
+![](/assets/images/post/25lunar4.jpg)
 
-![](/assets/images/post/25lunar5.JPG)
+![](/assets/images/post/25lunar5.jpg)
 
-![](/assets/images/post/25lunar6.JPG)
+![](/assets/images/post/25lunar6.jpg)
 
-![](/assets/images/post/25lunar7.JPG)
+![](/assets/images/post/25lunar7.jpg)
 
