@@ -17,9 +17,7 @@ keywords: job
 {% include JB/setup %}
 
 
-We celebrated the 2025 Lunar New Year at Congee Queen with a fun and memorable evening. 
-We enjoyed delicious dishes like lobster, spring rolls, and stir-fried vegetables, and received 
-red envelopes from our division head, Professor Wendy Lou. Happy Lunar New Year!
+We celebrated the 2025 Lunar New Year with festive dishes, red envelopes and had a fun and memorable evening. Happy Lunar New Year!
 
 
 <!--more-->
