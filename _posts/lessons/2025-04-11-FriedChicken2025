@@ -1,0 +1,23 @@
+---
+layout: post
+category : Social Event
+tagline: "2025 Fried Chicken Day"
+tags : [fried chicken, food]
+img : BUGS_FriedChicken2025.jpg
+img-mobile : 
+img2 : 
+img3 : 
+author : Reza
+title: "2025 Fried Chicken Day"
+css: 
+js: 
+bgcolor: ff5a71
+keywords: job
+---
+{% include JB/setup %}
+
+
+After a long year of studying, writing, and presenting, our graduate students in the Biostatistics Division deserved a well-earned break. 
+To celebrate the end of exams and another successful term, we hosted an event with everyone's favorite comfort food—fried chicken.
+
+
