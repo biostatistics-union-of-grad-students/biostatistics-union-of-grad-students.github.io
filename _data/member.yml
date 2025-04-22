@@ -56,13 +56,6 @@
     year:
     research: 'Research Interests: Dynamic Prediction, Longitudinal Data, Survival Analysis'
     link: https://www.linkedin.com/in/xinyang-sean-feng-4039b6136/
-
-  - file: Rose_Garrett.jpg
-    name: Rose Garrett
-    supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
-    year: 
-    research: 'Research Interests: Irregularly Spaced Longitudinal Data, Bayesian Inference, JDM'
-    link: https://www.linkedin.com/in/rose-garrett-305414129/
     
   - file: Gengming_He.jpg
     name: Gengming He
@@ -333,6 +326,12 @@
 - desc: PhD Alumni
   type: alumni
   list:
+  - file: Rose_Garrett.jpg
+    name: Rose Garrett
+    position: Senior Statistician, AstraZeneca
+    year: 2024
+    link: https://www.linkedin.com/in/rose-garrett-305414129/
+    
   - file: no_pic.png
     name: Linke Li
     position: Data Scientist, Lyft
@@ -361,7 +360,7 @@
     name: Changchang Xu
     position: Senior Analyst, Ontario Health
     year: 2023
-    link:
+    link: 'https://www.linkedin.com/in/changchang-xu-phd-b53403262/'
   
   - file: no_pic.png
     name: Dongyang Yang
@@ -398,7 +397,7 @@
 
   - file: no_pic.png
     name: Jiayin Chen
-    position: PhD student, McGill University 
+    position: PhD Student, McGill University 
     year: 2022
     link: 'https://www.linkedin.com/in/jiayin-chen-45a673183/'
     
@@ -428,7 +427,7 @@
     
   - file: no_pic.png
     name: Yankai Feng
-    position:
+    position: Research Methods Specialist, CAMH
     year: 2024
     link: 'https://fengyankai.github.io/'
 
@@ -536,7 +535,7 @@
 
   - file: no_pic.png
     name: Marija Pajdakovska
-    Position: 'Biostatistician in Translational Medicine at SickKids Hospital'
+    position: Biostatistician, Translational Medicine at SickKids
     year: 2024
     link: 'https://linkedin.com/in/marija-pajdakovska-1736511b3'
 
@@ -584,7 +583,7 @@
 
   - file: no_pic.png
     name: Feifan Xiang
-    position:
+    position: Research Analyst at Institute of Health Policy, Management and Evaluation
     year: 2024
     link: 'https://www.linkedin.com/in/feifan-kristy-xiang-7295b4234/'
 
@@ -598,7 +597,7 @@
     name: Xiao Yan
     position: ''
     year: 2024 (AI/DS Emphasis)
-    link: 'https://www.linkedin.com/in/xiaoyan1596/'
+    link: 'https://www.linkedin.com/in/xiaoyanclarence/'
     
   - file: no_pic.png
     name: Mu Yang
