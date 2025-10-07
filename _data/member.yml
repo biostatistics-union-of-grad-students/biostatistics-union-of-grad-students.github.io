@@ -373,7 +373,7 @@
   list:
   - file: no_pic.png
     name: Xueer Bi
-    position:
+    position: Statistical Programmer, ClinChoice
     year: 2024
     link: 'http://linkedin.com/in/xueer-bi-466524214'
     
@@ -391,7 +391,7 @@
     
   - file: no_pic.png
     name: Hongyu Chen
-    position:
+    position: PhD Student, Western University
     year: 2024
     link: 'https://www.linkedin.com/in/hongyu-fina-chen/'
 
@@ -403,13 +403,13 @@
     
   - file: no_pic.png
     name:  Ziming (Jocelyn) Chen
-    position:  Biostatistician, AstraZeneca
+    position:  PhD Student, University of California, Santa Cruz 
     year: 2022
     link: 'https://www.linkedin.com/in/ziming-jocelyn-chen-428053124/?originalSubdomain=cn'
     
   - file: no_pic.png
     name: Yu-Chun (Gingin) Chien
-    position: Research Analyst, Institute for Work & Health
+    position: Biostatistician, EVERSANA
     year: 2023
     link: 'https://www.linkedin.com/in/yuchunchien/'
 
@@ -421,7 +421,7 @@
 
   - file: no_pic.png
     name: Jingwen (Rebecca) Du
-    position: Statistical Programmer II, Everest Clinical Research
+    position: Biostatistician, Everest Clinical Research
     year: 2020
     link: 'https://www.linkedin.com/in/rebecca-jingwen-du-a9056217a/'
     
@@ -439,7 +439,7 @@
 
   - file: no_pic.png
     name: Mei Han
-    position: Biostatistician at CHEO
+    position: Biostatistician, CHEO
     year: 2022 (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/mei-han-a149b1251/'
     
@@ -481,7 +481,7 @@
 
   - file: no_pic.png
     name: Peiyu Li
-    position: CANSTAT Fellow, Unity Health Toronto
+    position: PhD Student, Fudan University
     year: 2023
     link: 'https://www.linkedin.com/in/peiyu-li-76a734235/'
 
@@ -499,13 +499,13 @@
 
   - file: no_pic.png
     name: Lux Liu
-    position: 'Senior manager, BMO'
+    position: 'Senior Manager, BMO'
     year: 2015
     link:
 
   - file: no_pic.png
     name: Yutong Lu
-    position: 'CANSTAT Fellow in Clinical Trials Biostatistics' 
+    position: Statistician, AstraZeneca
     year: 2024  (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/yutong-lu-lorraine/'
 
@@ -517,7 +517,7 @@
 
   - file: no_pic.png
     name: Zunaira Mehmood
-    position: ''
+    position: Research Fellow, Population Health Research Institute
     year: 2024
     link: 'https://www.linkedin.com/in/zunairamehmood/'
 
@@ -547,7 +547,7 @@
 
   - file: no_pic.png
     name: Jaffa Romain
-    position: 'Research Analyst at ICES'
+    position: Data Analyst, Ontario Institute for Cancer Research
     year: 2023
     link: 'https://www.linkedin.com/in/jaffa-romain-393098195/'
 
@@ -571,7 +571,7 @@
 
   - file: no_pic.png
     name: Lilian (Zhuo) Wei
-    position: Senior Biostatistician, Syneos Health
+    position:
     year: 2020
     link: 'https://www.linkedin.com/in/zhuo-lilian-wei/'
 
@@ -589,19 +589,19 @@
 
   - file: no_pic.png
     name: ZhenHuan (Tony) Xu
-    position: 'Statistician at Astrazeneca'
+    position: 
     year: 2023
     link: 'https://www.linkedin.com/in/zhenhuan-xu/'
     
   - file: no_pic.png
     name: Xiao Yan
-    position: ''
+    position: Statistical Programmer/Analyst, ClinChoice
     year: 2024 (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/xiaoyanclarence/'
     
   - file: no_pic.png
     name: Mu Yang
-    position: Senior Research Associate, University of Waterloo
+    position: PhD Student, Hong Kong University of Science and Technology
     year: 2023 (Thesis)
     link: 'https://www.linkedin.com/in/mu-yang-432954171/'
 
@@ -619,7 +619,7 @@
     
   - file: no_pic.png.jpeg
     name: Yushu Zou
-    position: ''
+    position: Research Coordinator, Public Health Ontario
     year: 2024 (Thesis)
     link: 'https://reidbrok.github.io/'
 
@@ -709,3 +709,4 @@
 
 
     
+
