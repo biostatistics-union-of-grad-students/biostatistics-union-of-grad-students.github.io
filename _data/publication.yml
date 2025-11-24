@@ -1,3 +1,7 @@
+- group: 2025
+  list:
+    - entry: '<u>Stefan, G.</u>, Pullenayegum, E., 2025. Inverse-intensity weighted generalized estimating equations with irregularly measured longitudinal data and informative dropout. arXiv preprint arXiv:2510.19154'
+
 - group: 2024
   list:
     - entry: '<u>Bian, Y.</u>, Shi Y., Guo, H., Yi, G.Y., He, W., 2024. Physician effects in critical care: A causal inference approach through propensity weighting with parametric and super learning methods. Journal of Data Science. https://jds-online.org/journal/JDS/article/1376/info'
@@ -28,3 +32,4 @@
 - group: 2019
   list:
     - entry: '<u>Soltanifar, M.</u>, Dupuis, A., Schachar, R., & Escobar, M. (2019). A frequentist mixture modeling of stop signal reaction times. Biostatistics & Epidemiology, 3(1).'
+
