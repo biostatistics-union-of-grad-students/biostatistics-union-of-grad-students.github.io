@@ -238,11 +238,32 @@
     year: MSc year 1
     link: 'https://www.linkedin.com/in/xingchen-annie-hu-85b370219'
 
+  - file: 
+    name: Ever Hughes
+    supervisor: 'Practicum supervisors: Jenna Sykes,  Anne Stephenson'
+    year: MSc Year 1
+    research: 'Research Interests: Longitudinal data, applied statistics'
+    link: 'http://www.linkedin.com/in/everhughes'
+
   - file: Belina_Jang.jpg
     name: Belina Jang
     supervisor: 'Practicum Supervisors: Dr. Wei Xu, Anna Santiago'
     year: MSc year 1 (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/belinajang/'
+
+  - file: 
+    name: Abhinav Kansal
+    supervisor: 'Practicum Supervisor: Dr. Shelley Bull, Thesis Supervisor: Dr. Aya Mitani'
+    year: MSc (Thesis)
+    research: 'Research Interests: Statistical Genetics, Causal inference'
+    link: 'https://www.linkedin.com/in/abhinavkansal/'
+
+  - file: 
+    name: Jihwan Kim
+    supervisor: 'Practicum Supervisors: Dr. Lisa Avery and Dr. Zeynep Baskurt'
+    year: MSc year 1 (AI/DS Emphasis)
+    research: 'Research Interests: Longitudinal Analysis of Extra-Articular Events in Axial Spondyloarthritis'
+    link: 'https://www.linkedin.com/in/jihkim906'
 
   - file: Vanessa_Liao.jpg
     name: Vanessa Liao
@@ -277,8 +298,8 @@
 
   - file: Yiming_Peng.jpg
     name: Yiming (Emmett) Peng
-    supervisor: 'Practicum supervisor: Dr. Pingzhao Hu'
-    year: 
+    supervisor: 'Thesis Supervisors: Dr. Kuan Liu & Dr. Zihang Lu'
+    year: MSc Year 2 (Thesis)
     link: 'https://www.linkedin.com/in/yiming-emmett-peng-b3036b321/'
 
   - file: Rebekah_Peter.jpg
@@ -299,6 +320,20 @@
     year: MSc year 2 (Thesis) (AI/DS Emphasis)
     link: 'https://www.p-saha.com'
 
+  - file: 
+    name: Raissa Shrestha
+    supervisor: 
+    year: MSc year 1
+    research: 'Research Interests: Public Health'
+    link: 'https://www.linkedin.com/in/raissa-s/'
+
+  - file: 
+    name: Wendy Shue
+    supervisor: 'Supervisor: Dr. Shelley Bull'
+    year: MSc year 1
+    research: 'Research Interests: GWAS, Statistical Genetics'
+    link: 'https://www.linkedin.com/in/wendy-shue-0632b522b/'
+
   - file: Victoria_Truong.jpg
     name: Victoria Truong
     supervisor: 'Practicum Supervisor: Dr. Pingzhao Hu'
@@ -316,6 +351,12 @@
     supervisor: 'Practicum Supervisor: Eshetu Atenafu'
     year: MSc year 1
     link:
+
+  - file: 
+    name: Soohyun Yoon
+    supervisor: 'Practicum Supervisor: Dr. Lennon Li'
+    year: MSc year 1
+    link: 'https://www.linkedin.com/in/soohyun-yoon-94426b211/'
 
   - file: Qiyue_Zhang.JPG
     name: Qiyue Zhang
@@ -540,6 +581,12 @@
     link: 'https://linkedin.com/in/marija-pajdakovska-1736511b3'
 
   - file: no_pic.png
+    name: Michela Panarella
+    position: Data Scientist; Dept. of Finance (GoC)
+    year: 2019
+    link: 'https://scholar.google.ca/citations?user=nIlfE0kAAAAJ&hl=en'
+
+  - file: no_pic.png
     name: Youxue Ren
     position: ''
     year: 2024 (AI/DS Emphasis)
@@ -709,5 +756,6 @@
 
 
     
+
 
 
