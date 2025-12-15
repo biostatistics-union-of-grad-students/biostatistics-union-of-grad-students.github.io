@@ -140,6 +140,13 @@
     research: 'Next Generation Sequencing Data, Longitudinal Data Analysis, Bayesian Inference'
     link: https://www.linkedin.com/in/anastasia-teterina-45987972/
 
+  - file: Borong_Wang.jpeg
+    name: Borong Wang
+    supervisor: 'Supervisor: Dr. Anna Heath'
+    year: 
+    research: 'Bayesian adaptive trials and value of information '
+    link: 'https://www.linkedin.com/in/borong-wang-16235b12b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app'
+
   - file: Aoqi_Xie.JPG
     name: Aoqi Xie
     supervisor: 'Supervisor: Dr. Clement Ma'
@@ -238,7 +245,7 @@
     year: MSc year 1
     link: 'https://www.linkedin.com/in/xingchen-annie-hu-85b370219'
 
-  - file: 
+  - file: Ever_Hughes.jpg
     name: Ever Hughes
     supervisor: 'Practicum supervisors: Jenna Sykes,  Anne Stephenson'
     year: MSc Year 1
@@ -251,14 +258,14 @@
     year: MSc year 1 (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/belinajang/'
 
-  - file: 
+  - file: Abhinav_Kansal.JPG
     name: Abhinav Kansal
     supervisor: 'Practicum Supervisor: Dr. Shelley Bull, Thesis Supervisor: Dr. Aya Mitani'
     year: MSc (Thesis)
     research: 'Research Interests: Statistical Genetics, Causal inference'
     link: 'https://www.linkedin.com/in/abhinavkansal/'
 
-  - file: 
+  - file: Jihwan_Kim.jpg
     name: Jihwan Kim
     supervisor: 'Practicum Supervisors: Dr. Lisa Avery and Dr. Zeynep Baskurt'
     year: MSc year 1 (AI/DS Emphasis)
@@ -320,7 +327,7 @@
     year: MSc year 2 (Thesis) (AI/DS Emphasis)
     link: 'https://www.p-saha.com'
 
-  - file: 
+  - file: Raissa_Shrestha.jpg
     name: Raissa Shrestha
     supervisor: 
     year: MSc year 1
@@ -352,7 +359,7 @@
     year: MSc year 1
     link:
 
-  - file: 
+  - file: Soohyun_Yoon.jpg
     name: Soohyun Yoon
     supervisor: 'Practicum Supervisor: Dr. Lennon Li'
     year: MSc year 1
@@ -756,6 +763,7 @@
 
 
     
+
 
 
 
