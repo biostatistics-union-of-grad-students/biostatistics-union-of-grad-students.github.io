@@ -680,89 +680,93 @@
 - desc: Executive Team
   type: executive
   list:
-  - file: George_Stefan3.jpg
-    name: George Stefan
-    position: President
-    link: https://www.linkedin.com/in/george-stefan/
+  - file: Abigail_Mcgrory.jpg
+    name: Abigail McGrory
+    position: Co-President
+    link: 'https://www.linkedin.com/in/abigail-mcgrory/'
 
-  - file: Priyonto_Saha.jpg
-    name: Priyonto Saha
-    position: Vice-President & Secretary
-    link: 'https://www.linkedin.com/in/priyontosaha/'
-
-  - file: Rose_Han.jpg
-    name: Xiaoxuan (Rose) Han
-    position: Vice-President
-    link: https://www.linkedin.com/in/xiaoxuan-han-82629b236/
-    
+  - file: Daniel_Del_Rosso.jpg
+    name: Daniel Del Rosso
+    position: Co-President
+    link: 'https://www.linkedin.com/in/daniel-del-rosso-328766227/'
+   
   - file: Eric_Sanders.jpg
     name: Eric Sanders
     position: Treasurer
-    link: 'https://www.linkedin.com/in/eric-sanders1/'
+    link: 'https://www.linkedin.com/in/eric-sanders1/'    
 
   - file: Mohammad_Reza_Fahimi.jpg
     name: Mohammad Reza Fahimi
     position: Webmaster
     link: 'https://www.linkedin.com/in/mohammad-reza-fahimi-48a67020b/'
 
-  - file: Moxuan_Wang.jpg
-    name: Moxuan (Monica) Wang
+  - file: no_pic.png
+    name: Wendy Shue
     position: Webmaster
-    link: ''
-
-  - file: Abigail_Mcgrory.jpg
-    name: Abigail McGrory
-    position: Social Committee
-    link: https://www.linkedin.com/in/abigail-mcgrory/
-
-  - file: Belina_Jang.jpg
-    name: Belina Jang
-    position: Social Committee
-    link: 'https://www.linkedin.com/in/belinajang/'
+    link: 'https://www.linkedin.com/in/wendy-shue-0632b522b/'
 
   - file: Hamda_Altaf.JPG
     name: Hamda Altaf
     position: Social Committee
     link: 'https://www.linkedin.com/in/hamdaaltaf/'
-    
-  - file: Barrett_Buhler.png
-    name: Barrett Buhler
+
+  - file: Raissa_Shrestha.jpg
+    name: Raissa Shrestha
     position: Social Committee
-    link: ''
+    link: 'https://www.linkedin.com/in/raissa-s/'
+
+  - file: 'Anastasia Teterina.jpg'
+    name: Anastasia Teterina
+    position: Social Committee
+    link: 'https://www.linkedin.com/in/anastasia-teterina-45987972/'
+
+  - file: no_pic.png
+    name: Hanlong Chen
+    position: Seminar Committee
+    link: 'https://www.linkedin.com/in/hanlongchen/'
     
-  - file: Qiyue_Zhang.JPG
-    name: Qiyue (Lilly) Zhang
+  - file: Abhinav_Kansal.JPG
+    name: Abhinav Kansal
     position: Seminar Committee
-    link: 'https://www.linkedin.com/in/qiyue-zhang-lilly/'
+    link: 'https://www.linkedin.com/in/abhinavkansal/'
 
-  - file: Yiming_Peng.jpg
-    name: Yiming (Emmett) Peng
+  - file: no_pic.png
+    name: Johnson Vo
     position: Seminar Committee
-    link: 'https://www.linkedin.com/in/yiming-emmett-peng-b3036b321/'
+    link: 'https://www.linkedin.com/in/vojohnson/'
 
-  - file: Rebekah_Peter.jpg
-    name: Rebekah Peter
+  - file: no_pic.png
+    name: Jianyue Bai
     position: Fundraising Committee
-    link: ''
+    link: 'https://www.linkedin.com/in/jianyue-evelyn-bai/'
 
-  - file: Tina_Tan.jpg
-    name: Tina Tan
+  - file: no_pic.png
+    name: Ente Kang
     position: Fundraising Committee
-    link: 'https://www.linkedin.com/in/zhaoyu-tan-42375b1ba/'
+    link:
 
   - file: Aoqi_Xie.JPG
     name: Aoqi Xie
     position: PHSA PhD Representative
     link: 'https://www.linkedin.com/in/aoqi-xie-708811208/'
 
-  - file: Daniel_Del_Rosso.jpg
-    name: Daniel Del Rosso
+  - file: no_pic.png
+    name: Mengyao Shi
+    position: PHSA PhD Representative
+    link: 'https://www.linkedin.com/in/mengyao-shi-584b7119a/'
+
+  - file: Yiming_Peng.jpg
+    name: Yiming (Emmett) Peng
     position: PHSA MSc Representative
-    link: 'https://www.linkedin.com/in/daniel-del-rosso-328766227/'
+    link: 'https://www.linkedin.com/in/yiming-emmett-peng-b3036b321/'
+
+
+
     
 
 
     
+
 
 
 
