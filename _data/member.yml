@@ -192,58 +192,11 @@
     link: 'https://www.linkedin.com/in/hamdaaltaf'
     
   - file: no_pic.png
-    name: Luke Bai
-    supervisor: 'Practicum Supervisor: Dr. Rinku Sutradhar, Dr. Alyson Mahar'
-    year: MSc year 1
-    link: 
-
-  - file: Barrett_Buhler.png
-    name: Barrett Buhler
-    supervisor: 'Practicum Supervisor: Lisa Strug'
-    year: 
-    link: 'https://www.linkedin.com/in/barrettbuhler/'
-    
-  - file: no_pic.png
     name: Hanlong Chen
     supervisor: 'Supervisor: Malcolm Binns'
     year:
     link: 'https://www.linkedin.com/in/hanlongchen/'
-    
-  - file: no_pic.png
-    name: Junzi Chen
-    supervisor: 'Practicum Supervisor: Lennon Li'
-    year: MSc year 1
-    link:
-    
-  - file: April_Cheng.jpg
-    name: April Yang Cheng
-    supervisor:
-    year: 2024
-    link: 'https://www.linkedin.com/in/aprilyangcheng/'
-    
-  - file: Rose_Han.jpg
-    name: Xiaoxuan (Rose) Han
-    supervisor: 'Thesis Supervisors: Melanie Poulin-Costello, Jenna Sykes'
-    year: MSc year 2 (Thesis)
-    link: 'https://www.linkedin.com/in/xiaoxuan-han-82629b236/'
 
-  - file: JINGXUAN_HE.jpg
-    name: Jingxuan (Anna) He
-    supervisor: 'Practicum supervisor: Rinku Sutradhar'
-    year: MSc year 1
-    link: 'https://www.linkedin.com/in/anna-jingxuan-he/'
-
-  - file: no_pic.png
-    name: Maksim Helmann
-    supervisor: 'Practicum Supervisors: Dr. Simona Minotti'
-    year: MSc year 1
-    link: 
-
-  - file: Annie_Hu.jpg
-    name: Xingchen (Annie) Hu
-    supervisor: 'Practicum Supervisor: Rahim Moineddin and Christopher Meaney'
-    year: MSc year 1
-    link: 'https://www.linkedin.com/in/xingchen-annie-hu-85b370219'
 
   - file: Ever_Hughes.jpg
     name: Ever Hughes
@@ -252,11 +205,6 @@
     research: 'Research Interests: Longitudinal data, applied statistics'
     link: 'http://www.linkedin.com/in/everhughes'
 
-  - file: Belina_Jang.jpg
-    name: Belina Jang
-    supervisor: 'Practicum Supervisors: Dr. Wei Xu, Anna Santiago'
-    year: MSc year 1 (AI/DS Emphasis)
-    link: 'https://www.linkedin.com/in/belinajang/'
 
   - file: Abhinav_Kansal.JPG
     name: Abhinav Kansal
@@ -272,34 +220,9 @@
     research: 'Research Interests: Longitudinal Analysis of Extra-Articular Events in Axial Spondyloarthritis'
     link: 'https://www.linkedin.com/in/jihkim906'
 
-  - file: Vanessa_Liao.jpg
-    name: Vanessa Liao
-    supervisor: 'Practicum Supervisor: Dr. Camellia Zakaria'
-    year: MSc year 1
-    link:
-
   - file: no_pic.png
     name: Ting Lin
     supervisor: 'Practicum Supervisor: Dr. Kuan Liu'
-    year: MSc year 1
-    link:
-
-  - file: Mo_Malik.jpg
-    name: Mohsyn Imran Malik
-    supervisor: 'Practicum Supervisor: Dr. Wendy Lou'
-    year: 
-    link:
-
-  - file: Yacine_Marouf.jpg
-    name: Yacine Marouf
-    supervisor: 'Thesis Supervisor: Zahra Shakeri'
-    year: MSc year 2 (Thesis)
-    research: 'Research Interests: Causal Inference, Survival Analysis, Machine Learning'
-    link: 'http://www.linkedin.com/in/yacine-marouf'
-
-  - file: Keanna_Nandlall.jpg
-    name: Keanna Nandlall
-    supervisor: 'Practicum supervisor: Malcolm Binns'
     year: MSc year 1
     link:
 
@@ -309,11 +232,7 @@
     year: MSc Year 2 (Thesis)
     link: 'https://www.linkedin.com/in/yiming-emmett-peng-b3036b321/'
 
-  - file: Rebekah_Peter.jpg
-    name: Rebekah Peter
-    supervisor: 'Practicum supervisors: Jenna Sykes, Anne Stephenson'
-    year: 
-    link: 'https://www.linkedin.com/in/rebekah-p-08a773164'
+  
 
   - file: Daniel_Del_Rosso.jpg
     name: Daniel Del Rosso
@@ -321,11 +240,6 @@
     year: 
     link: 'https://www.linkedin.com/in/daniel-del-rosso-328766227'
     
-  - file: Priyonto_Saha.jpg
-    name: Priyonto Saha
-    supervisor: 'Supervisor: Dr. Kuan Liu'
-    year: MSc year 2 (Thesis) (AI/DS Emphasis)
-    link: 'https://www.p-saha.com'
 
   - file: Raissa_Shrestha.jpg
     name: Raissa Shrestha
@@ -341,17 +255,6 @@
     research: 'Research Interests: GWAS, Statistical Genetics'
     link: 'https://www.linkedin.com/in/wendy-shue-0632b522b/'
 
-  - file: Victoria_Truong.jpg
-    name: Victoria Truong
-    supervisor: 'Practicum Supervisor: Dr. Pingzhao Hu'
-    year: MSc year 1 (AI/DS Emphasis)
-    link: 'https://www.linkedin.com/in/victoriaktruongg/'
-
-  - file: Tina_Tan.jpg
-    name: Tina Tan
-    supervisor:
-    year:
-    link: 'https://www.linkedin.com/in/zhaoyu-tan-42375b1ba'
 
   - file: Moxuan_Wang.jpg
     name: Moxuan(Monica) Wang
@@ -365,11 +268,6 @@
     year: MSc year 1
     link: 'https://www.linkedin.com/in/soohyun-yoon-94426b211/'
 
-  - file: Qiyue_Zhang.JPG
-    name: Qiyue Zhang
-    supervisor: 'Practicum Supervisor: Dr. Amy Liu'
-    year: MSc year 1
-    link: 'https://www.linkedin.com/in/qiyue-zhang-lilly/'
 
 - desc: PhD Alumni
   type: alumni
@@ -420,6 +318,12 @@
   type: alumni
   list:
   - file: no_pic.png
+    name: Luke Bai
+    supervisor: 'Practicum Supervisor: Dr. Rinku Sutradhar, Dr. Alyson Mahar'
+    year: MSc year 1
+    link: 
+  
+  - file: no_pic.png
     name: Xueer Bi
     position: Statistical Programmer, ClinChoice
     year: 2024
@@ -430,6 +334,12 @@
     position: Postdoctoral Research Scientist, Columbia University
     year: 2020 (Thesis)
     link: 'https://yuanbian.netlify.app/'
+
+  - file: Barrett_Buhler.png
+    name: Barrett Buhler
+    supervisor: 'Practicum Supervisor: Lisa Strug'
+    year: 
+    link: 'https://www.linkedin.com/in/barrettbuhler/'
 
   - file: no_pic.png
     name: Charlotte Chen
@@ -448,12 +358,24 @@
     position: PhD Student, McGill University 
     year: 2022
     link: 'https://www.linkedin.com/in/jiayin-chen-45a673183/'
+
+  - file: no_pic.png
+    name: Junzi Chen
+    supervisor: 'Practicum Supervisor: Lennon Li'
+    year: MSc year 1
+    link:
     
   - file: no_pic.png
     name:  Ziming (Jocelyn) Chen
     position:  PhD Student, University of California, Santa Cruz 
     year: 2022
     link: 'https://www.linkedin.com/in/ziming-jocelyn-chen-428053124/?originalSubdomain=cn'
+
+  - file: April_Cheng.jpg
+    name: April Yang Cheng
+    supervisor:
+    year: 2024
+    link: 'https://www.linkedin.com/in/aprilyangcheng/' 
     
   - file: no_pic.png
     name: Yu-Chun (Gingin) Chien
@@ -490,12 +412,30 @@
     position: Biostatistician, CHEO
     year: 2022 (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/mei-han-a149b1251/'
+
+  - file: Rose_Han.jpg
+    name: Xiaoxuan (Rose) Han
+    supervisor: 'Thesis Supervisors: Melanie Poulin-Costello, Jenna Sykes'
+    year: MSc year 2 (Thesis)
+    link: 'https://www.linkedin.com/in/xiaoxuan-han-82629b236/'
+
+  - file: JINGXUAN_HE.jpg
+    name: Jingxuan (Anna) He
+    supervisor: 'Practicum supervisor: Rinku Sutradhar'
+    year: MSc year 1
+    link: 'https://www.linkedin.com/in/anna-jingxuan-he/'
     
   - file: no_pic.png
     name: Yingshi (Cecilia) He
     position: Research Manager, St. Michael's Hospital
     year: 2024
     link: 'https://www.linkedin.com/in/yingshi-cecilia-he-57b31460/'
+
+  - file: no_pic.png
+    name: Maksim Helmann
+    supervisor: 'Practicum Supervisors: Dr. Simona Minotti'
+    year: MSc year 1
+    link: 
 
   - file: no_pic.png
     name: Zhixing (Stella) Hong
@@ -509,6 +449,18 @@
     research: 'Research Interests: Master Protocol, Adaptive Clinical Trial Design'
     link: 
 
+  - file: Annie_Hu.jpg
+    name: Xingchen (Annie) Hu
+    supervisor: 'Practicum Supervisor: Rahim Moineddin and Christopher Meaney'
+    year: MSc year 1
+    link: 'https://www.linkedin.com/in/xingchen-annie-hu-85b370219'
+
+  - file: Belina_Jang.jpg
+    name: Belina Jang
+    supervisor: 'Practicum Supervisors: Dr. Wei Xu, Anna Santiago'
+    year: MSc year 1 (AI/DS Emphasis)
+    link: 'https://www.linkedin.com/in/belinajang/'
+    
   - file: no_pic.png
     name: Jewon (Jay) Kim
     position: Methodologist at BC Cancer
@@ -539,6 +491,12 @@
     year: 2021
     link: 'https://www.linkedin.com/in/qiao-li-95079aab/?originalSubdomain=ca'
 
+  - file: Vanessa_Liao.jpg
+    name: Vanessa Liao
+    supervisor: 'Practicum Supervisor: Dr. Camellia Zakaria'
+    year: MSc year 1
+    link:
+
   - file: no_pic.png
     name: Qiaowei (Vicky) Lin
     position: Research Data Analyst, University of Toronto
@@ -563,11 +521,11 @@
     year: 2024
     link: 'https://www.linkedin.com/in/jinyu21/'
 
-  - file: no_pic.png
-    name: Zunaira Mehmood
-    position: Research Fellow, Population Health Research Institute
-    year: 2024
-    link: 'https://www.linkedin.com/in/zunairamehmood/'
+  - file: Mo_Malik.jpg
+    name: Mohsyn Imran Malik
+    supervisor: 'Practicum Supervisor: Dr. Wendy Lou'
+    year: 
+    link:
 
   - file: no_pic.png
     name: Ashley Mao
@@ -575,11 +533,32 @@
     year: 2020
     link: 'https://www.linkedin.com/in/ashleymaohuiyan/'
 
+  - file: Yacine_Marouf.jpg
+    name: Yacine Marouf
+    supervisor: 'Thesis Supervisor: Zahra Shakeri'
+    year: MSc year 2 (Thesis)
+    research: 'Research Interests: Causal Inference, Survival Analysis, Machine Learning'
+    link: 'http://www.linkedin.com/in/yacine-marouf'
+
+  - file: no_pic.png
+    name: Zunaira Mehmood
+    position: Research Fellow, Population Health Research Institute
+    year: 2024
+    link: 'https://www.linkedin.com/in/zunairamehmood/'
+
+  
+
   - file: no_pic.png
     name: Shijie Min
     position: ''
     year: 2024 (Thesis)
     link: 'https://www.linkedin.com/in/shijie-min/'
+
+  - file: Keanna_Nandlall.jpg
+    name: Keanna Nandlall
+    supervisor: 'Practicum supervisor: Malcolm Binns'
+    year: MSc year 1
+    link:
 
   - file: no_pic.png
     name: Marija Pajdakovska
@@ -593,6 +572,12 @@
     year: 2019
     link: 'https://scholar.google.ca/citations?user=nIlfE0kAAAAJ&hl=en'
 
+  - file: Rebekah_Peter.jpg
+    name: Rebekah Peter
+    supervisor: 'Practicum supervisors: Jenna Sykes, Anne Stephenson'
+    year: 
+    link: 'https://www.linkedin.com/in/rebekah-p-08a773164'
+
   - file: no_pic.png
     name: Youxue Ren
     position: ''
@@ -605,6 +590,12 @@
     year: 2023
     link: 'https://www.linkedin.com/in/jaffa-romain-393098195/'
 
+  - file: Priyonto_Saha.jpg
+    name: Priyonto Saha
+    supervisor: 'Supervisor: Dr. Kuan Liu'
+    year: MSc year 2 (Thesis) (AI/DS Emphasis)
+    link: 'https://www.p-saha.com'
+
   - file: no_pic.png
     name: ChenNingZhi Sheng
     position: Regulatory Analyst and Administrator, Real Estate Council of Ontario
@@ -616,6 +607,19 @@
     position: Biostatistician, Lunenfeld-Tanenbaum Research Institute, Sinai Health
     year: 2023 (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/yi-chen-su-b62060290/'
+
+  - file: Tina_Tan.jpg
+    name: Tina Tan
+    supervisor:
+    year:
+    link: 'https://www.linkedin.com/in/zhaoyu-tan-42375b1ba'
+    
+  - file: Victoria_Truong.jpg
+    name: Victoria Truong
+    supervisor: 'Practicum Supervisor: Dr. Pingzhao Hu'
+    year: MSc year 1 (AI/DS Emphasis)
+    link: 'https://www.linkedin.com/in/victoriaktruongg/'
+
 
   - file: no_pic.png
     name: Siyi Wang
@@ -664,6 +668,12 @@
     position: 'Research Consultant: Evidence Review and Software, Cytel'
     year: 2021
     link: 'https://www.linkedin.com/in/jiayue-edith-yu/'
+
+  - file: Qiyue_Zhang.JPG
+    name: Qiyue Zhang
+    supervisor: 'Practicum Supervisor: Dr. Amy Liu'
+    year: MSc year 1
+    link: 'https://www.linkedin.com/in/qiyue-zhang-lilly/'
 
   - file: no_pic.png.jpeg
     name: Jason Zhu
