@@ -197,14 +197,12 @@
     year:
     link: 'https://www.linkedin.com/in/hanlongchen/'
 
-
   - file: Ever_Hughes.jpg
     name: Ever Hughes
     supervisor: 'Practicum supervisors: Jenna Sykes,  Anne Stephenson'
     year: MSc Year 1
     research: 'Research Interests: Longitudinal data, applied statistics'
     link: 'http://www.linkedin.com/in/everhughes'
-
 
   - file: Abhinav_Kansal.JPG
     name: Abhinav Kansal
@@ -232,14 +230,11 @@
     year: MSc Year 2 (Thesis)
     link: 'https://www.linkedin.com/in/yiming-emmett-peng-b3036b321/'
 
-  
-
   - file: Daniel_Del_Rosso.jpg
     name: Daniel Del Rosso
     supervisor: 'Practicum Supervisors: Dr. Lisa Strug and Dr. Delnaz Roshandel'
     year: 
     link: 'https://www.linkedin.com/in/daniel-del-rosso-328766227'
-    
 
   - file: Raissa_Shrestha.jpg
     name: Raissa Shrestha
@@ -254,7 +249,6 @@
     year: MSc year 1
     research: 'Research Interests: GWAS, Statistical Genetics'
     link: 'https://www.linkedin.com/in/wendy-shue-0632b522b/'
-
 
   - file: Moxuan_Wang.jpg
     name: Moxuan(Monica) Wang
@@ -546,8 +540,6 @@
     year: 2024
     link: 'https://www.linkedin.com/in/zunairamehmood/'
 
-  
-
   - file: no_pic.png
     name: Shijie Min
     position: ''
@@ -619,7 +611,6 @@
     supervisor: 'Practicum Supervisor: Dr. Pingzhao Hu'
     year: MSc year 1 (AI/DS Emphasis)
     link: 'https://www.linkedin.com/in/victoriaktruongg/'
-
 
   - file: no_pic.png
     name: Siyi Wang
