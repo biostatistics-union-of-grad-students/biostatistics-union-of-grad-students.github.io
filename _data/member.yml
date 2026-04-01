@@ -313,7 +313,7 @@
   list:
   - file: no_pic.png
     name: Luke Bai
-    position:
+    position: ''
     year: 2025 
     link: 
   
@@ -355,7 +355,7 @@
 
   - file: no_pic.png
     name: Junzi Chen
-    position:
+    position: ''
     year: 2025 
     link:
     
@@ -367,7 +367,7 @@
 
   - file: no_pic.png
     name: April Yang Cheng
-    position:
+    position: ''
     year: 2024
     link: 'https://www.linkedin.com/in/aprilyangcheng/' 
     
@@ -409,13 +409,13 @@
 
   - file: no_pic.png
     name: Xiaoxuan (Rose) Han
-    position:
+    position: ''
     year: 2025 
     link: 'https://www.linkedin.com/in/xiaoxuan-han-82629b236/'
 
   - file: no_pic.png
     name: Jingxuan (Anna) He
-    position:
+    position: ''
     year: 2025 
     link: 'https://www.linkedin.com/in/anna-jingxuan-he/'
     
@@ -445,13 +445,13 @@
 
   - file: no_pic.png
     name: Xingchen (Annie) Hu
-    position:
+    position: ''
     year: 2025 
     link: 'https://www.linkedin.com/in/xingchen-annie-hu-85b370219'
 
   - file: no_pic.png
     name: Belina Jang
-    position:
+    position: ''
     year: 2025 
     link: 'https://www.linkedin.com/in/belinajang/'
     
@@ -487,7 +487,7 @@
 
   - file: no_pic.png
     name: Vanessa Liao
-    position:
+    position: ''
     year: 2025 
     link:
 
@@ -517,7 +517,7 @@
 
   - file: no_pic.png
     name: Mohsyn Imran Malik
-    position:
+    position: ''
     year: 2025 
     link:
 
@@ -529,7 +529,7 @@
 
   - file: no_pic.png
     name: Yacine Marouf
-    position:
+    position: ''
     year: 2025 
     link: 'http://www.linkedin.com/in/yacine-marouf'
 
@@ -547,7 +547,7 @@
 
   - file: no_pic.png
     name: Keanna Nandlall
-    position:
+    position: ''
     year: 2025 
     link:
 
@@ -565,7 +565,7 @@
 
   - file: no_pic.png
     name: Rebekah Peter
-    position:
+    position: ''
     year: 2025 
     link: 'https://www.linkedin.com/in/rebekah-p-08a773164'
 
@@ -583,7 +583,7 @@
 
   - file: no_pic.png
     name: Priyonto Saha
-    position:
+    position: ''
     year: 2025 
     link: 'https://www.p-saha.com'
 
@@ -607,7 +607,7 @@
     
   - file: no_pic.png
     name: Victoria Truong
-    position:
+    position: ''
     year: 2025 
     link: 'https://www.linkedin.com/in/victoriaktruongg/'
 
@@ -619,13 +619,13 @@
 
   - file: no_pic.png
     name: Lilian (Zhuo) Wei
-    position:
+    position: ''
     year: 2020
     link: 'https://www.linkedin.com/in/zhuo-lilian-wei/'
 
   - file: no_pic.png
     name: Shuyang Wu
-    position:
+    position: ''
     year: 2024
     link: 'https://www.linkedin.com/in/shuyang-wu-6a73b6239/'
 
@@ -637,7 +637,7 @@
 
   - file: no_pic.png
     name: ZhenHuan (Tony) Xu
-    position: 
+    position: '' 
     year: 2023
     link: 'https://www.linkedin.com/in/zhenhuan-xu/'
     
@@ -661,7 +661,7 @@
 
   - file: no_pic.png
     name: Qiyue Zhang
-    position:
+    position: ''
     year: 2025 
     link: 'https://www.linkedin.com/in/qiyue-zhang-lilly/'
 
