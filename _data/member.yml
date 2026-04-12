@@ -298,13 +298,13 @@
     
   - file: no_pic.png
     name: Changchang Xu
-    position: Senior Analyst, Ontario Health
+    position: Research Fellow, Lunenfeld-Tanenbaum Research Institute, Sinai Health
     year: 2023
     link: 'https://www.linkedin.com/in/changchang-xu-phd-b53403262/'
   
   - file: no_pic.png
     name: Dongyang Yang
-    position: Senior Statistician in Late Oncology, AstraZeneca
+    position: Senior Statistician, AstraZeneca
     year: 2024
     link: 'https://www.linkedin.com/in/dongyang-dawn-yang/'
 
@@ -313,9 +313,9 @@
   list:
   - file: no_pic.png
     name: Luke Bai
-    position: ''
-    year: 2025 
-    link: 
+    position: Statistician, Roche
+    year: 2025
+    link: 'https://www.linkedin.com/in/luke-bai-00b9641b9/'
   
   - file: no_pic.png
     name: Xueer Bi
@@ -331,15 +331,15 @@
 
   - file: no_pic.png
     name: Barrett Buhler
-    supervisor: 'Practicum Supervisor: Lisa Strug'
-    year: 
+    position: Advanced Analytics, Analyst, Dig Insights
+    year: 2025
     link: 'https://www.linkedin.com/in/barrettbuhler/'
 
   - file: no_pic.png
     name: Charlotte Chen
     position: Data Analyst, William Osler Health System
     year: 2023
-    link: 'https://www.linkedin.com/in/xiaoyu-%EF%BC%88charlotte%EF%BC%89-chen-4199aa280/'
+    link: 'https://www.linkedin.com/in/charlotte-chen-4199aa280/'
     
   - file: no_pic.png
     name: Hongyu Chen
@@ -367,7 +367,7 @@
 
   - file: no_pic.png
     name: April Yang Cheng
-    position: ''
+    position: Senior Analyst, Clinical Analytics, Ontario Health
     year: 2024
     link: 'https://www.linkedin.com/in/aprilyangcheng/' 
     
@@ -409,27 +409,27 @@
 
   - file: no_pic.png
     name: Xiaoxuan (Rose) Han
-    position: ''
+    position: Statistician, AstraZeneca
     year: 2025 
     link: 'https://www.linkedin.com/in/xiaoxuan-han-82629b236/'
 
   - file: no_pic.png
     name: Jingxuan (Anna) He
-    position: ''
+    position: Research Analyst, ICES
     year: 2025 
     link: 'https://www.linkedin.com/in/anna-jingxuan-he/'
     
   - file: no_pic.png
     name: Yingshi (Cecilia) He
-    position: Research Manager, St. Michael's Hospital
+    position: Research Program Manager, St. Michael's Hospital
     year: 2024
     link: 'https://www.linkedin.com/in/yingshi-cecilia-he-57b31460/'
 
   - file: no_pic.png
     name: Maksim Helmann
-    supervisor: 'Practicum Supervisors: Dr. Simona Minotti'
-    year: MSc year 1
-    link: 
+    position: Biostatistician, Trillium Health Partners
+    year: 2025
+    link: 'https://www.linkedin.com/in/maksim-helmann/'
 
   - file: no_pic.png
     name: Zhixing (Stella) Hong
@@ -445,13 +445,13 @@
 
   - file: no_pic.png
     name: Xingchen (Annie) Hu
-    position: ''
+    position: Statistical Programmer, AstraZeneca
     year: 2025 
     link: 'https://www.linkedin.com/in/xingchen-annie-hu-85b370219'
 
   - file: no_pic.png
     name: Belina Jang
-    position: ''
+    position: Statistical Analyst, Tigermed
     year: 2025 
     link: 'https://www.linkedin.com/in/belinajang/'
     
@@ -487,9 +487,9 @@
 
   - file: no_pic.png
     name: Vanessa Liao
-    position: ''
+    position: Analyst, Canadian Institute for Health Information (CIHI)
     year: 2025 
-    link:
+    link: 'https://www.linkedin.com/in/vanessa-y-liao/'
 
   - file: no_pic.png
     name: Qiaowei (Vicky) Lin
@@ -511,7 +511,7 @@
 
   - file: no_pic.png
     name: Jinyu (Irene) Luo
-    position:
+    position: Statistical Programmer, ClinChoice
     year: 2024
     link: 'https://www.linkedin.com/in/jinyu21/'
 
@@ -529,7 +529,7 @@
 
   - file: no_pic.png
     name: Yacine Marouf
-    position: ''
+    position: Medical Student, University of Ottawa
     year: 2025 
     link: 'http://www.linkedin.com/in/yacine-marouf'
 
@@ -547,13 +547,13 @@
 
   - file: no_pic.png
     name: Keanna Nandlall
-    position: ''
+    position: DO Student, Rowan University School of Osteopathic Medicine
     year: 2025 
-    link:
+    link: 'https://www.linkedin.com/in/keanna-nandlall/'
 
   - file: no_pic.png
     name: Marija Pajdakovska
-    position: Biostatistician, Translational Medicine at SickKids
+    position: Biostatistician, Translational Medicine, SickKids
     year: 2024
     link: 'https://linkedin.com/in/marija-pajdakovska-1736511b3'
 
@@ -571,9 +571,9 @@
 
   - file: no_pic.png
     name: Youxue Ren
-    position: ''
+    position: Manager, Forecasting Models, Scotiabank
     year: 2024 (AI/DS Emphasis)
-    link: 'https://ca.linkedin.com/in/%E6%82%A0%E9%9B%AA-%E4%BB%BB-snowball/en'
+    link: 'https://www.linkedin.com/in/youxueren-snowball/'
 
   - file: no_pic.png
     name: Jaffa Romain
@@ -583,7 +583,7 @@
 
   - file: no_pic.png
     name: Priyonto Saha
-    position: ''
+    position: PhD Student, McGill University
     year: 2025 
     link: 'https://www.p-saha.com'
 
@@ -619,19 +619,19 @@
 
   - file: no_pic.png
     name: Lilian (Zhuo) Wei
-    position: ''
+    position: Market Forecasting Analyst, Ontario Power Generation
     year: 2020
     link: 'https://www.linkedin.com/in/zhuo-lilian-wei/'
 
   - file: no_pic.png
     name: Shuyang Wu
-    position: ''
+    position: Analyst, Ontario Health
     year: 2024
-    link: 'https://www.linkedin.com/in/shuyang-wu-6a73b6239/'
+    link: 'https://www.linkedin.com/in/kiara-wu-6a73b6239/'
 
   - file: no_pic.png
     name: Feifan Xiang
-    position: Research Analyst at Institute of Health Policy, Management and Evaluation
+    position: Research Analyst, University of Toronto
     year: 2024
     link: 'https://www.linkedin.com/in/feifan-kristy-xiang-7295b4234/'
 
