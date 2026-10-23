@@ -1,23 +1,23 @@
 - group: 2026
   list:
-    - entry: '<u>Stefan, G.</u>, Pullenayegum, E., 2026. Inverse-Intensity-Weighted Generalized Estimating Equations With Irregularly Measured Longitudinal Data and Informative Dropout. Statistics in Medicine 45, no. 18-19 (2026): e70674. https://doi.org/10.1002/sim.70674'
+    - entry: '<u>Stefan, G.</u>, & Pullenayegum, E. (2026). Inverse-Intensity-Weighted Generalized Estimating Equations With Irregularly Measured Longitudinal Data and Informative Dropout. Statistics in Medicine, 45(18-19), e70674. https://doi.org/10.1002/sim.70674'
 
 - group: 2024
   list:
-    - entry: '<u>Bian, Y.</u>, Shi Y., Guo, H., Yi, G.Y., He, W., 2024. Physician effects in critical care: A causal inference approach through propensity weighting with parametric and super learning methods. Journal of Data Science. https://jds-online.org/journal/JDS/article/1376/info'
-    - entry: '<u>Feng, S. X.</u>, & Mitani, A. A., 2024. Marginal clustered multistate models for longitudinal progressive processes with informative cluster size. Statistical Analysis and Data Mining: The ASA Data Science Journal, 17(2), e11668. https://doi.org/10.1002/sam.11668'
-    - entry: '<u>Li, L.</u>, Jalal, H., Heath, A., 2024. A Nonparametric Approach for Estimating the Effective Sample Size in Gaussian Approximation of Expected Value of Sample Information. arXiv preprint arXiv:2401.16660'
-    - entry: '<u>Li, L.</u>, Jalal, H., Heath, A., 2024. Estimating the EVSI with Gaussian Approximations and Spline-Based Series Methods. arXiv preprint arXiv:2401.17393'
-    - entry: '<u>Bian, Y.</u>, Yi, G.Y., He, W., 2024. A unified framework of analyzing missing data and variable selection using regularized likelihood. Computational Statistics and Data Analysis, 194(6), Article 107919. https://doi.org/10.1016/j.csda.2024.107919'
+    - entry: '<u>Bian, Y.</u>, Shi Y., Guo, H., Yi, G.Y., He, W. (2024). Physician effects in critical care: A causal inference approach through propensity weighting with parametric and super learning methods. Journal of Data Science. https://jds-online.org/journal/JDS/article/1376/info'
+    - entry: '<u>Feng, S. X.</u>, & Mitani, A. A. (2024). Marginal clustered multistate models for longitudinal progressive processes with informative cluster size. Statistical Analysis and Data Mining: The ASA Data Science Journal, 17(2), e11668. https://doi.org/10.1002/sam.11668'
+    - entry: '<u>Li, L.</u>, Jalal, H., Heath, A. (2024). A Nonparametric Approach for Estimating the Effective Sample Size in Gaussian Approximation of Expected Value of Sample Information. arXiv preprint arXiv:2401.16660'
+    - entry: '<u>Li, L.</u>, Jalal, H., Heath, A. (2024). Estimating the EVSI with Gaussian Approximations and Spline-Based Series Methods. arXiv preprint arXiv:2401.17393'
+    - entry: '<u>Bian, Y.</u>, Yi, G.Y., He, W. (2024). A unified framework of analyzing missing data and variable selection using regularized likelihood. Computational Statistics and Data Analysis, 194(6), Article 107919. https://doi.org/10.1016/j.csda.2024.107919'
 
 - group: 2023
   list:
-    - entry: '<u>Yang, M.</u>, Matan-Lithwick, S., Wang, Y., De Jager, P.L., Bennett, D.A., Felsky, D., 2023. Multi-omic integration via similarity network fusion to detect molecular subtypes of ageing. Brain Communications, Volume 5, Issue 2. https://doi.org/10.1093/braincomms/fcad110'
+    - entry: '<u>Yang, M.</u>, Matan-Lithwick, S., Wang, Y., De Jager, P.L., Bennett, D.A., Felsky, D. (2023). Multi-omic integration via similarity network fusion to detect molecular subtypes of ageing. Brain Communications, Volume 5, Issue 2. https://doi.org/10.1093/braincomms/fcad110'
     - entry: '<u>Soltanifar, M.</u>, & Lee, C. H. (2023). SimSST: An R Statistical Software Package to Simulate Stop Signal Task Data. Mathematics, 11(3), 500.'
 
 - group: 2022
   list:
-    - entry: '<u>Li, L.</u>, Plint, A. and Heath, A., 2022. Generating High-Utility Synthetic Clinical Trial Data Using Non-Parametric Data-Augmented Multiple Imputation. Journal of the Royal Statistical Society: Series C (Under review)'
+    - entry: '<u>Li, L.</u>, Plint, A. and Heath, A. (2022). Generating High-Utility Synthetic Clinical Trial Data Using Non-Parametric Data-Augmented Multiple Imputation. Journal of the Royal Statistical Society: Series C (Under review)'
     - entry: '<u>Soltanifar, M.</u>, Escobar, M., Dupuis, A., Chevrier, A., & Schachar, R. (2022). The Asymmetric Laplace Gaussian (ALG) Distribution as the Descriptive Model for the Internal Proactive Inhibition in the Standard Stop Signal Task. Brain Sciences, 12(6), 730.'
     - entry: '<u>Soltanifar, M.</u> (2022). A Look at the Primary Order Preserving Properties of Stochastic Orders: Theorems, Counterexamples and Applications in Cognitive Psychology. Mathematics, 10(22), 4362.'
 
