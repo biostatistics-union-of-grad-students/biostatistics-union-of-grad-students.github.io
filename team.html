@@ -93,11 +93,23 @@ keywords: components, demo
                   <tr>
                     <th>Name</th>
                     <th>Year</th>
-                    <th>Position (as of April 2026)</th>
+                    <th>Position (list updated November 2026)</th>
                   </tr>
                 </thead>
                 <tbody>
-                  {% for member in members.list %}
+                  {%- comment -%}Sort newest graduation years first. Keep the original year text for display.{%- endcomment -%}
+                  {%- assign alumni_keys = "" | split: "" -%}
+                  {%- for member in members.list -%}
+                    {%- assign graduation_year = member.year | append: "" | strip | slice: 0, 4 | plus: 0 -%}
+                    {%- assign year_rank = 9999 | minus: graduation_year | prepend: "0000" | slice: -4, 4 -%}
+                    {%- assign surname = member.name | strip | split: " " | last | downcase -%}
+                    {%- capture sort_key -%}{{ year_rank }} {{ surname }}:{{ member.name | strip | downcase }}|{{ forloop.index0 }}{%- endcapture -%}
+                    {%- assign alumni_keys = alumni_keys | push: sort_key -%}
+                  {%- endfor -%}
+                  {%- assign alumni_keys = alumni_keys | sort -%}
+                  {% for sort_key in alumni_keys %}
+                    {% assign member_index = sort_key | split: "|" | last | plus: 0 %}
+                    {% assign member = members.list[member_index] %}
                   <tr>
                     {% if member.link and member.link.size != 0 %}
                     <td><a href="{{ member.link }}">{{ member.name }}</a></td>

@@ -10,14 +10,14 @@
     
   - file: Chen_Chen.jpg
     name: Chen Chen
-    supervisor: 'Practicum Supervisors: Dr. Kuan Liu, Dr. Zihang Lu, Dr. Geoffrey Anderson'
+    supervisor: 'Supervisors: Dr. Kuan Liu, Dr. Zihang Lu, Dr. Geoffrey Anderson'
     year: 
     research: "Research Interests: Joint Modeling, Bayesian Statistics"
     link:
 
   - file: Desmond_Zeya_Chen.jpg
     name: Desmond Z Chen
-    supervisor: 'Practicum Supervisor: Dr. Clement Ma'
+    supervisor: 'Supervisor: Dr. Clement Ma'
     year:
     research: 'Research Interests: Statistical Omics, Large Scale Statistical Software Development Under HPC Environment.'
     link: 'https://github.com/zeyachen'
@@ -38,7 +38,7 @@
 
   - file: Ruixue_Vera_Dai.jpg
     name: Ruixue (Vera) Dai
-    supervisor: 'Practicum Supervisor: Dr. Osvaldo Espin-Garcia<br>Thesis Supervisors: Dr. Wendy Lou, Dr. Zihang Lu'
+    supervisor: 'Supervisors: Dr. Wendy Lou, Dr. Zihang Lu'
     year:
     research: 'Research Interests: Longitudinal analysis, dimension reduction'
     link: 'https://www.linkedin.com/in/ruixuedai'
@@ -121,7 +121,7 @@
 
   - file: Emmett_Peng.jpg
     name: Emmett Peng
-    supervisor: 'Thesis Supervisors: Dr. Kuan Liu, Dr. Zihang Lu'
+    supervisor: 'Supervisors: Dr. Kuan Liu, Dr. Zihang Lu'
     year:
     research: 'Research Interests: Causal inference, machine learning, and clinical trials'
     link: 'https://www.linkedin.com/in/yiming-emmett-peng'
@@ -135,7 +135,7 @@
 
   - file: Yu_Shi.jpg
     name: Yu Shi
-    supervisor: 'Practicum Supervisor: Dr. Pingzhao Hu'
+    supervisor: 'Supervisor: Dr. Pingzhao Hu'
     year: 
     research: ''
     link: https://www.linkedin.com/in/yu-shi-a80571193/
@@ -333,9 +333,9 @@
 
   - file: no_pic.png
     name: Junzi Chen
-    position: ''
+    position: 'ADS Programmer, Roche'
     year: 2025 
-    link:
+    link: 'https://www.linkedin.com/in/junzichen/'
     
   - file: no_pic.png
     name:  Ziming (Jocelyn) Chen
