@@ -22,12 +22,26 @@
     research: 'Research Interests: Statistical Omics, Large Scale Statistical Software Development Under HPC Environment.'
     link: 'https://github.com/zeyachen'
 
+  - file: no_pic.png
+    name: Hanlong Chen
+    supervisor: 'Supervisor: Dr. Aya Mitani'
+    year:
+    research: 'Research Interest: Dynamic Prediction'
+    link: 'https://www.linkedin.com/in/hanlongchen/'
+
   - file: Pai-Shan_Cheng.jpeg
     name: Pai-Shan Cheng
     supervisor: 'Supervisor: Dr. George Tomlinson'
     year: 
     research: 'Research Interests: Network Meta-Analysis, Bayesian Inference, Osteoarthritis'
     link:
+
+  - file: Ruixue_Vera_Dai.jpg
+    name: Ruixue (Vera) Dai
+    supervisor: 'Practicum Supervisor: Dr. Osvaldo Espin-Garcia<br>Thesis Supervisors: Dr. Wendy Lou, Dr. Zihang Lu'
+    year:
+    research: 'Research Interests: Longitudinal analysis, dimension reduction'
+    link: 'https://www.linkedin.com/in/ruixuedai'
 
   - file: Larry_dong.jpg
     name: Larry Dong
@@ -104,6 +118,13 @@
     supervisor: 'Supervisor: Dr. Anna Heath'
     year: 
     link: 'https://www.linkedin.com/in/abigail-mcgrory/'
+
+  - file: Emmett_Peng.jpg
+    name: Emmett Peng
+    supervisor: 'Thesis Supervisors: Dr. Kuan Liu, Dr. Zihang Lu'
+    year:
+    research: 'Research Interests: Causal inference, machine learning, and clinical trials'
+    link: 'https://www.linkedin.com/in/yiming-emmett-peng'
 
   - file: Eric_Sanders.jpg
     name: Eric Sanders
@@ -185,18 +206,6 @@
 - desc: Current MSc Students
   type: current
   list: 
-  - file: Hamda_Altaf.JPG
-    name: Hamda Altaf
-    supervisor: 'Practicum Supervisor: Dr. Wendy Lou & Dr. Venkat Bhat'
-    year: MSc year 1
-    link: 'https://www.linkedin.com/in/hamdaaltaf'
-    
-  - file: no_pic.png
-    name: Hanlong Chen
-    supervisor: 'Supervisor: Malcolm Binns'
-    year:
-    link: 'https://www.linkedin.com/in/hanlongchen/'
-
   - file: Ever_Hughes.jpg
     name: Ever Hughes
     supervisor: 'Practicum supervisors: Jenna Sykes,  Anne Stephenson'
@@ -211,31 +220,6 @@
     research: 'Research Interests: Statistical Genetics, Causal inference'
     link: 'https://www.linkedin.com/in/abhinavkansal/'
 
-  - file: Jihwan_Kim.jpg
-    name: Jihwan Kim
-    supervisor: 'Practicum Supervisors: Dr. Lisa Avery and Dr. Zeynep Baskurt'
-    year: MSc year 1 (AI/DS Emphasis)
-    research: 'Research Interests: Longitudinal Analysis of Extra-Articular Events in Axial Spondyloarthritis'
-    link: 'https://www.linkedin.com/in/jihkim906'
-
-  - file: no_pic.png
-    name: Ting Lin
-    supervisor: 'Practicum Supervisor: Dr. Kuan Liu'
-    year: MSc year 1
-    link:
-
-  - file: Yiming_Peng.jpg
-    name: Yiming (Emmett) Peng
-    supervisor: 'Thesis Supervisors: Dr. Kuan Liu & Dr. Zihang Lu'
-    year: MSc Year 2 (Thesis)
-    link: 'https://www.linkedin.com/in/yiming-emmett-peng-b3036b321/'
-
-  - file: Daniel_Del_Rosso.jpg
-    name: Daniel Del Rosso
-    supervisor: 'Practicum Supervisors: Dr. Lisa Strug and Dr. Delnaz Roshandel'
-    year: 
-    link: 'https://www.linkedin.com/in/daniel-del-rosso-328766227'
-
   - file: Raissa_Shrestha.jpg
     name: Raissa Shrestha
     supervisor: 
@@ -249,12 +233,6 @@
     year: MSc year 1
     research: 'Research Interests: GWAS, Statistical Genetics'
     link: 'https://www.linkedin.com/in/wendy-shue-0632b522b/'
-
-  - file: Moxuan_Wang.jpg
-    name: Moxuan(Monica) Wang
-    supervisor: 'Practicum Supervisor: Eshetu Atenafu'
-    year: MSc year 1
-    link:
 
   - file: Soohyun_Yoon.jpg
     name: Soohyun Yoon
@@ -376,12 +354,6 @@
     position: Biostatistician, EVERSANA
     year: 2023
     link: 'https://www.linkedin.com/in/yuchunchien/'
-
-  - file: no_pic.png
-    name: Ruixue Dai
-    position: Senior Biostatistician, The Hospital for Sick Children
-    year: 2017
-    link: 'https://www.linkedin.com/in/ruixuedai'
 
   - file: no_pic.png
     name: Jingwen (Rebecca) Du
@@ -685,11 +657,6 @@
     position: Co-President
     link: 'https://www.linkedin.com/in/abigail-mcgrory/'
 
-  - file: Daniel_Del_Rosso.jpg
-    name: Daniel Del Rosso
-    position: Co-President
-    link: 'https://www.linkedin.com/in/daniel-del-rosso-328766227/'
-   
   - file: Eric_Sanders.jpg
     name: Eric Sanders
     position: Treasurer
@@ -704,11 +671,6 @@
     name: Wendy Shue
     position: Webmaster
     link: 'https://www.linkedin.com/in/wendy-shue-0632b522b/'
-
-  - file: Hamda_Altaf.JPG
-    name: Hamda Altaf
-    position: Social Committee
-    link: 'https://www.linkedin.com/in/hamdaaltaf/'
 
   - file: Raissa_Shrestha.jpg
     name: Raissa Shrestha
