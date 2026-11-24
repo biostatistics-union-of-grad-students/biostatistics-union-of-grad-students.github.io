@@ -1,0 +1,8 @@
+{%- assign member_file = include.member.file | strip_html | default: "" -%}
+{%- assign member_image = "/assets/images/members/" | append: member_file -%}
+{%- assign image_file = site.static_files | where: "path", member_image | first -%}
+{%- if member_file == "" or member_file contains "no_pic" or image_file == nil -%}
+<img class="bugs-profile-image bugs-profile-placeholder" src="{{ '/assets/images/logos/bugs-bee.png' | relative_url }}" alt="" width="384" height="384" loading="lazy" decoding="async">
+{%- else -%}
+{% include bugs-picture.html source=member_image alt="" class="bugs-profile-image" width=560 height=560 loading="lazy" %}
+{%- endif -%}

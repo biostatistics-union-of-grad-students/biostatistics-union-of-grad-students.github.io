@@ -50,10 +50,9 @@ keywords: components, demo
               <!-- Team Item Starts -->
               <div class="team-item">
                 <figure class="team-profile">
-                  <img src="{{ site.url }}/assets/images/members/{{ member.file | strip_html }}" alt=""
-                    style="object-fit: cover; aspect-ratio: 1/1;">
+                  {% include bugs-profile-image.html member=member %}
                   {% if member.link and member.link.size != 0 %}
-                  <a href="{{ member.link | strip_html }}""> 
+                  <a href="{{ member.link | strip_html | escape }}" aria-label="Profile for {{ member.name | escape }}">
                           <figcaption class=" our-team">
                     </figcaption>
                   </a>
@@ -88,39 +87,54 @@ keywords: components, demo
           <!-- Table Style 2 -->
           <div class="table-style2">
             <div class="table-responsive mtb">
+              <p class="text-right text-muted mb-1">
+                <small>*last updated: November 2026</small>
+              </p>
               <table class="table table-bordered table-2 table-striped">
                 <thead>
                   <tr>
                     <th>Name</th>
                     <th>Year</th>
-                    <th>Position (list updated November 2026)</th>
+                    <th>Position</th>
                   </tr>
                 </thead>
-                <tbody>
-                  {%- comment -%}Sort newest graduation years first. Keep the original year text for display.{%- endcomment -%}
-                  {%- assign alumni_keys = "" | split: "" -%}
-                  {%- for member in members.list -%}
-                    {%- assign graduation_year = member.year | append: "" | strip | slice: 0, 4 | plus: 0 -%}
-                    {%- assign year_rank = 9999 | minus: graduation_year | prepend: "0000" | slice: -4, 4 -%}
-                    {%- assign surname = member.name | strip | split: " " | last | downcase -%}
-                    {%- capture sort_key -%}{{ year_rank }} {{ surname }}:{{ member.name | strip | downcase }}|{{ forloop.index0 }}{%- endcapture -%}
-                    {%- assign alumni_keys = alumni_keys | push: sort_key -%}
-                  {%- endfor -%}
-                  {%- assign alumni_keys = alumni_keys | sort -%}
-                  {% for sort_key in alumni_keys %}
-                    {% assign member_index = sort_key | split: "|" | last | plus: 0 %}
-                    {% assign member = members.list[member_index] %}
-                  <tr>
-                    {% if member.link and member.link.size != 0 %}
-                    <td><a href="{{ member.link }}">{{ member.name }}</a></td>
-                    {% else %}
-                    <td>{{ member.name }}</td>
+                {% assign alumni_sections = "list,earlier" | split: "," %}
+                {% for section in alumni_sections %}
+                  {% assign alumni = members[section] %}
+                  {% if alumni and alumni.size > 0 %}
+                  <tbody>
+                    {% if section == "earlier" %}
+                    <tr id="earlier-{{ members.desc | slugify }}" class="table-active">
+                      <th scope="rowgroup" colspan="3">Earlier Alumni</th>
+                    </tr>
                     {% endif %}
-                    <td>{{ member.year }}</td>
-                    <td>{{ member.position }}</td>
-                  </tr>
-                  {% endfor %}
-                </tbody>
+                    {%- comment -%}Sort newest graduation years first. Keep the original year text for display.{%- endcomment -%}
+                    {%- assign alumni_keys = "" | split: "" -%}
+                    {%- for member in alumni -%}
+                      {%- assign graduation_year = member.year | append: "" | strip | slice: 0, 4 | plus: 0 -%}
+                      {%- assign year_rank = 9999 | minus: graduation_year | prepend: "0000" | slice: -4, 4 -%}
+                      {%- assign last_name = member.name | strip | split: " " | last -%}
+                      {%- assign surname = member.surname | default: last_name | downcase -%}
+                      {%- capture sort_key -%}{{ year_rank }} {{ surname }}:{{ member.name | strip | downcase }}|{{ forloop.index0 }}{%- endcapture -%}
+                      {%- assign alumni_keys = alumni_keys | push: sort_key -%}
+                    {%- endfor -%}
+                    {%- assign alumni_keys = alumni_keys | sort -%}
+                    {% for sort_key in alumni_keys %}
+                      {% assign member_index = sort_key | split: "|" | last | plus: 0 %}
+                      {% assign member = alumni[member_index] %}
+                    <tr>
+                      {% if member.link and member.link.size != 0 %}
+                      <td><a href="{{ member.link }}">{{ member.name }}</a></td>
+                      {% else %}
+                      <td>{{ member.name }}</td>
+                      {% endif %}
+                      <td>{{ member.year }}</td>
+                      <td>{{ member.position }}</td>
+                    </tr>
+                    {% endfor %}
+                  </tbody>
+                  {% endif %}
+                {% endfor %}
               </table>
             </div>
           </div>

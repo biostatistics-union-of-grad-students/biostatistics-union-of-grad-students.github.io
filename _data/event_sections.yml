@@ -1,0 +1,8 @@
+- title: All
+  path: /academic-events/
+- title: Defenses
+  type: Defense
+  path: /academic-events/defenses/
+- title: Seminars
+  type: Seminar
+  path: /academic-events/seminars/

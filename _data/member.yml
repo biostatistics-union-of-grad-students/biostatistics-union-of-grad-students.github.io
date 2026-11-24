@@ -69,7 +69,7 @@
     supervisor: 'Supervisor: Dr. Aya Mitani'
     year:
     research: 'Research Interests: Dynamic Prediction, Longitudinal Data, Survival Analysis'
-    link: https://www.linkedin.com/in/xinyang-sean-feng-4039b6136/
+    link: 'https://www.linkedin.com/in/sean-xinyang-feng-4039b6136/'
     
   - file: Gengming_He.jpg
     name: Gengming He
@@ -140,6 +140,13 @@
     research: ''
     link: https://www.linkedin.com/in/yu-shi-a80571193/
 
+  - file: no_pic.png
+    name: Nathan Situ
+    supervisor: 'Supervisors: Dr. Mohammad Kaviul Anam Khan, Dr. Anna Heath'
+    year:
+    research: 'Research Interests: Bayesian Statistics, Clinical Trials, Computational Statistics'
+    link:
+
   - file: George_Stefan3.jpg
     name: George Stefan
     supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
@@ -206,6 +213,13 @@
 - desc: Current MSc Students
   type: current
   list: 
+  - file: Aryaman_Bansal.jpg
+    name: Aryaman Bansal
+    supervisor: 'Supervisor: Dr. Zahra Shakeri'
+    year: Thesis
+    research: 'Research Interest: Deep Learning for Biology and Healthcare'
+    link: 'https://aryaman1802.github.io/about.html'
+
   - file: Ever_Hughes.jpg
     name: Ever Hughes
     supervisor: 'Practicum supervisors: Jenna Sykes,  Anne Stephenson'
@@ -219,6 +233,11 @@
     year: MSc (Thesis)
     research: 'Research Interests: Statistical Genetics, Causal inference'
     link: 'https://www.linkedin.com/in/abhinavkansal/'
+
+  - file: Spencer_Li.jpg
+    name: Spencer Li
+    supervisor: 'Practicum Supervisors: Dr. Simona Minotti, Dr. Kerry Kuluski'
+    link: 'https://www.linkedin.com/in/spenceryanchenli688/'
 
   - file: Raissa_Shrestha.jpg
     name: Raissa Shrestha
@@ -264,9 +283,9 @@
 
   - file: no_pic.png
     name: Zihang Lu
-    position: Assistant Professor, Queen's University
+    position: Assistant Professor, University of Toronto
     year: 2020
-    link: https://zihanglu.com/
+    link: 'https://www.linkedin.com/in/zihang-lu-55416456/'
 
   - file: no_pic.png
     name: Mohsen Soltanifar
@@ -361,6 +380,12 @@
     year: 2020
     link: 'https://www.linkedin.com/in/rebecca-jingwen-du-a9056217a/'
     
+  - file: no_pic.png
+    name: Zhengyang Fei
+    position: Researcher and Data Analyst, Scarborough Health Network
+    year: 2025 (AI/DS Emphasis)
+    link: 'https://www.linkedin.com/in/zhengyang-fei/'
+
   - file: no_pic.png
     name: Yankai Feng
     position: Research Methods Specialist, CAMH
@@ -574,7 +599,7 @@
   - file: no_pic.png
     name: Tina Tan
     supervisor:
-    year:
+    year: 2025
     link: 'https://www.linkedin.com/in/zhaoyu-tan-42375b1ba'
     
   - file: no_pic.png

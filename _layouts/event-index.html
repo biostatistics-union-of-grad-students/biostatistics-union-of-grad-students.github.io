@@ -1,0 +1,70 @@
+---
+layout: default
+---
+{% include bugs-events-data.html section=page.event_section %}
+{% assign community = false %}
+{% if page.event_section == "Community" %}{% assign community = true %}{% endif %}
+<main class="bugs-page bugs-shell bugs-page-spacing">
+  <div class="bugs-section-heading bugs-page-title">
+    <h1>{{ page.title }}</h1>
+    {% if community %}
+    <a href="{{ '/portfolio' | relative_url }}">Photo Albums <span aria-hidden="true">→</span></a>
+    {% endif %}
+  </div>
+
+  {% if community %}
+  <div class="bugs-filters" data-event-filters hidden aria-label="Filter events">
+    <button type="button" data-event-filter="all" aria-pressed="true">All</button>
+    <button type="button" data-event-filter="social" aria-pressed="false">Social</button>
+    <button type="button" data-event-filter="career" aria-pressed="false">Career</button>
+  </div>
+  <p class="bugs-no-events" data-event-empty role="status" hidden>No events in this category.</p>
+  {% else %}
+  <nav class="bugs-event-tabs" aria-label="Academic event sections">
+    {% for section in site.data.event_sections %}
+    <a href="{{ section.path | relative_url }}"{% if page.url == section.path %} aria-current="page"{% endif %}>{{ section.title }}</a>
+    {% endfor %}
+  </nav>
+  {% endif %}
+
+  {% if upcoming_events.size > 0 %}
+  <section class="bugs-events-section"{% if community %} data-event-group{% endif %} aria-labelledby="upcoming-title">
+    <h2 id="upcoming-title">Upcoming {{ page.title }}</h2>
+    <ul class="bugs-event-list">
+      {% for entry in upcoming_events %}
+        {% include bugs-event-row.html entry=entry upcoming=true event_filter=community %}
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if past_events.size > 0 or community %}
+    {% assign event_years = past_events | group_by_exp: "post", "post.event_date | default: post.date | date: '%Y'" %}
+    <section class="bugs-events-section" id="past-events" aria-labelledby="past-title"{% if community %} data-past-events{% endif %}>
+      <h2 id="past-title">Past {{ page.title }}</h2>
+      {% for year in event_years %}
+      <div class="bugs-event-year"{% if community %} data-event-group{% endif %}>
+        <h3>{{ year.name }}</h3>
+        <ul class="bugs-event-list">
+          {% for entry in year.items %}
+            {% include bugs-event-row.html entry=entry event_filter=community %}
+          {% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
+    </section>
+  {% endif %}
+
+  {% if community and news_posts.size > 0 %}
+  <section class="bugs-events-section" aria-labelledby="updates-title">
+    <details class="bugs-updates">
+      <summary id="updates-title">News and Awards</summary>
+      <ul class="bugs-event-list">
+        {% for entry in news_posts %}
+          {% include bugs-event-row.html entry=entry %}
+        {% endfor %}
+      </ul>
+    </details>
+  </section>
+  {% endif %}
+</main>

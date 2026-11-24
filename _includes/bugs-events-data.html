@@ -1,0 +1,42 @@
+{%- comment -%}
+Events have a Social Event, Seminar, or Defense category, or an explicit event_type.
+For a scheduled event, event_date uses YYYY-MM-DD and the post is published on the announcement date.
+The academic index includes the types listed in event_sections.yml.
+{%- endcomment -%}
+{%- assign academic_types = site.data.event_sections | map: "type" | compact -%}
+{%- assign event_categories = academic_types | push: "Social Event" -%}
+{%- assign event_keys = "" | split: "" -%}
+{%- assign news_posts = "" | split: "" -%}
+{%- for post in site.posts -%}
+  {%- assign category = post.categories | first -%}
+  {%- if event_categories contains category or post.event_type -%}
+    {%- assign event_type = post.event_type | default: category -%}
+    {%- if include.section == "Community" -%}
+      {%- if academic_types contains event_type -%}{%- continue -%}{%- endif -%}
+    {%- elsif include.section == "Academic" -%}
+      {%- unless academic_types contains event_type -%}{%- continue -%}{%- endunless -%}
+    {%- elsif include.section and include.section != event_type -%}
+      {%- continue -%}
+    {%- endif -%}
+    {%- capture event_key -%}{{ post.event_date | default: post.date | date: "%Y-%m-%d" }}|{{ forloop.index0 }}{%- endcapture -%}
+    {%- assign event_keys = event_keys | push: event_key -%}
+  {%- else -%}
+    {%- assign news_posts = news_posts | push: post -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- assign today = site.time | date: "%Y-%m-%d" -%}
+{%- assign upcoming_events = "" | split: "" -%}
+{%- assign past_events = "" | split: "" -%}
+{%- assign event_keys = event_keys | sort -%}
+{%- for event_key in event_keys -%}
+  {%- assign pieces = event_key | split: "|" -%}
+  {%- assign post_index = pieces[1] | plus: 0 -%}
+  {%- assign event = site.posts[post_index] -%}
+  {%- if event.event_date and pieces[0] >= today -%}
+    {%- assign upcoming_events = upcoming_events | push: event -%}
+  {%- else -%}
+    {%- assign past_events = past_events | push: event -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign past_events = past_events | reverse -%}

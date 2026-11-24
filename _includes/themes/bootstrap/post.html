@@ -1,6 +1,12 @@
 <!-- Post header -->
       <div class="header-style-2">
         <div class="container">
+          {% assign post_category = page.categories | first %}
+          {% assign post_type = page.event_type | default: post_category %}
+          {% assign event_section = site.data.event_sections | where: "type", post_type | first %}
+          <p class="bugs-back-link">
+            <a href="{{ event_section.path | default: '/events/' | relative_url }}">← {{ event_section.title | default: "Events" }}</a>
+          </p>
           <div class="row">
             <div class="col-xs-12 col-sm-6">
               <div class="hero-content-v2" style="margin-top:10px!important;">
@@ -14,7 +20,8 @@
             </div>
             <div class="col-xs-12 col-sm-6">
               {% if page.img %}<figure>
-                <img src="{{ site.url }}/assets/images/post/{{ page.img }}" alt="">
+                {% assign cover_photo = '/assets/images/post/' | append: page.img %}
+                {% include bugs-picture.html source=cover_photo alt="" %}
               </figure>{% endif %}
             </div>
           </div>

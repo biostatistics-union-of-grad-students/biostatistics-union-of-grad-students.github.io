@@ -1,0 +1,20 @@
+{%- assign entry = include.entry -%}
+{%- assign category = entry.categories | first -%}
+{%- assign event_type = entry.event_type | default: category -%}
+{%- if event_type == "Social Event" -%}{%- assign event_type = "Social" -%}{%- endif -%}
+{%- if event_type == "Misc" -%}{%- assign event_type = "News" -%}{%- endif -%}
+{%- assign displayed_date = entry.event_date | default: entry.date -%}
+<li class="bugs-event-row"{% if include.event_filter %} data-event-type="{{ event_type | slugify }}"{% endif %}>
+  <div class="bugs-event-date">
+    {% unless entry.event_date %}<span>Posted</span>{% endunless %}
+    <time datetime="{{ displayed_date | date: '%Y-%m-%d' }}">{{ displayed_date | date: "%b %-d, %Y" }}</time>
+  </div>
+  <div class="bugs-event-info">
+    {% if event_type %}<span class="bugs-event-type">{{ event_type | escape }}</span>{% endif %}
+    <a class="bugs-event-name" href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a>
+    {% if entry.event_time or entry.location %}
+      <p>{{ entry.event_time | escape }}{% if entry.event_time and entry.location %} · {% endif %}{{ entry.location | escape }}</p>
+    {% endif %}
+  </div>
+  {% if include.upcoming and entry.rsvp_url %}<a class="bugs-rsvp" href="{{ entry.rsvp_url | escape }}">RSVP</a>{% endif %}
+</li>

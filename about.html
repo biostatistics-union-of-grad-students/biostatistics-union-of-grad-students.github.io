@@ -82,7 +82,7 @@ keywords: components, demo
         <div class="col-sm-6 col-md-3">
           <!-- Team Item Starts -->
           <figure>
-            <img src="{{ site.url }}/assets/images/members/{{ member.file | strip_html }}" alt="" style="object-fit: cover; aspect-ratio: 1/1;">
+            {% include bugs-profile-image.html member=member %}
             <div class="image-overlay">
               <div class="overlay-text text-center">
                 <div class="info-text">

@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }} | BUGS</title>
+  {% assign destination = page.redirect_to | relative_url %}
+  <meta http-equiv="refresh" content="0; url={{ destination }}">
+  <link rel="canonical" href="{{ page.redirect_to | absolute_url }}">
+</head>
+<body>
+  <p><a href="{{ destination }}">Continue to the updated page</a></p>
+</body>
+</html>

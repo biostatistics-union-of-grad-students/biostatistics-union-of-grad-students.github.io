@@ -1,0 +1,20 @@
+---
+layout: default
+title: Resources
+tagline: Teaching assistantship listings for U of T Biostatistics students.
+permalink: /resources/
+lightweight: true
+---
+<main class="bugs-page bugs-shell bugs-page-spacing bugs-resource-page">
+  <h1 class="bugs-page-title">Resources</h1>
+  <section class="bugs-resource-section" aria-labelledby="teaching-assistantships">
+    <h2 id="teaching-assistantships">Teaching Assistantships</h2>
+    <p>Check the individual listings for application deadlines and eligibility.</p>
+    <ul class="bugs-resource-links">
+      <li><a href="https://unit1.hrandequity.utoronto.ca/">University of Toronto CUPE 3902 Unit 1 positions</a></li>
+      {% for group in site.data.jobs %}
+        {% for item in group.list %}<li>{{ item.entry }}</li>{% endfor %}
+      {% endfor %}
+    </ul>
+  </section>
+</main>

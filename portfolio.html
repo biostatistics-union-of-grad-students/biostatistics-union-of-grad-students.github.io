@@ -1,85 +1,76 @@
 ---
-layout: index
-title: Gallery
-group: navigation
-tagline:
-tags : [portfolio, components]
-img :
-img-mobile :
-author : Congwei Chen
-css:
-js: portfolio.js
-keywords: components, demo
-
+layout: default
+title: Photo Albums
+tagline: Photos from the BUGS community
+lightweight: true
 ---
-{% include JB/setup %}
-<!-- Content Area Start -->
-<div id="content">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="page-header-title">
-          <h2 class="heading-title text-center">Gallery</h2>
-        </div>
-      </div>
-    </div>
+{% include bugs-events-data.html %}
+{% assign albums = "" | split: "" %}
+{% for entry in past_events %}
+  {% if entry.img and entry.categories contains "Social Event" %}
+    {% assign albums = albums | push: entry %}
+  {% endif %}
+{% endfor %}
+<main class="bugs-page bugs-shell bugs-page-spacing">
+  <div class="bugs-section-heading bugs-page-title">
+    <h1>Photo Albums</h1>
+    <a href="{{ '/events/' | relative_url }}">All events <span aria-hidden="true">→</span></a>
   </div>
-  <!-- Portfolio Section -->
-  <section id="portfolio" class="section">
-    <!-- Container Starts -->
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <!-- Portfolio Controller/Buttons -->
-          <div class="controls text-center wow fadeInUpQuick" data-wow-delay=".6s">
-            <a class="filter active btn btn-common" data-filter="all">
-              All
-            </a>
-            <a class="filter btn btn-common" data-filter=".Seminar">
-              Seminar
-            </a>
-            <a class="filter btn btn-common" data-filter=".Social_Activity">
-              Social Activity
-            </a>
-            <a class="filter btn btn-common" data-filter=".Conference">
-              Conference
-            </a>
-            <a class="filter btn btn-common" data-filter=".Graduation">
-              Graduation
-            </a>
-          </div>
-          <!-- Portfolio Controller/Buttons Ends-->
-        </div>
 
-        <!-- Portfolio Recent Projects -->
-
-        <div id="portfolio" class="row wow fadeInUpQuick" data-wow-delay="0.8s">
-
-        {% for image in site.data.gallery %}
-          <div class="col-6 mix {{ image.label | strip_html }}">
-            <div class="portfolio-item">
-              <div class="portfolio-img">
-                <img src="{{ site.url }}/assets/images/gallery/{{ image.file }}" alt="" style="object-fit: cover; aspect-ratio: 3/2;">
-              </div>
-              <div class="portfoli-content">
-                <div class="sup-desc-wrap">
-                  <div class="sup-desc-inner">
-                    <div class="sup-meta-wrap">
-                      <a class="sup-title" href="#">
-                        <h4>{{ image.title | strip_html }}</h4>
-                      </a>
-                      <p class="sup-description text-left">{{ image.text }}</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
+  <section class="bugs-album-section" aria-labelledby="event-albums-title">
+    <h2 id="event-albums-title">Event Recaps</h2>
+    <div class="bugs-album-grid">
+      {% for entry in albums %}
+        {% assign cover = '/assets/images/post/' | append: entry.img %}
+        <article class="bugs-album">
+          <a class="bugs-album-link" href="{{ entry.url | relative_url }}">
+            <div class="bugs-album-cover">
+              {% include bugs-picture.html source=cover alt="" width=720 height=480 loading="lazy" %}
             </div>
-          </div>
-          {% endfor %}
-        </div>
-      </div>
+            <div class="bugs-album-caption">
+              <time datetime="{{ entry.event_date | default: entry.date | date: '%Y-%m-%d' }}">{{ entry.event_date | default: entry.date | date: "%B %Y" }}</time>
+              <h3>{{ entry.title | escape }}</h3>
+            </div>
+          </a>
+        </article>
+      {% endfor %}
     </div>
-    <!-- Container Ends -->
   </section>
-  <!-- Portfolio Section Ends -->
-</div>
+
+  <section class="bugs-album-section" aria-labelledby="photo-archive-title">
+    <h2 id="photo-archive-title">Photo Archive</h2>
+    <div class="bugs-album-grid">
+      {% for photo in site.data.gallery %}
+        {% assign post_photo = '/assets/images/post/' | append: photo.file %}
+        {% assign already_in_recap = false %}
+        {% for entry in albums %}
+          {% if entry.img == photo.file or entry.content contains post_photo %}
+            {% assign already_in_recap = true %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+        {% unless already_in_recap %}
+          {% assign original = '/assets/images/gallery/' | append: photo.file %}
+          {% assign photo_year = photo.file | slice: 0, 4 | plus: 0 %}
+          <article class="bugs-album">
+            <a class="bugs-album-link" href="{{ original | relative_url }}">
+              <div class="bugs-album-cover">
+                {% include bugs-picture.html source=original alt="" width=720 height=480 loading="lazy" %}
+              </div>
+              <div class="bugs-album-caption">
+                {% if photo_year >= 1900 %}<span class="bugs-album-year">{{ photo_year }}</span>{% endif %}
+                <h3>{{ photo.title | strip_html | escape }}</h3>
+              </div>
+            </a>
+            {% if photo.text and photo.text != "" %}
+            <details class="bugs-photo-notes">
+              <summary>Photo notes</summary>
+              <div>{{ photo.text }}</div>
+            </details>
+            {% endif %}
+          </article>
+        {% endunless %}
+      {% endfor %}
+    </div>
+  </section>
+</main>

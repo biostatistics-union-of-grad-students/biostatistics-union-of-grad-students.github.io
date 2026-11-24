@@ -1,0 +1,5 @@
+{%- assign source = include.source -%}
+{%- assign thumbnail_path = source | replace_first: "/assets/images/", "/assets/images/thumbnails/" | append: ".jpg" -%}
+{%- assign thumbnail = site.static_files | where: "path", thumbnail_path | first -%}
+{%- if thumbnail -%}{%- assign source = thumbnail.path -%}{%- endif -%}
+<img src="{{ source | relative_url | escape }}" alt="{{ include.alt | default: '' | escape }}"{% if include.class %} class="{{ include.class }}"{% endif %}{% if include.width %} width="{{ include.width }}" height="{{ include.height }}"{% endif %}{% if include.loading %} loading="{{ include.loading }}" decoding="async"{% endif %}>

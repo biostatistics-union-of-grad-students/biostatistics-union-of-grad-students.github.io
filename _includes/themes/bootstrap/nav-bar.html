@@ -1,50 +1,21 @@
-            <div class="top-menu">
-              <p>
-                <span class="left">
-                  <a href="https://maps.app.goo.gl/dfWwwd16cnwpVnQu6"><i class="fa fa-map-marker"></i>Toronto, Ontario</a>
-                  <!-- <a href="#"><i class="fa fa-mobile-phone"></i>+9 34476 3244</a> -->
-                  <a href="mailto:webmasters.bugs.website@gmail.com"><i class="fa fa-envelope"></i>Webmaster</a>
-              	</span>
-                <span class="right hidden-sm-down">                          
-                  {% if site.author.facebook %}<a href="https://www.facebook.com/{{ site.author.facebook }}/"><i class="fa fa-facebook"></i></a>{% endif %}
-                  {% if site.author.twitter %}<a href="https://twitter.com/{{ site.author.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %}
-                  {% if site.author.linkedin %}<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}/"><i class="fa fa-linkedin"></i></a>{% endif %}
-                  {% if site.author.instagram %}<a href="https://www.instagram.com/{{ site.author.instagram }}/"><i class="fa fa-instagram"></i></a>{% endif %}                            
-              	</span>
-              </p>
-            </div>
-
-            <!-- navbar-default -->
-            <script>
-              $(function() {
-                  $(".dropdown-toggle").hover(
-                    function(){ $(this).collapse({toggle: true}) },
-                    function(){ $(this).collapse({toggle: false}) },
-                  );
-              });
-          </script>
-            <nav class="navbar navbar-toggleable-sm navbar-light bg-default">
-              <div class="container">
-                <a class="navbar-brand" href="{{ site.url }}"><img src="{{ site.url }}/assets/images/logos/DLSPH_logo.png" alt=""></a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1" aria-expanded="false" aria-label="Toggle navigation">
-                  <i class="fa fa-bars"></i>
-                </button>
-                <div class="collapse navbar-collapse justify-content-end" id="navbar1">
-                  <ul class="navbar-nav">
-                    {% assign pages_list = site.pages %}
-                    {% assign group = 'navigation' %}
-                    {% include JB/pages_list %}
-                    <!-- <div class="nav-item dropdown">
-                      <a class="nav-link dropdown-toggle" id="blogDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="blog">Blog</a>
-                      <div class="dropdown-menu" aria-labelledby="blogDropdown">
-                        <a class="dropdown-item" href="blog">All Blogs</a>
-                        <a class="dropdown-item" href="blog?tag=social">Social Events</a>
-                        <a class="dropdown-item" href="blog?tag=defense">Proposal Defenses</a>
-                        <a class="dropdown-item" href="blog?tag=seminar">Seminars</a>
-                        <a class="dropdown-item" href="blog?tag=misc">Misc</a>
-                      </div>
-                    </div> -->
-                  </ul>
-                </div>
-              </div>
-            </nav>
+<a class="bugs-skip-link" href="#bugs-main">Skip to main content</a>
+<header class="bugs-header">
+  <div class="bugs-topbar">
+    <div class="bugs-shell">Biostatistics Union of Graduate Students</div>
+  </div>
+  <div class="bugs-shell bugs-header-inner">
+    <a class="bugs-brand" href="{{ '/' | relative_url }}" aria-label="BUGS home">
+      <img src="{{ '/assets/images/logos/uoft-dlsph-lockup.png' | relative_url }}"
+           alt="University of Toronto, Dalla Lana School of Public Health" width="1100" height="198">
+    </a>
+    {% assign current_path = page.url | remove: '.html' %}
+    {% assign current_section = current_path | remove_first: '/' | split: '/' | first | prepend: '/' | append: '/' %}
+    <nav class="bugs-navigation" aria-label="Main navigation">
+      <ul>
+        {% for item in site.data.navigation %}
+        <li><a href="{{ item.path | relative_url }}"{% if current_path == item.path %} aria-current="page"{% elsif current_section == item.path %} aria-current="location"{% endif %}>{{ item.title | escape }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>
