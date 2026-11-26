@@ -6,7 +6,7 @@ tagline:
 tags : [about, components]
 img :
 img-mobile :
-author :  Larry & Rose, BUGS Co-Presidents
+author: BUGS Executive Team
 css:
 js: about-sample.js
 keywords: components, demo
@@ -46,14 +46,13 @@ keywords: components, demo
 
             <p class="lead"> In addition to social events, BUGS organizes a student-led seminar series that is aimed at
               providing tools that students feel would benefit them. Students are encouraged to suggest ideas for
-              possible seminar topics, as well as to volunteer to present such topics. Our introductory R and SAS
-              seminars, held at the beginning of every school year, are open to all public health graduate students.
+              possible seminar topics, as well as to volunteer to present such topics.
               Since the biostatistics program admits students from a wide spectrum of backgrounds, these seminars aim to
               teach the basic coding skills needed in our program so that no student feels left behind.
 
             <p class="lead"> BUGS wishes everyone a great school year, and hopes to see everyone at the next event!
             </p>
-            <p class="text-right">Abby and Danny, BUGS Co-Presidents</p>
+            <p class="text-right">Emmett and Vera, BUGS Co-Presidents</p>
           </div>
         </div>
        
@@ -69,41 +68,37 @@ keywords: components, demo
 
 
 
-<!-- Team Members 04 -->
-<div class="container mt-5">
-  <div class="team-members-tow mtb-50">
-    <div class="sub-title">
-      <span>Team</span>
-    </div>
-    {% for members in site.data.member %}
-      {% if members.type == "executive"%}
-      <div class="row">
-        {% for member in members.list %}
-        <div class="col-sm-6 col-md-3">
-          <!-- Team Item Starts -->
-          <figure>
-            {% include bugs-profile-image.html member=member %}
-            <div class="image-overlay">
-              <div class="overlay-text text-center">
-                <div class="info-text">
-                  <strong>{{ member.name }}</strong>
-                  <span>{{ member.position }}</span>
-                </div>
-                <hr class="small-divider border-white">
-                <ul class="social-icons">
-                  <li><a href="{{ member.link }}"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-                </ul>
-              </div>
-            </div>
-          </figure>
-          <!-- Team Item Ends -->
-        </div>
-        {% endfor %}
-      {% endif %}
+{% assign executive = site.data.member | where: "type", "executive" | first %}
+{% assign profile_groups = site.data.member | where_exp: "group", "group.type != 'executive'" %}
+{% assign people_profiles = "" | split: "" %}
+{% for group in profile_groups %}
+  {% assign people_profiles = people_profiles | concat: group.list %}
+{% endfor %}
+<section class="container bugs-executive-team" aria-labelledby="executive-team-title">
+  <h2 id="executive-team-title">Biostatistics Union of Graduate Students {{ executive.desc | escape }}</h2>
+  <p class="bugs-executive-term">{{ executive.term | escape }}</p>
+  <div class="bugs-executive-roles">
+    {% for role in executive.roles %}
+      {% assign role_heading = role.title | slugify | prepend: 'executive-' %}
+      <section class="bugs-executive-role" aria-labelledby="{{ role_heading }}">
+        <h3 id="{{ role_heading }}">{{ role.title | escape }}</h3>
+        <ul class="bugs-executive-members">
+          {% for member in role.members %}
+            {% assign profile_name = member.profile_name | default: member.name %}
+            {% assign profile = people_profiles | where: "name", profile_name | first %}
+            {% assign profile_link = profile.link | strip_html | strip %}
+            <li>
+              {% include bugs-profile-image.html member=profile %}
+              {% if profile_link != "" %}
+                <a class="bugs-executive-name" href="{{ profile_link | escape }}">{{ member.name | escape }}</a>
+              {% else %}
+                <span class="bugs-executive-name">{{ member.name | escape }}</span>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
     {% endfor %}
-
-    </div>
   </div>
-</div>
-<!-- End Team Members 04 -->
+</section>
 

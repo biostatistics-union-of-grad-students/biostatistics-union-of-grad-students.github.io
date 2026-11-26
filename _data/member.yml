@@ -676,76 +676,45 @@
 
 - desc: Executive Team
   type: executive
-  list:
-  - file: Abigail_Mcgrory.jpg
-    name: Abigail McGrory
-    position: Co-President
-    link: 'https://www.linkedin.com/in/abigail-mcgrory/'
-
-  - file: Eric_Sanders.jpg
-    name: Eric Sanders
-    position: Treasurer
-    link: 'https://www.linkedin.com/in/eric-sanders1/'    
-
-  - file: Mohammad_Reza_Fahimi.jpg
-    name: Mohammad Reza Fahimi
-    position: Webmaster
-    link: 'https://www.linkedin.com/in/mohammad-reza-fahimi-48a67020b/'
-
-  - file: no_pic.png
-    name: Wendy Shue
-    position: Webmaster
-    link: 'https://www.linkedin.com/in/wendy-shue-0632b522b/'
-
-  - file: Raissa_Shrestha.jpg
-    name: Raissa Shrestha
-    position: Social Committee
-    link: 'https://www.linkedin.com/in/raissa-s/'
-
-  - file: 'Anastasia Teterina.jpg'
-    name: Anastasia Teterina
-    position: Social Committee
-    link: 'https://www.linkedin.com/in/anastasia-teterina-45987972/'
-
-  - file: no_pic.png
-    name: Hanlong Chen
-    position: Seminar Committee
-    link: 'https://www.linkedin.com/in/hanlongchen/'
-    
-  - file: Abhinav_Kansal.JPG
-    name: Abhinav Kansal
-    position: Seminar Committee
-    link: 'https://www.linkedin.com/in/abhinavkansal/'
-
-  - file: no_pic.png
-    name: Johnson Vo
-    position: Seminar Committee
-    link: 'https://www.linkedin.com/in/vojohnson/'
-
-  - file: no_pic.png
-    name: Jianyue Bai
-    position: Fundraising Committee
-    link: 'https://www.linkedin.com/in/jianyue-evelyn-bai/'
-
-  - file: no_pic.png
-    name: Ente Kang
-    position: Fundraising Committee
-    link:
-
-  - file: Aoqi_Xie.JPG
-    name: Aoqi Xie
-    position: PHSA PhD Representative
-    link: 'https://www.linkedin.com/in/aoqi-xie-708811208/'
-
-  - file: no_pic.png
-    name: Mengyao Shi
-    position: PHSA PhD Representative
-    link: 'https://www.linkedin.com/in/mengyao-shi-584b7119a/'
-
-  - file: Yiming_Peng.jpg
-    name: Yiming (Emmett) Peng
-    position: PHSA MSc Representative
-    link: 'https://www.linkedin.com/in/yiming-emmett-peng-b3036b321/'
+  term: 2026–2027
+  roles:
+    - title: Co-Presidents
+      members:
+        - name: Emmett Peng
+        - name: Vera Dai
+          profile_name: Ruixue (Vera) Dai
+    - title: Treasurer
+      members:
+        - name: Abigail McGrory
+    - title: Social Committee
+      members:
+        - name: Joanne Fan
+        - name: Xinyun Tan
+        - name: Qiulei (Leo) Xu
+    - title: Seminars Committee
+      members:
+        - name: Nathan Situ
+        - name: Saru Toor
+        - name: Abhinav Kansal
+        - name: Mona Rosanally
+    - title: Webmasters
+      members:
+        - name: Hanlong Chen
+        - name: Ali Ertugrul
+        - name: Spencer Li
+    - title: Fundraising Group
+      members:
+        - name: Jim Wang
+        - name: Safia Mohammad
+        - name: Liwenjun Zhu
+        - name: Daniel Guo
+    - title: PHSA Ph.D. Representative
+      members:
+        - name: Howell Lu
+        - name: Javier Mencia Ledo
+    - title: PHSA MSc Representative
+      members:
+        - name: Gayatri Upadhyaya
 
 
 
