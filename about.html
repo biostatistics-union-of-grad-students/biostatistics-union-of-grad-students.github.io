@@ -74,29 +74,41 @@ keywords: components, demo
 {% for group in profile_groups %}
   {% assign people_profiles = people_profiles | concat: group.list %}
 {% endfor %}
-<section class="container bugs-executive-team" aria-labelledby="executive-team-title">
-  <h2 id="executive-team-title">Biostatistics Union of Graduate Students {{ executive.desc | escape }}</h2>
-  <p class="bugs-executive-term">{{ executive.term | escape }}</p>
-  <div class="bugs-executive-roles">
+<section class="container mt-5" aria-labelledby="executive-team-title">
+  <div class="team-members-tow mtb-50">
+    <h2 class="sub-title" id="executive-team-title">
+      <span>Biostatistics Union of Graduate Students {{ executive.desc | escape }} {{ executive.term | escape }}</span>
+    </h2>
     {% for role in executive.roles %}
       {% assign role_heading = role.title | slugify | prepend: 'executive-' %}
-      <section class="bugs-executive-role" aria-labelledby="{{ role_heading }}">
-        <h3 id="{{ role_heading }}">{{ role.title | escape }}</h3>
-        <ul class="bugs-executive-members">
+      <section class="mb-4" aria-labelledby="{{ role_heading }}">
+        <h3 class="h5 mb-3" id="{{ role_heading }}">{{ role.title | escape }}</h3>
+        <div class="row">
           {% for member in role.members %}
             {% assign profile_name = member.profile_name | default: member.name %}
             {% assign profile = people_profiles | where: "name", profile_name | first %}
             {% assign profile_link = profile.link | strip_html | strip %}
-            <li>
-              {% include bugs-profile-image.html member=profile %}
-              {% if profile_link != "" %}
-                <a class="bugs-executive-name" href="{{ profile_link | escape }}">{{ member.name | escape }}</a>
-              {% else %}
-                <span class="bugs-executive-name">{{ member.name | escape }}</span>
-              {% endif %}
-            </li>
+            <div class="col-sm-6 col-md-3">
+              <figure>
+                {% include bugs-profile-image.html member=profile %}
+                <figcaption class="image-overlay">
+                  <div class="overlay-text text-center">
+                    <div class="info-text">
+                      <strong>{{ member.name | escape }}</strong>
+                      <span>{{ role.title | escape }}</span>
+                    </div>
+                    {% if profile_link != "" %}
+                      <hr class="small-divider border-white">
+                      <ul class="social-icons">
+                        <li><a href="{{ profile_link | escape }}" aria-label="Profile for {{ member.name | escape }}"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+                      </ul>
+                    {% endif %}
+                  </div>
+                </figcaption>
+              </figure>
+            </div>
           {% endfor %}
-        </ul>
+        </div>
       </section>
     {% endfor %}
   </div>
