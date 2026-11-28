@@ -119,6 +119,12 @@
     year: 
     link: 'https://www.linkedin.com/in/abigail-mcgrory/'
 
+  - file: Javier_Mencia_Ledo.jpg
+    name: Javier Mencia Ledo
+    supervisor: 'Supervisor: Dr. George Tomlinson'
+    research: 'Research Interests: Risk prediction, causal inference'
+    link: 'https://www.linkedin.com/in/javier-mencia-ledo/'
+
   - file: Emmett_Peng.jpg
     name: Emmett Peng
     supervisor: 'Supervisors: Dr. Kuan Liu, Dr. Zihang Lu'
@@ -154,13 +160,6 @@
     research: "Research Interests: Irregularly Observed Longitudinal Data, Survival Analysis"
     link: http://www.linkedin.com/in/george-stefan
 
-  - file: Thai-Son_Tang.jpeg
-    name: Thai-Son Tang
-    supervisor: 'Supervisor: Dr. Olli Saarela'
-    year: 
-    research: 'Research Interests: Causal Mediation Analysis, Functional Data Analysis'
-    link: https://www.linkedin.com/in/thaison-tang
-
   - file: 'Anastasia Teterina.jpg'
     name: Anastasia Teterina
     supervisor: 'Supervisor: Dr. Wendy Lou'
@@ -188,6 +187,11 @@
     year: 
     research: "Research Interests: Survival Analysis, Statistical Genetics"
     link: https://www.linkedin.com/in/shiyao-ying-ssy/
+
+  - file: Peiqing_Yu.jpg
+    name: Peiqing Yu
+    supervisor: 'Supervisors: Kevin Thorpe, Dr. Kuan Liu'
+    research: 'Research Interests: Precision Medicine and Bayesian modelling'
 
   - file: Jasper_zhang.jpg
     name: Zhongyuan (Jasper) Zhang
@@ -239,6 +243,10 @@
     supervisor: 'Practicum Supervisors: Dr. Simona Minotti, Dr. Kerry Kuluski'
     link: 'https://www.linkedin.com/in/spenceryanchenli688/'
 
+  - file: Natalie_Morosin.jpg
+    name: Natalie Morosin
+    supervisor: 'Practicum Supervisors: Jenna Sykes, Dr. Anne Stephenson'
+
   - file: Raissa_Shrestha.jpg
     name: Raissa Shrestha
     supervisor: 
@@ -259,10 +267,20 @@
     year: MSc year 1
     link: 'https://www.linkedin.com/in/soohyun-yoon-94426b211/'
 
+  - file: Yulin_Yuan.jpg
+    name: Yulin Yuan
+    supervisor: 'Practicum Supervisor: Dr. Malcolm Binns'
+    link: 'https://www.linkedin.com/in/yulin-yuan-55b3b12b7'
 
 - desc: PhD Alumni
   type: alumni
   list:
+  - file: Thai-Son_Tang.jpeg
+    name: Thai-Son Tang
+    position: Biostatistician, Toronto General Hospital
+    year: 2027
+    link: 'https://www.linkedin.com/in/thaison-tang'
+
   - file: Rose_Garrett.jpg
     name: Rose Garrett
     position: Senior Statistician, AstraZeneca
@@ -697,6 +715,7 @@
         - name: Saru Toor
         - name: Abhinav Kansal
         - name: Mona Rosanally
+        - name: Safia Mohammad
     - title: Webmasters
       members:
         - name: Hanlong Chen
@@ -705,7 +724,6 @@
     - title: Fundraising Group
       members:
         - name: Jim Wang
-        - name: Safia Mohammad
         - name: Liwenjun Zhu
         - name: Daniel Guo
     - title: PHSA Ph.D. Representative
